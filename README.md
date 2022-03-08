@@ -22,11 +22,11 @@ Description: Extraction of concepts/entities/relationships/topics/time-aware dat
 
 ## References:
 
--   Casseli, Vossen (2017): The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction ([github](https://github.com/tommasoc80/EventStoryLine))
--   Nahatame (2020): Revisiting Second Language Readers' Memory for Narrative Texts: The Role of Causal and Semantic Text Relations
--   van den Broek (1985): Causal Thinking and the Representation of Narrative Events
--   Mostafazadeh, Chambers, He, Parikh, Batra, Vanderwende, Kohli, Allen (2016): ​​A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
--   Dasgupta, Saha, Dey, Naskar (2018): Automatic Extraction of Causal Relations from Text using Linguistically Informed Deep Neural Networks
--   McNamara (2011): Coh-Metrix: An Automated Tool for Theoretical and Applied Natural Language Processing
--   Zwaan, Magliano, Graesser (1995): Dimensions of Situation Model Contruction in Narrative Comprehension
--   Zwaan (1999): Situation Models: The Mental Leap Into Imagined Worlds
+-   Casseli, Vossen (2017): The Event StoryLine Corpus: A New Benchmark for Causal and Temporal Relation Extraction ([github](https://github.com/tommasoc80/EventStoryLine), [pdf](https://aclanthology.org/W17-2711.pdf))
+-   Nahatame (2020): Revisiting Second Language Readers' Memory for Narrative Texts: The Role of Causal and Semantic Text Relations ([pdf](https://www.tandfonline.com/doi/pdf/10.1080/02702711.2020.1768986))
+-   van den Broek (1985): Causal Thinking and the Representation of Narrative Events ([pdf](https://www.researchgate.net/profile/Paul-Van-Den-Broek/publication/222232677_Causal_Thinking_and_the_Representation_of_Narrative_Events/links/59f6f2b2a6fdcc075ec61c75/Causal-Thinking-and-the-Representation-of-Narrative-Events.pdf))
+-   Mostafazadeh, Chambers, He, Parikh, Batra, Vanderwende, Kohli, Allen (2016): ​​A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories ([pdf](https://aclanthology.org/N16-1098.pdf))
+-   Dasgupta, Saha, Dey, Naskar (2018): Automatic Extraction of Causal Relations from Text using Linguistically Informed Deep Neural Networks ([pdf](https://aclanthology.org/W18-5035.pdf))
+-   McNamara (2011): Coh-Metrix: An Automated Tool for Theoretical and Applied Natural Language Processing ([pdf](https://www.researchgate.net/profile/Danielle-Mcnamara/publication/285651904_Coh-Metrix_An_Automated_Tool_for_Theoretical_and_Applied_Natural_Language_Processing/links/5dc45b4b4585151435f2ee91/Coh-Metrix-An-Automated-Tool-for-Theoretical-and-Applied-Natural-Language-Processing.pdf))
+-   Zwaan, Magliano, Graesser (1995): Dimensions of Situation Model Contruction in Narrative Comprehension ([pdf](https://sites.ualberta.ca/~dmiall/LiteraryReading/Readings/Zwann%20Magliano%20Graesser.pdf))
+-   Zwaan (1999): Situation Models: The Mental Leap Into Imagined Worlds ([pdf](https://journals.sagepub.com/doi/pdf/10.1111/1467-8721.00004))
