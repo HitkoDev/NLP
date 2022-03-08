@@ -1,4 +1,3 @@
-
 The Most Dangerous Game			
 
 by Richard Connell			
@@ -8,7 +7,7 @@ It's rather a mystery--"
 
 "What island is it?" Rainsford asked.
 
-"The old charts call it `Ship-Trap Island,"' Whitney replied." A
+"The old charts call it \`Ship-Trap Island,"' Whitney replied." A
 suggestive name, isn't it? Sailors have a curious dread of the place. I
 don't know why. Some superstition--"
 
@@ -399,7 +398,7 @@ not hunted as much, but you perhaps can guess the answer."
 
 "What was it?"
 
-"Simply this: hunting had ceased to be what you call `a sporting
+"Simply this: hunting had ceased to be what you call \`a sporting
 proposition.' It had become too easy. I always got my quarry. Always.
 There is no greater bore than perfection."
 
@@ -923,8 +922,3 @@ One of us is to furnish a repast for the hounds. The other will sleep in
 this very excellent bed. On guard, Rainsford." . . .
 
 He had never slept in a better bed, Rainsford decided. 
-
-
-
-
-

@@ -14,13 +14,13 @@ Extraction of concepts/entities/relationships/topics/time-aware data from novels
 
 ## [Provided English books](https://drive.google.com/drive/folders/1M15GSnqONLrVT0TeLkZ12bVlmHHofPII):
 
--   [Henry Red Chief](./dataset/raw/Henry_Red_Chief.txt)
--   [Hills Like White Elephants](<./dataset/raw/Hills Like White Elephants.txt>)
--   [Leiningen Versus the Ants](./dataset/raw/LeiningenVstheAnts.txt)
--   [The Lady or the Tiger](<./dataset/raw/The Lady or the Tiger Original.txt>)
--   [The Most Dangerous Game](<./dataset/raw/The Most Dangerous Game.txt>)
--   [The Tell-Tale Heart](<./dataset/raw/The Tell Tale Heart.txt>)
--   [The Gift of the Magic Henry](./dataset/raw/the_gift_of_the_magi_0_Henry.txt)
+-   [Henry Red Chief](./dataset/raw/Henry_Red_Chief.md)
+-   [Hills Like White Elephants](<./dataset/raw/Hills Like White Elephants.md>)
+-   [Leiningen Versus the Ants](./dataset/raw/LeiningenVstheAnts.md)
+-   [The Lady or the Tiger](<./dataset/raw/The Lady or the Tiger Original.md>)
+-   [The Most Dangerous Game](<./dataset/raw/The Most Dangerous Game.md>)
+-   [The Tell-Tale Heart](<./dataset/raw/The Tell Tale Heart.md>)
+-   [The Gift of the Magic Henry](./dataset/raw/the_gift_of_the_magi_0_Henry.md)
 
 ## Additional books:
 

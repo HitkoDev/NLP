@@ -1,12 +1,8 @@
-
 THE LADY, OR THE TIGER?
 
 by
 
 Frank R. Stockton
-
-
-
 
 In the very olden time there lived a semi-barbaric king, whose ideas,
 though somewhat polished and sharpened by the progressiveness of
@@ -258,4 +254,3 @@ The question of her decision is one not to be lightly considered, and
 it is not for me to presume to set myself up as the one person able to
 answer it. And so I leave it with all of you: Which came out of the
 opened door,--the lady, or the tiger?
-
