@@ -20,6 +20,7 @@
 %----------------------------------------------------------------------------------------
 \documentclass[fleqn,moreauthors,10pt]{ds_report}
 \usepackage[english]{babel}
+\usepackage{numprint}
 
 \graphicspath{{fig/}}
 
@@ -97,9 +98,9 @@ The field of recognising the content and structure of texts and extracting conte
 
 In the group, we decided to try to analyse different short stories to extract information about the characters who appear in the texts and to find out what kind of relationships these characters are in.
 
-First we found a collection of english short stories and choose a subset of them for training. Then, in the python programming language, we will use libraries such as NLTK, SpaCy, SNER, GATE... to determine which characters appear in the stories. At this stage, it will be necessary to extract the characters' actual names from the text and ensure that the correct numbers of characters and their positions in the text are extracted.
+First, we found a collection of English short stories and chose a subset of them for training. Then, in the python programming language, we will use libraries such as NLTK, SpaCy, SNER, GATE... to determine which characters appear in the stories. At this stage, it will be necessary to extract the characters' actual names from the text and ensure that the correct numbers of characters and their positions in the text are extracted.
 
-In the second part, we will try to make a model that properly connects characters in pairs into family relations. The model should determine whether a couple of characters are in a family relationship and, if so, then determine the type of relation. Due to complexity of the task, we decided not to classify realtions, that are not family related.We thnik that discovering family relations task is complex enoguh.
+In the second part, we will try to make a model that properly connects characters in pairs into family relations. The model should determine whether a couple of characters are in a family relationship and, if so, then determine the type of relation. Due to the complexity of the task, we decided not to classify relations which are not family-related. We think that discovering family relations is a complex enough task.
 
 As part of the task, we will review the models that have already been implemented and, based on the results of the solutions already made, make our own model that would classify as accurately as possible.
 
@@ -110,11 +111,12 @@ As part of the task, we will review the models that have already been implemente
 
 \section*{Existing solutions}
 
-The use of deep neural networks is on the rise in already implemented solutions, but other approaches and combinations of these are also used in models for classifying family relations between persons in the text, such as rule-based approaches, utterance attribution and vocative detection technique and unsupervised approach to the extraction of interpersonal relations are described in the articles, which we intend to take as a basis for further work. \cite{caselli2017event} \cite{nahatame2020revisiting} \cite{trabasso1985causal} \cite{mostafazadeh2016corpus} \cite{dasgupta2018automatic} \cite{mcnamara2012coh} \cite{zwaan1995dimensions} \cite{zwaan1999situation}
+The use of deep neural networks is on the rise in already implemented solutions, but other approaches and combinations of these are also used in models for classifying family relations between persons in the text, such as rule-based approaches, utterance attribution and vocative detection technique and unsupervised approach to the extraction of interpersonal relations are described in the articles, which we intend to take as a basis for further work.
 
 \section*{Relations}
 
 We decided to check if the following relations occur between the character in short stories:
+
 \begin{itemize}
 \itemsep0em
 \item Wife
@@ -142,17 +144,17 @@ We decided to check if the following relations occur between the character in sh
 \item Cousin
 \end{itemize}
 
-This is the broadest family relations model we intend to use. We expect that there will be no need to add new relationships. If the model proves to be too large for our task, some relations can be removed from model.
+Those are the broadest family relations we intend to use. We expect that there will be no need to add new relationships. If the model proves to be too large for our task, some relations can be removed from the model.
 
 \section*{Model}
 
-For extracting and classification family relatins in short stories, we are considering two models: CasRel\cite{wei2020CasRel} and DocuNetl\cite{ijcai2021-551}.
+For extracting and classification family relatins in short stories, we are considering two models: CasRel~\cite{wei2020CasRel} and DocuNetl~\cite{ijcai2021-551}.
 
-CasRel is sentence oriented. This means, that in first step model discovers identities and in second step applies relation specific taggers to simultaneously identify all possible relations and the corresponding object. Relations are represented with relational triples (subject, relation, object). Model takes all subjects in sentence and for each subject iterates through relations and tries to find object, that is in appropriate relation with actual subject. Model implements more holistic approach to relation classification than usual and according to article\cite{wei2020CasRel} it achieved high accuracy on NYT and WebNLG datasets.
+CasRel is sentence oriented. That means that in the first step model discovers identities and in the second step applies relation-specific taggers to identify all possible relations and the corresponding object simultaneously. Relations are represented with relational triples (subject, relation, object). The model takes all subjects in a sentence and, for each subject, iterates through relations and tries to find the object which is in a known relation with the subject. The model implements a more holistic approach to relation classification than usual, and, according to article~\cite{wei2020CasRel}, it achieved high accuracy on NYT and WebNLG datasets.
 
-On the other hand, DocuNET (Document U-shaped Network) is document oriented. This means, that model tries to find relations between entities over all document. According to the article\cite{ijcai2021-551}, above 40,7\% of relations can only be identified by at the document level and model is first approach that uses implements relation extraction as semantic segmentation. Approach is similar than in computer vision, where each pixel is classified in one visual object. On the same principle DocuNET tries to classify two entities in a relation, that is defined.
+On the other hand, DocuNET (Document U-shaped Network) is document-oriented. That means the model tries to find relations between entities over the whole document. According to the article~\cite{ijcai2021-551}, above \numprint{40.7}\% of relations can only be identified at the document level, and this model is the first that implements relation extraction as semantic segmentation. The approach is similar to computer vision, where each pixel is classified into one visual object. On the same principle, DocuNET tries to classify two entities into one of the known relations.
 
-We think that, because of the document level orientation, second model would be more appropriate for our task.
+We think that the second model would be more appropriate for our task because of the document level orientation. However, we're trying to use the first model to aid in annotating the data in preparation for training the final model since annotating all the data by hand would take a lot of time and effort.
 
 
 
