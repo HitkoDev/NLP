@@ -148,7 +148,12 @@ This is the broadest family relations model we intend to use. We expect that the
 
 For extracting and classification family relatins in short stories, we are considering two models: CasRel\cite{wei2020CasRel} and DocuNetl\cite{ijcai2021-551}.
 
-SOME DESCRIPTION OF MODELS
+CasRel is sentence oriented. This means, that in first step model discovers identities and in second step applies relation specific taggers to simultaneously identify all possible relations and the corresponding object. Relations are represented with relational triples (subject, relation, object). Model takes all subjects in sentence and for each subject iterates through relations and tries to find object, that is in appropriate relation with actual subject. Model implements more holistic approach to relation classification than usual and according to article\cite{wei2020CasRel} it achieved high accuracy on NYT and WebNLG datasets.
+
+On the other hand, DocuNET (Document U-shaped Network) is document oriented. This means, that model tries to find relations between entities over all document. According to the article\cite{ijcai2021-551}, above 40,7\% of relations can only be identified by at the document level and model is first approach that uses implements relation extraction as semantic segmentation. Approach is similar than in computer vision, where each pixel is classified in one visual object. On the same principle DocuNET tries to classify two entities in a relation, that is defined.
+
+We think that, because of the document level orientation, second model would be more appropriate for our task.
+
 
 
 %\subsection*{Equations}
