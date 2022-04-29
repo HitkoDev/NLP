@@ -51,7 +51,7 @@
 \affiliation{\textsuperscript{3}\textit{mn3983@student.uni-lj.si, 63130166}}
 
 % Keywords
-\Keywords{story entities, relationship extraction}
+\Keywords{story entities, family relationship extraction, short stories}
 \newcommand{\keywordname}{Keywords}
 
 
@@ -99,7 +99,7 @@ In the group, we decided to try to analyse different short stories to extract in
 
 First we found a collection of english short stories and choose a subset of them for training. Then, in the python programming language, we will use libraries such as NLTK, SpaCy, SNER, GATE... to determine which characters appear in the stories. At this stage, it will be necessary to extract the characters' actual names from the text and ensure that the correct numbers of characters and their positions in the text are extracted.
 
-In the second part, we will try to make a model that properly connects characters in pairs into family relations. The model should determine whether a couple of characters are in a family relationship and, if so, then determine the type of relation. If the model finds that the persons are not in family relation, it will try to determine whether they are in any other relation (friends, business associate) or appear in the text independently of each other.
+In the second part, we will try to make a model that properly connects characters in pairs into family relations. The model should determine whether a couple of characters are in a family relationship and, if so, then determine the type of relation. Due to complexity of the task, we decided not to classify realtions, that are not family related.We thnik that discovering family relations task is complex enoguh.
 
 As part of the task, we will review the models that have already been implemented and, based on the results of the solutions already made, make our own model that would classify as accurately as possible.
 
@@ -111,6 +111,45 @@ As part of the task, we will review the models that have already been implemente
 \section*{Existing solutions}
 
 The use of deep neural networks is on the rise in already implemented solutions, but other approaches and combinations of these are also used in models for classifying family relations between persons in the text, such as rule-based approaches, utterance attribution and vocative detection technique and unsupervised approach to the extraction of interpersonal relations are described in the articles, which we intend to take as a basis for further work. \cite{caselli2017event} \cite{nahatame2020revisiting} \cite{trabasso1985causal} \cite{mostafazadeh2016corpus} \cite{dasgupta2018automatic} \cite{mcnamara2012coh} \cite{zwaan1995dimensions} \cite{zwaan1999situation}
+
+\section*{Relations}
+
+We decided to check if the following relations occur between the character in short stories:
+\begin{itemize}
+\itemsep0em
+\item Wife
+\item Husband
+\item Mother
+\item Father
+\item Daughter
+\item Son
+\item Sister
+\item Brother
+\item Grandmother
+\item Grandfather
+\item Granddaughter
+\item Grandson
+\item Mother-in-law
+\item Father-in-law
+\item Daughter-in-law
+\item Son-in-law
+\item Sister-in-law
+\item Brother-in-law
+\item Aunt
+\item Uncle
+\item Niece
+\item Nephew
+\item Cousin
+\end{itemize}
+
+This is the broadest family relations model we intend to use. We expect that there will be no need to add new relationships. If the model proves to be too large for our task, some relations can be removed from model.
+
+\section*{Model}
+
+For extracting and classification family relatins in short stories, we are considering two models: CasRel\cite{wei2020CasRel} and DocuNetl\cite{ijcai2021-551}.
+
+SOME DESCRIPTION OF MODELS
+
 
 %\subsection*{Equations}
 
