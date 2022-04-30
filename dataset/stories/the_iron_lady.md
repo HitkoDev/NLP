@@ -1,8 +1,4 @@
-The Iron Lady
-By
-Vivian A. Oyugi
 
-CHAPTER ONE
 “Help me! Help me! Woyee! The father of my children, please stop it!
 Please stop it! Am sorry. I won’t repeat it again”, cried Laisita rolling and
 growling in pain, “My husband you will never see me again I promise you,
@@ -41,7 +37,7 @@ Lasita who was the eldest daughter of the family. Elders would stream their
 home day and night wanting her hand in marriage but his father would deny
 over and over again.
 
-One day the elders met in private and decided to come up with a plan to kill
+One day the elders met in private and decided to come up with a plan to kill
 Mr. Mawele and his two younger sons, since they were the only standing
 block between them and the girls. They hired Samburu warriors to do the dirty
 job for them telling them that the land that the man owned was to be divided
@@ -83,7 +79,7 @@ nothing to say but to agree with the elders or face the consequence of being
 excommunicated. The council of elders had always the last say. In those days
 anything that a man said had no objection and was to be followed to the latter.
 
-The marriage ceremony took place and she was sent packing to her husband’s
+The marriage ceremony took place and she was sent packing to her husband’s
 place. The amazing thing was that Mr. Mambo’s heart was so soft on Laisita.
 He termed her as his jewel because of her beauty that complemented her light
 skin. Laisita used to cry every day blaming his late father and the heavens for
@@ -126,7 +122,7 @@ realize. Unlucky was she that her husband followed her and he gave her a
 thorough beating asking her why she defied his authority. Laisita stayed home
 for some days nursing her injuries. After a few weeks she started going back
 
-to the camp. Her other co-wives tried to warn her but there warning fell on
+to the camp. Her other co-wives tried to warn her but there warning fell on
 deaf ears. One day when she left the camp hurrying home she found her
 husband waiting for her in her manyatta. “Where are you from?,” her husband
 asked shouting at her.
@@ -168,7 +164,7 @@ back the hands of time she would change on her approach to life itself. Her
 mother regretted on how she used to stay at home and just wait for their late
 father Mr. Mawele to cater for everything in the house.
 
-“If I was working, even if your father had lost his job I would have
+“If I was working, even if your father had lost his job I would have
 managed to take care of you and your siblings even if it meant struggling but
 we were together as a family. But the fact that I was a house wife there was
 nothing I would have done,” her mother said, “Since am here I have decided
@@ -211,7 +207,7 @@ realized that time is not on her side and she did not want to give her husband
 the impression that anything was going down so she immediately gave in.
 Grace was really anxious because she did not know if Laisita will make it at
 
-the bus terminal on time or not. This was the only opportunity for young
+the bus terminal on time or not. This was the only opportunity for young
 Laisita to make a life for her and her children. “Vuuuum! Vuuuum!,” the bus
 driver started the engines and Grace lost all hope. When the bus was living the
 terminal fortunately Grace looked back and saw Laisita hurrying towards the
@@ -225,7 +221,6 @@ their journey started. It was a long journey to the city and Laisita was so
 exhausted because it had been long since she last travelled to search a distant
 place.
 
-CHAPTER TWO
 “Coookorocoooo!” The cock crowed in the morning, Mr. Mambo woke up
 and went to search for his beloved wife. He wanted Laisita to make him
 breakfast that morning. Shock on him when he called out but there was no
@@ -250,7 +245,7 @@ husbands’ attention, but Mr. Mambo was determined to have Laisita back.
 One of the elders asked, “Did you see her yesterday night?” “Yes I was
 with her at night it was her turn to lay with me and after that I took her to her
 
-manyatta and she closed the door after me and I went to my manyatta to sleep.
+manyatta and she closed the door after me and I went to my manyatta to sleep.
 I did not notice anything unusual and I am still shocked that she carried the
 babies and also took some of their clothes with her,” Mr. Mambo replied.
 Mambo loved Laisita so much because she was still young, beautiful and
@@ -292,7 +287,7 @@ best dishes my husbands.” “We are here not for pleasure but for serious
 business,” one of the elders lashed out, “How have you trained your daughter?
 Is that what you were taught by your own parents?” “My husband’s I don’t
 
-understand why are you insulting me?” Mrs. Mawele asked looking at
+understand why are you insulting me?” Mrs. Mawele asked looking at
 Mambo. Mambo was so furious and he was just looking around the house like
 he was searching for something.
 The elders then explained to Mrs.Mawele that her daughter had gone
@@ -333,7 +328,7 @@ She never imagined that life would be this good considering how she had
 struggled in the past. She often remembered her mother by sending her money
 through letters that were to be delivered by bus drivers who used to pass near
 
-their home on their way to Nairobi. Laisita also knew that her husband Mr.
+their home on their way to Nairobi. Laisita also knew that her husband Mr.
 Mambo was still looking for her and that he was now the Member of
 Parliament from her constituency back at home. Laisita could not even travel
 back to see her mother because she knew that if Mr. Mambo got wind that she
@@ -357,7 +352,6 @@ paying all the bills of the house and buying clothes for them. Laisita also hire
 a detective to go look for her lost two sisters, Laito and Ellena. They just
 prayed and hoped with their mother that the two were not dead.
 
-CHAPTER THREE
 In our mother tongue we normally say, “Mountains don’t meet but people
 do” the world is indeed a small place. One day when Laisita was on duty she
 heard someone who sounded exactly like her husbands’ voice. She did not
@@ -371,7 +365,7 @@ a three day conference at the hotel. She asked why she was not informed but
 the receptionist told her that she had given her the memo that had been made.
 When Laisita recalled the specific date it dawned on her that the same day was
 
-the day she got rained on and all her books and documents were so wet that
+the day she got rained on and all her books and documents were so wet that
 the ink on them had faded so she decided to discard them. “Damn! Why didn’t
 I ask for the documents again at least I would have aligned my offs with the
 function or even taken a sick leave.” She told her herself. She then rushed to
@@ -413,7 +407,7 @@ Sneaking out was not easy but fruitfully they managed to escape through
 the back door of the hotel and they paid the watchman for his assistance. They
 also had to walk quite a distance from the hotel to get a bus because unlike the
 
-front way where buses would pass in front of the hotel the back gate was quite
+front way where buses would pass in front of the hotel the back gate was quite
 deserted. On arriving home, they were too exhausted that they immediately
 took their showers had dinner and retired to bed. The whole night Laisita
 wondered what she would do if they met face to face. But she gathered
@@ -455,7 +449,7 @@ happy to see them.
 Lolo and Lee were doing so well in school they had grown so big and they
 were now in their second grade. Their mother was so happy because the two
 
-were top perform ace in their classes. One day Lee who is self spoken asked
+were top perform ace in their classes. One day Lee who is self spoken asked
 his mother, “Mum! Other children have two parents why do we only have
 one?” His mother was dumb founded and she did not know what to tell him.
 Laisitas mother jumped to her rescue and told the boy that they had a dad but
@@ -482,7 +476,7 @@ Mrs. Mawele told her daughter that if her father was alive he would have been
 the happiest man on this planet and that despite the hard time and trials his
 daughter conquered above all odds.
 
-CHAPTER FOUR
+
 After three months Mrs. Mawele left for the village. She was her daughters’
 pillar of strength but she had to live and let her conquer her fears alone. Laisita
 also saw it fit for her to go back to the village and give back to society as
@@ -494,7 +488,7 @@ form of life she had to find a way to help their women to better themselves.
 She knew that the key was to educate the women since the women are
 normally the pillar of the community. Giving girls’ knowledge is like
 
-educating the whole community. Laisita knew that this was the hardest battle
+educating the whole community. Laisita knew that this was the hardest battle
 to conquer but she prepared fully. She looked for NGOs that dwelt with
 women by helping to teach them how to saw, make bead work and also on
 health issues like family planning methods and safe delivery. She did all this
@@ -536,7 +530,7 @@ wasted precious time asking questions and they couldn’t wait to go meet their
 mother and see what was in store for them.
 “Welcome everyone to this glorious occasion. As your leader am the most
 
-happiest of you all because today marks the day that our constituency
+happiest of you all because today marks the day that our constituency
 graduates from being a boy to a man. I have been waiting for this day and
 today’s’ occasion will serve as a landmark for the development of our
 community. We have toiled, labored and seen our fruits grow but today we
@@ -578,7 +572,7 @@ was she left the place when she was just a teen and twelve years later she
 comes to town as a grown,beautiful,eduated and prosperous woman. Many
 people would refer to her as a lady of substance.
 
-“Thank you my people,” Laisita spoke eloquently with a soft calm voice,
+“Thank you my people,” Laisita spoke eloquently with a soft calm voice,
 “Am and still is a daughter of this community. I have been through tough,
 temptations, trials and name them all hardship. It was not easy for me but I
 had to come through for my beautiful twins.” Whispers were heard all through
@@ -621,7 +615,7 @@ our families and we cannot do this alone. We are appealing to all men to come
 and help us to rise up as one. No circumcision for the girl child, no more lack
 of education for our children we should forger ahead for a brighter tomorrow.
 
-Accepting change does not mean that our culture will be eroded forever we
+Accepting change does not mean that our culture will be eroded forever we
 want a better today, tomorrow and the future of a well educated community.
 We have lost our men, our young boys and even women and children in
 raids.Circumsiton has also taken away our young girls because others die due
@@ -662,7 +656,6 @@ was in his power to increase the well being of his people whether he was to be
 elected for a second term or not. Provided he left a mark on his community
 was all he cared for.
 
-CHAPTER FIVE
 After the function Laisita meet with her husband one on one. As old as he
 was he was still playful with her forgetting that she was now a grown lady.
 They talked in length of why she decided to leave without informing him and
@@ -701,7 +694,7 @@ that they learnt with comfort.
 They also went ahead to open up dispensaries’ in every locality for easier
 access of medical attention and also to stop the menace of sick people walking
 
-to farfetched areas to search for medical provisions in which in most cases
+to farfetched areas to search for medical provisions in which in most cases
 almost all the patients died, firstly due to lack of money because some hospital
 demanded for money before anything is done to the patient. The presidents
 first lady also came up with the idea of the beyond zero campaign. This is
@@ -744,7 +737,7 @@ to red because it was soaked with blood. Laisita had lost all hope in life. This
 was the same man who destroyed her life but gave her ten folds more. She had
 learnt to love him the way he was. He reformed for the better and who said
 
-age cannot love because age to her was just but a number. The policemen
+age cannot love because age to her was just but a number. The policemen
 came and took over the scene of the crime they promised to carry out the
 necessary investigations but Laisita knew it was just a way to cover their
 tracks.
@@ -780,8 +773,3 @@ Laisita won the election not with a land slide but with a margin that no one has
 ever broke the record till date. She stands out not only by actions but by her
 wise wisdom with words. She had the “it factor” and am till today searching
 for her replacement. This is the story of the “iron lady.”
-
-Liked This Book?
-For More FREE e-Books visit Freeditorial.com
-
-

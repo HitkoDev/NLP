@@ -1,8 +1,4 @@
-The Canterville Ghost
-By
-Oscar Wilde
-
-I
+I
 When Mr. Hiram B. Otis, the American Minister, bought Canterville
 Chase, every one told him he was doing a very foolish thing, as there was no
 doubt at all that the place was haunted. Indeed, Lord Canterville himself, who
@@ -40,7 +36,7 @@ A few weeks after this, the purchase was concluded, and at the close of the
 season the Minister and his family went down to Canterville Chase. Mrs. Otis,
 who, as Miss Lucretia R. Tappan, of West 53d Street, had been a celebrated
 
-New York belle, was now a very handsome, middle-aged woman, with fine
+New York belle, was now a very handsome, middle-aged woman, with fine
 eyes, and a superb profile. Many American ladies on leaving their native land
 adopt an appearance of chronic ill-health, under the impression that it is a form
 of European refinement, but Mrs. Otis had never fallen into this error. She had
@@ -82,7 +78,7 @@ they alighted, and said in a quaint, old-fashioned manner, "I bid you welcome
 to Canterville Chase." Following her, they passed through the fine Tudor hall
 into the library, a long, low room, panelled in black oak, at the end of which
 
-was a large stained glass window. Here they found tea laid out for them, and,
+was a large stained glass window. Here they found tea laid out for them, and,
 after taking off their wraps, they sat down and began to look round, while Mrs.
 Umney waited on them.
 Suddenly Mrs. Otis caught sight of a dull red stain on the floor just by the
@@ -121,7 +117,7 @@ Otis to beware of some trouble coming to the house.
 "I have seen things with my own eyes, sir," she said, "that would make any
 Christian's hair stand on end, and many and many a night I have not closed my
 
-eyes in sleep for the awful things that are done here." Mr. Otis, however, and
+eyes in sleep for the awful things that are done here." Mr. Otis, however, and
 his wife warmly assured the honest soul that they were not afraid of ghosts,
 and, after invoking the blessings of Providence on her new master and
 mistress, and making arrangements for an increase of salary, the old
@@ -161,7 +157,7 @@ awakened by a curious noise in the corridor, outside his room. It sounded like
 the clank of metal, and seemed to be coming nearer every moment. He got up
 at once, struck a match, and looked at the time. It was exactly one o'clock. He
 
-was quite calm, and felt his pulse, which was not at all feverish. The strange
+was quite calm, and felt his pulse, which was not at all feverish. The strange
 noise still continued, and with it he heard distinctly the sound of footsteps. He
 put on his slippers, took a small oblong phial out of his dressing-case, and
 opened the door. Right in front of him he saw, in the wan moonlight, an old
@@ -203,7 +199,7 @@ sceptic, Monsieur de Voltaire. He remembered the terrible night when the
 wicked Lord Canterville was found choking in his dressing-room, with the
 knave of diamonds half-way down his throat, and confessed, just before he
 
-died, that he had cheated Charles James Fox out of £50,000 at Crockford's by
+died, that he had cheated Charles James Fox out of £50,000 at Crockford's by
 means of that very card, and swore that the ghost had made him swallow it.
 All his great achievements came back to him again, from the butler who had
 shot himself in the pantry because he had seen a green hand tapping at the
@@ -243,7 +239,7 @@ and once when they came down for family prayers, according to the simple
 rites of the Free American Reformed Episcopalian Church, they found it a
 bright emerald-green. These kaleidoscopic changes naturally amused the party
 
-very much, and bets on the subject were freely made every evening. The only
+very much, and bets on the subject were freely made every evening. The only
 person who did not enter into the joke was little Virginia, who, for some
 unexplained reason, was always a good deal distressed at the sight of the
 blood-stain, and very nearly cried the morning it was emerald-green.
@@ -284,7 +280,7 @@ if for no more sensible reason, at least out of respect for their natural poet
 Longfellow, over whose graceful and attractive poetry he himself had whiled
 away many a weary hour when the Cantervilles were up in town. Besides it
 
-was his own suit. He had worn it with great success at the Kenilworth
+was his own suit. He had worn it with great success at the Kenilworth
 tournament, and had been highly complimented on it by no less a person than
 the Virgin Queen herself. Yet when he had put it on, he had been completely
 overpowered by the weight of the huge breastplate and steel casque, and had
@@ -326,7 +322,7 @@ quite equal to his famous part of "Martin the Maniac, or the Masked Mystery."
 At half-past ten he heard the family going to bed. For some time he was
 disturbed by wild shrieks of laughter from the twins, who, with the light-
 
-hearted gaiety of schoolboys, were evidently amusing themselves before they
+hearted gaiety of schoolboys, were evidently amusing themselves before they
 retired to rest, but at a quarter-past eleven all was still, and, as midnight
 sounded, he sallied forth. The owl beat against the window-panes, the raven
 croaked from the old yew-tree, and the wind wandered moaning round the
@@ -369,7 +365,7 @@ that, after all, two ghosts were better than one, and that, by the aid of his ne
 friend, he might safely grapple with the twins. On reaching the spot, however,
 a terrible sight met his gaze. Something had evidently happened to the spectre,
 
-for the light had entirely faded from its hollow eyes, the gleaming falchion had
+for the light had entirely faded from its hollow eyes, the gleaming falchion had
 fallen from its hand, and it was leaning up against the wall in a strained and
 uncomfortable attitude. He rushed forward and seized it in his arms, when, to
 his horror, the head slipped off and rolled on the floor, the body assumed a
@@ -406,7 +402,7 @@ the last four weeks was beginning to have its effect. His nerves were
 completely shattered, and he started at the slightest noise. For five days he
 kept his room, and at last made up his mind to give up the point of the blood-
 
-stain on the library floor. If the Otis family did not want it, they clearly did not
+stain on the library floor. If the Otis family did not want it, they clearly did not
 deserve it. They were evidently people on a low, material plane of existence,
 and quite incapable of appreciating the symbolic value of sensuous
 phenomena. The question of phantasmic apparitions, and the development of
@@ -449,7 +445,7 @@ expression in connection with one of the greatest mysteries of the
 supernatural, or, to employ a more scientific term, the higher-natural world,
 and it took him fully three hours to make his preparations. At last everything
 
-was ready, and he was very pleased with his appearance. The big leather
+was ready, and he was very pleased with his appearance. The big leather
 riding-boots that went with the dress were just a little too large for him, and he
 could only find one of the two horse-pistols, but, on the whole, he was quite
 satisfied, and at a quarter-past one he glided out of the wainscoting and crept
@@ -491,7 +487,7 @@ fortunately for him, was not lit, and had to make his way home through the
 flues and chimneys, arriving at his own room in a terrible state of dirt,
 disorder, and despair.
 
-After this he was not seen again on any nocturnal expedition. The twins lay
+After this he was not seen again on any nocturnal expedition. The twins lay
 in wait for him on several occasions, and strewed the passages with nutshells
 every night to the great annoyance of their parents and the servants, but it was
 of no avail. It was quite evident that his feelings were so wounded that he
@@ -532,7 +528,7 @@ however, his terror of the twins prevented his leaving his room, and the little
 Duke slept in peace under the great feathered canopy in the Royal
 Bedchamber, and dreamed of Virginia.
 
-V
+V
 A few days after this, Virginia and her curly-haired cavalier went out riding
 on Brockley meadows, where she tore her habit so badly in getting through a
 hedge that, on their return home, she made up her mind to go up by the back
@@ -570,7 +566,7 @@ though I did kill her."
 "Starve you to death? Oh, Mr. Ghost—I mean Sir Simon, are you hungry?
 I have a sandwich in my case. Would you like it?"
 
-"No, thank you, I never eat anything now; but it is very kind of you, all the
+"No, thank you, I never eat anything now; but it is very kind of you, all the
 same, and you are much nicer than the rest of your horrid, rude, vulgar,
 dishonest family."
 "Stop!" cried Virginia, stamping her foot, "it is you who are rude, and
@@ -609,7 +605,7 @@ candle. It is very difficult sometimes to keep awake, especially at church, but
 there is no difficulty at all about sleeping. Why, even babies know how to do
 that, and they are not very clever."
 
-"I have not slept for three hundred years," he said sadly, and Virginia's
+"I have not slept for three hundred years," he said sadly, and Virginia's
 beautiful blue eyes opened in wonder; "for three hundred years I have not
 slept, and I am so tired."
 Virginia grew quite grave, and her little lips trembled like rose-leaves. She
@@ -645,7 +641,7 @@ Then shall all the house be still
 And peace come to Canterville.'
 But I don't know what they mean."
 
-"They mean," he said, sadly, "that you must weep with me for my sins,
+"They mean," he said, sadly, "that you must weep with me for my sins,
 because I have no tears, and pray with me for my soul, because I have no faith,
 and then, if you have always been sweet, and good, and gentle, the angel of
 death will have mercy on me. You will see fearful shapes in darkness, and
@@ -684,7 +680,7 @@ the house. At half-past six the boys came back and said that they could find no
 trace of their sister anywhere. They were all now in the greatest state of
 excitement, and did not know what to do, when Mr. Otis suddenly
 
-remembered that, some few days before, he had given a band of gipsies
+remembered that, some few days before, he had given a band of gipsies
 permission to camp in the park. He accordingly at once set off for Blackfell
 Hollow, where he knew they were, accompanied by his eldest son and two of
 the farm-servants. The little Duke of Cheshire, who was perfectly frantic with
@@ -726,7 +722,7 @@ gipsies had been caught on Brockley meadows, but she was not with them,
 and they had explained their sudden departure by saying that they had
 mistaken the date of Chorton Fair, and had gone off in a hurry for fear they
 
-should be late. Indeed, they had been quite distressed at hearing of Virginia's
+should be late. Indeed, they had been quite distressed at hearing of Virginia's
 disappearance, as they were very grateful to Mr. Otis for having allowed them
 to camp in his park, and four of their number had stayed behind to help in the
 search. The carp-pond had been dragged, and the whole Chase thoroughly
@@ -767,7 +763,7 @@ for all that he had done, and he gave me this box of beautiful jewels before he
 died."
 The whole family gazed at her in mute amazement, but she was quite grave
 
-and serious; and, turning round, she led them through the opening in the
+and serious; and, turning round, she led them through the opening in the
 wainscoting down a narrow secret corridor, Washington following with a
 lighted candle, which he had caught up from the table. Finally, they came to a
 great oak door, studded with rusty nails. When Virginia touched it, it swung
@@ -805,7 +801,7 @@ by the ghost for more than fifty years of her life, she had a right to see the l
 of him. A deep grave had been dug in the corner of the churchyard, just under
 the old yew-tree, and the service was read in the most impressive manner by
 
-the Rev. Augustus Dampier. When the ceremony was over, the servants,
+the Rev. Augustus Dampier. When the ceremony was over, the servants,
 according to an old custom observed in the Canterville family, extinguished
 their torches, and, as the coffin was being lowered into the grave, Virginia
 stepped forward, and laid on it a large cross made of white and pink almondblossoms. As she did so, the moon came out from behind a cloud, and flooded
@@ -845,7 +841,7 @@ Athens."
 Lord Canterville listened very gravely to the worthy Minister's speech,
 pulling his grey moustache now and then to hide an involuntary smile, and
 
-when Mr. Otis had ended, he shook him cordially by the hand, and said: "My
+when Mr. Otis had ended, he shook him cordially by the hand, and said: "My
 dear sir, your charming little daughter rendered my unlucky ancestor, Sir
 Simon, a very important service, and I and my family are much indebted to her
 for her marvellous courage and pluck. The jewels are clearly hers, and, egad, I
@@ -888,7 +884,7 @@ finally it had been decided to engrave on it simply the initials of the old
 gentleman's name, and the verse from the library window. The Duchess had
 brought with her some lovely roses, which she strewed upon the grave, and
 
-after they had stood by it for some time they strolled into the ruined chancel of
+after they had stood by it for some time they strolled into the ruined chancel of
 the old abbey. There the Duchess sat down on a fallen pillar, while her
 husband lay at her feet smoking a cigarette and looking up at her beautiful
 eyes. Suddenly he threw his cigarette away, took hold of her hand, and said to
@@ -907,4 +903,3 @@ The Duke rose and kissed his wife lovingly.
 "And you will tell our children some day, won't you?"
 Virginia blushed.
 
-

@@ -1,59 +1,3 @@
-FAMILY
-
-RESEMBLANCES
-
-a novel by
-
-Lowry Pei
-
-Family Resemblances
-by Lowry Pei
-First published by Random House in 1986; Vintage paperback, 1988.
-Now licensed under a Creative Commons license (attribution-noncommercial-no
-derivative works). Some rights reserved. This work may be freely copied, redistributed,
-and retransmitted, as long as you attribute its authorship to me. You may not use it for
-commercial purposes, nor alter, transform, or build upon it without my express written
-permission.
-You may view the full license via this link: http://creativecommons.org/licenses/by-ncnd/3.0/
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER ONE
-
 On the hottest days, my Aunt Augusta would drive around
 New Franklin with the windows rolled up, so that people would think
 the air conditioning still worked in the Buick she had inherited along
@@ -82,45 +26,6 @@ self-consciousness. Having touched me there and elsewhere a number
 of times he gradually ceased to call me up, and I became – dramatic. I
 moped extravagantly, talking on the phone all evening to my best
 friend Jeanette Markey, sleeping till one o’clock, playing the same 45’s
-
-1
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 until no one could have made out the words but me. My father seemed
 nonplussed; this kind of bereavement left him nothing to say, even if I
@@ -164,44 +69,7 @@ the funeral – almost nothing was changed; different mail lay on the
 front hall radiator, a different coat hung from the coat-rack, but that
 was all. Only gradually did the old patterns lose their grip, the
 
-2
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 furniture shift and ebb, banished to the attic and basement, sold in
 garage sales and given away to the thrift shop, boxes of mementoes
@@ -244,44 +112,7 @@ contact, and a cloud of steam blew across us from under the train and
 made it hotter still. “Phewkes,” she said, like someone out of a
 Wodehouse book – I had always thought the word was “Fuchs” until I
 
-3
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 read Leave It to Psmith – and once again I was back to family. “The train
 was nice and cool,” I said inanely.
@@ -324,44 +155,7 @@ Midwestern town bisected by the B & O tracks with one main street
 parallel to the railroad and another one at right angles to it, where
 “Department Store” meant dry goods and shoes and “downtown”
 
-4
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 meant those three or four blocks along the tracks. Anyone could list the
 stores without even visiting the town: grocery, tavern, dry goods,
@@ -405,44 +199,7 @@ carry up to the attic – for all but two weeks of the year, that was where
 the Christmas ornaments were kept. I could have drawn every room in
 the place from memory – could nearly have placed every single object:
 
-5
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 an anvil had sat, for no reason, on the floor of the pantry all my life,
 and I had tried and failed, on every visit, to pick it up.
@@ -486,44 +243,7 @@ The kitchen was brighter than the front of the house; the shades
 were not fully drawn. I noticed that the old wallpaper had finally been
 replaced, and wondered – my mother’s daughter – how she could
 
-6
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 afford it. Augusta handed me a glass of iced tea. For a second we
 didn’t know what to do with ourselves; then we sat down at the
@@ -564,44 +284,7 @@ no, wait, I wasn’t going to talk about that, was I?”
 “I’ll tell you later.” She looked down at me from her superior
 height of five foot nine. “What do you want for dinner?”
 
-7
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 At dinner, Augusta poured me a glass of wine without any
 comment, and I could have kissed her on both cheeks. Perhaps it made
@@ -644,44 +327,7 @@ glass of wine and finished the steaks, and this time I listened while she
 told me what she had been doing since school let out. She seemed to
 have very little notion of entertaining me – apparently I had missed my
 
-8
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 chance on the ride home. I tried to feel that self-reliance would be good
 for my character, but the house was big, and we didn’t seem like
@@ -703,46 +349,7 @@ without looking around. “And maybe you should call your mother.”
 Then she sat down and began to read. It was like being a child all over
 again, when the adults don’t seem to know you’re really there.
 
-9
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER TWO
 
 Later that night I discovered at last how Augusta stayed so thin
 no matter what she ate: she didn’t sleep. At that peculiar hour when
@@ -772,44 +379,7 @@ talking to her office on the phone and my father, like everyone else on
 Forest View, mowing the lawn. Children would be practicing pianos in
 nearby houses, kids on bicycles would be racing each other and yelling
 
-10
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 about the result, burning up a thousand calories a minute, the whole
 din making me feel as if all of Evanston would look at me over its
@@ -853,44 +423,7 @@ night, I wanted to ask, but as soon as I started it sounded rude.
 “What?” She had started cultivating again.
 “I slept fine, thanks.”
 
-11
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Have you had breakfast yet?”
 “No.” I had been wondering if I should start right in weeding.
@@ -933,44 +466,7 @@ adults, just as children have their secret life that no one else can know.
 had this boyfriend who lived about three blocks from here, on Lincoln
 – I could show you the house but it doesn’t matter. As soon as he got to
 
-12
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 be old enough, he enlisted; that’s what people do in towns like this.
 Everything was very important then. Now everybody seems to think
@@ -1013,44 +509,7 @@ on the edge of her plate, watching the point of impact.
 “I’m corrupting you,” she said at last, tapping.
 “You’re not.”
 
-13
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 She set down the knife. “Karen – cynicism is a terrible thing. So
 long as you understand that; no matter what I may sound like, okay?”
@@ -1077,46 +536,7 @@ somebody practicing a piano in the distance. They were comforting;
 they saved me from thinking about the things Augusta told me that I
 didn’t entirely want to hear.
 
-14
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER THREE
 
 Sometimes I wondered if it was right for Augusta to tell me the
 things she did, as we sat in the kitchen in the evenings. There was
@@ -1147,44 +567,6 @@ threw myself off a bridge. Anyway, it was almost as though it hadn’t
 happened, or like a strange experience that could only happen once. It
 wasn’t much fun anyway, not that first time – for one thing, we were in
 
-15
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 a car, for God’s sake.” She ran a finger around her dish and licked it.
 “Do people still do that these days, or are things getting less barbaric?”
@@ -1227,44 +609,7 @@ I was still his girlfriend and punching Allan’s face in. To him the word
 Jew was nothing but an insult.”
 “He didn’t do that, did he?”
 
-16
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “No. He called me some nasty things and then stopped
 speaking to me.” Looking at her face I thought, not for the first time,
@@ -1306,44 +651,7 @@ focus for her as me, Karen, her niece.
 sardonically on the word “lovely.”
 I leaned forward. “Divine.”
 
-17
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Maybe, I thought after Augusta had gone upstairs to watch a
 baseball game on TV, the problem was that at home we never talked
@@ -1387,44 +695,7 @@ in front of my friends; “My name is Karen,” I would say through my
 teeth, and he would just smirk and tell me to be in by eleven at the
 latest.
 
-18
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Miss,” he said one Saturday the summer before Augusta, when
 I was about to ask him for a ride to Jeanette’s, “let’s go to Loyola
@@ -1468,44 +739,8 @@ a lot of respect for a good hot dog.
 round. ”Well, what?”
 “Have you ever wished you had a sister?”
 
-19
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I felt choked; he sat staring peaceably over the steering wheel,
 out at the blue-gray lake. “Is Mom pregnant?” I finally managed.
@@ -1550,43 +785,7 @@ always call us.”
 “Okay.” I started to get out.
 
 20
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Hey, Miss?”
 “My name’s Karen, Daddy.” My right foot was getting rained
@@ -1606,43 +805,7 @@ way to Yellowstone to sleep in a tent?”
 I left the room. “God.”
 
 21
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 CHAPTER FOUR
 
@@ -1675,43 +838,7 @@ them do it, letting them do it, telling them to stop . . . exactly what they
 might do if I didn’t stop them was never clear, which gave it a sort of
 
 22
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 wonder and horror, and I had no idea how I could ever be the cause of
 something so important.
@@ -1753,44 +880,7 @@ a woman now, kid,” my mother had told me not long before I left, but
 all I could think was, Don’t you hear what you just said? It was worse
 than ridicule, her imagining either of us could be fooled by words like
 
-23
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 that. Must have showed on my face. I could read hers: Impossible
 child, she acts as though I hate her, and why?
@@ -1833,44 +923,7 @@ The Buick looked much longer than the last time I’d seen it.
 around the parking lot.” Augusta said. She did not roll down the
 windows.
 
-24
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 On the way across town I sweated and watched her, hoping to
 pick up a few clues before it was too late. Augusta drove in an almost
@@ -1914,44 +967,7 @@ creep forward.
 “It’s moving,” I said, clutching the wheel.
 “Step on the brake.”
 
-25
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I hit the broad pedal and sent a jolt through the car.
 “It’s got power brakes, you don’t have to press that hard.” Now
@@ -1993,44 +1009,7 @@ could kind of lighten up the next time you do it, though.” She reached
 over and moved the shift lever to Park. “You can take your foot off the
 brake. Now, this time I want you to turn to the left and keep turning
 
-26
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 until we’re heading back the way we came. Maybe that’ll be easier than
 going straight anyway. You remember how to put it in Drive?”
@@ -2073,44 +1052,7 @@ the windows up all the way home.
 Augusta said later on, after dinner. I tried in vain to imagine them,
 Augusta a kid, probably skinny and awkward, my mother twenty-one,
 
-27
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 unmarried, not yet my mother. “She’d just graduated from
 Northwestern and thought she was a really big deal. So did I, for that
@@ -2153,44 +1095,7 @@ back to town and got a tow truck to come and pull us out of the ditch.
 When he asked her what happened, she said she was trying to pull
 over and just went too far.
 
-28
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “The front fender was a little bent on the right side, and besides,
 you can’t keep anything a secret around here. Dad went to grade
@@ -2222,46 +1127,7 @@ that. All I could think was I didn’t want to grow up and get that way.”
 “And?” We inspected each other, wary.
 “See for yourself,” Augusta said, but I couldn’t. Not just yet.
 
-29
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER FIVE
 
 It had been two weeks; I discovered that when my mother
 called and reminded me that they expected to hear from me now and
@@ -2292,44 +1158,7 @@ to talk to her again?” Where was Augusta, anyway?
 “Of course.”
 “Bye, Mom.”
 
-30
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Bye-bye, Karen.”
 I listened to the sound of her hanging up, picturing my mother
@@ -2373,44 +1202,7 @@ Franklin where could I be?
 I could hear Augusta sloshing bath water upstairs, a homey
 enough sound in itself, but I knew she never took baths – only
 
-31
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 five-minute showers – and she never stopped working at eleven
 o’clock in the morning except maybe to drink a glass of iced tea and
@@ -2454,44 +1246,7 @@ wondered how you are.”
 I didn’t know the answer to his question, but that was the last
 thing I could admit. My father put his arm around me without looking
 
-32
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 at me; his hand was big enough to surround my shoulder. He took a
 deliberate grip – it was something he had only recently begun doing –
@@ -2535,44 +1290,7 @@ squeezing out the sides. There was an old, probably forgotten end of a
 braunschweiger in the back of the refrigerator, and I placed it on a
 dinner plate all by itself in front of Augusta’s chair.
 
-33
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I was constructing a ham sandwich when she came in barefoot
 and surprised me. She had a bathrobe on that I’d never seen, a navy
@@ -2615,44 +1333,7 @@ oil painting in which a reclining nude could be faintly made out. An art
 teacher she worked with had painted it and given it to her; I thought it
 was no bargain. But leaning against some Erle Stanley Gardners on a
 
-34
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 shelf was something worth looking at: a picture of me and my parents,
 Augusta, and my grandmother taken four years ago. I had been
@@ -2695,44 +1376,7 @@ A middle-aged man in work clothes stood there with his hand
 raised to tap on the glass and looked at me bewildered; he seemed as
 uncomfortable as I was, and just as surprised.
 
-35
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Is Gus here?” he asked.
 “Who?”
@@ -2748,46 +1392,7 @@ and Heating” on the side. It took a couple of minutes after he drove
 away for me to put two and two together. Now I really did know a
 secret of Augusta’s, and I had found it out without even having to spy.
 
-36
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER SIX
 
 Waiting for Augusta to get home so I could spring my news on
 her made me too impatient to sit still; finally I decided I might as well
@@ -2818,44 +1423,7 @@ expected. For a moment, I felt like somebody’s ignored wife. “Slaving
 away over a hot stove” – that was the line, wasn’t it? My mother would
 never say that, though; her idol was Harry Truman, and her line was
 
-37
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “If you can’t stand the heat, get out of the kitchen.” A nice friendly
 thought to come home to.
@@ -2899,44 +1467,7 @@ one for the precious coolness to find its way in.
 When I came back down she poured me a glass of wine; she had
 one in front of her already.
 
-38
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “So Jerry came back, did he?”
 I nodded. So he had been the man on the porch the first time,
@@ -2980,44 +1511,7 @@ he knew that. My father started to say something, trying to pass it off
 as a misunderstanding, I guess, but Allan interrupted him – politely –
 and excused himself from the table. I went too.
 
-39
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “He tried to get me to go back and join them, but I wouldn’t, so
 we both left the house. I don’t think they expected it – I could hear
@@ -3059,44 +1553,7 @@ did they know about being Jewish?”
 What did I know about my mother, that was a lot more pressing
 question to me.
 
-40
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Maybe Cheryl didn’t quite understand it herself,” Augusta
 said after a moment, but I could tell she was only trying to be fair.
@@ -3138,44 +1595,7 @@ and not the other way around; but how could I help anyone when I
 couldn’t even figure out what to do with myself? It was too soon, I
 wanted to tell her, but I had my pride, too, and I couldn’t.
 
-41
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I imagine you weren’t expecting that.” She sounded halfway
 between defiant and apologetic.
@@ -3219,44 +1639,7 @@ I was trying to do arithmetic in my head: Augusta taught the
 ninth grade, and if Jim had a son in ninth grade a few years ago, how
 old must Jim have been, how much older than Augusta? That was the
 
-42
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 kind of problem I always had trouble with – and I couldn’t even
 remember if Augusta had always taught ninth grade or if she changed
@@ -3300,44 +1683,7 @@ still raining, and if the second hand on the clock had stopped moving I
 wouldn’t have been surprised. There wasn’t a sound except the rain.
 Then he said, ‘I guess I’d better go.’
 
-43
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “He stood up, and I stood up from behind my desk. I took my
 coat off the coat-rack and turned out the lights. When I turned toward
@@ -3381,44 +1727,7 @@ someone else’s husband? Everybody knows you’re not supposed to do
 that, you just don’t do it, it’s not thinkable. Decent people don’t let
 themselves feel that way, so they say. How you can let yourself or not
 
-44
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 let yourself feel some way, I’d like to know. If anybody had ever
 explained to me how that was done it would have made my life a lot
@@ -3462,46 +1771,6 @@ walked over to him, stood right in front of him. I looked him in the eye
 and held still. That’s all you have to do, you know. And he got the
 message right away.”
 
-45
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER SEVEN
 
 Augusta didn’t look at me as she went on. “It wasn’t easy. The
 first thing he said after he kissed me for a while was that he had never
@@ -3531,44 +1800,7 @@ because it’s a bad one. And it wasn’t a case of the grass being greener
 on the other side, either. Those are just words. The truth is, people
 don’t know how to say what they want or even what the hell it is.”
 
-46
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 From the depths of my ignorance and inexperience I could
 testify to that, and I thought despairingly, Doesn’t it ever change?
@@ -3611,44 +1843,8 @@ listen to you talk?”
 “That can be remedied easily enough,” she said, staring at me in
 a way that made the back of my neck prickle.
 
-47
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “You bitch,” I said, and ran. In a second I was up the stairs. I
 barely restrained the urge to run into my room and slam the door hard
@@ -3692,44 +1888,7 @@ her back to me in the heavy armchair that had always been her father’s
 special privilege. She did not seem to be reading, or doing anything,
 and I was afraid to disturb her. I closed the door again. Back in the
 
-48
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 kitchen, I put away the leftovers (my leftovers, though cooking them
 seemed a long time ago), stacked the dirty dishes in the dishpan, ran
@@ -3772,44 +1931,7 @@ order; the postmarks, when I could read them, leapt from year to year
 and even from decade to decade: some of the letters had come from the
 very house they were now in and been mailed to Augusta in college.
 
-49
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 The sight and feel of all those letters was oppressive when I thought of
 how many live moments were trapped there where probably no one,
@@ -3853,44 +1975,8 @@ wide-brimmed hat, was coming down the street, and when she walked
 under the streetlight I saw it was Augusta. I thought of escape, but it
 was too late. She turned up the front walk and didn’t seem surprised to
 
-50
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 see me sitting in the swing. Without speaking, she took off her hat and
 sat down next to me, and we swung. The swinging seemed to take the
@@ -3932,44 +2018,8 @@ Instead I found the Dorothy Sayers book I had been reading and made
 a pot of coffee, book in my left hand while I measured out the grounds
 with my right. Like a person on a real vacation I sat down at the
 
-51
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 kitchen table with a cup of coffee and a piece of toast and slid off into
 the world of Lord Peter.
@@ -4011,44 +2061,8 @@ The two girls were wearing proper blouses with page-boy
 collars, and their hair was wavy and short – shorter than mine and
 much less frizzy. The more I thought about what I was wearing, the
 
-52
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 more uncomfortable their inspection made me, and I couldn’t think of
 anything to say.
@@ -4092,44 +2106,8 @@ To think that I had believed I was invisible, that the advantage was
 mine. Maybe that was what came of being an only child, or of being
 alone with Augusta, or maybe I really was a snob and didn’t know it.
 
-53
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 And instead of being invisible I had been exposed all along, with no
 place to hide.
@@ -4147,43 +2125,7 @@ a battle already lost, if the town knew about her and Jim. The thought
 made me writhe.
 
 54
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 CHAPTER EIGHT
 
@@ -4214,44 +2156,8 @@ away.
 “Anything interesting going on out there?” she said.
 “No.”
 
-55
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 She examined me: uncooperative teenager. “Hmh. Well.” She
 pulled a few finishing nails out of the back pocket of her jeans and put
@@ -4293,44 +2199,7 @@ The shades were drawn and the shutters outside them closed;
 even midday sun hardly penetrated. In the dimness and quiet I sat
 down on the bed and dialled the phone on the night table.
 
-56
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Hello?” a strange man’s voice said impatiently over some noise
 in the background.
@@ -4374,44 +2243,7 @@ be grateful to him for using Rodge’s name or to resent the word
 “even.”
 “Yeah, she told me.” If it was true, then . . .
 
-57
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Absence makes the heart, you know.”
 “Oh, Daddy,” I groaned, embarrassed. Was he encouraging me
@@ -4455,44 +2287,7 @@ almost hear him weighing his words; it made me tense.
 “Am I keeping you from working?”
 “Oh – the boss only works when he feels like it.”
 
-58
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Ha ha. You must love it, then.”
 “Have you got enough money? You do have your return ticket,
@@ -4536,44 +2331,7 @@ couldn’t quite put myself in his place; when I tried, it was more as
 though I was riding inside him, looking out through his eyes as if they
 were windows, a way I felt inside myself sometimes, as if I were a little
 
-59
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 smaller than my body and there was kind of a gap between me and
 me. The difference was much greater when I tried to imagine being my
@@ -4614,44 +2372,7 @@ what I was doing here.”
 “Hmh,” Augusta snorted.
 “How does she know you, anyway?”
 
-60
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “She was in my class once. Her mother just happened to be on
 the Collinsville school board, which generally meant that Jeannie got
@@ -4694,44 +2415,7 @@ beach with them talking about last night but never quite telling it all? I
 wondered again if Rodge really had called, if he had given up when he
 heard I was out of town or stayed interested – if my father was right. It
 
-61
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 wasn’t him, a mean, factual voice said inside me, Mom doesn’t know
 his voice over the phone. He didn’t call. But even if I could forget about
@@ -4773,44 +2457,7 @@ and moving away from the juice that was dripping onto the porch.
 Smiling, she took a bite. “You’re fun sometimes,” she said, “when
 you’re not so damn serious.”
 
-62
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Me? What about you? I’ve never heard so many depressing
 stories in my life.”
@@ -4854,44 +2501,7 @@ moment; I wasn’t used to her touching me, and the gentle presence of
 her hand on my head almost blanked it out. I tried to look at her and
 couldn’t.
 
-63
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I love you too. I thought the words to her, but I knew my mouth
 could not speak them.
@@ -4905,46 +2515,6 @@ We swung, toward and away.
 “Sure.”
 “Tell me a story with a happy ending.”
 
-64
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER NINE
 
 Augusta thought for a moment. “Well, I could tell you how the
 Cardinals won the World Series in 1946,” she said.
@@ -4973,44 +2543,7 @@ sound, or did she just love fights? She would be embarrassed, I was
 sure, if she knew that I had read the nickname my mother called her,
 and it was dangerous to embarrass Augusta.
 
-65
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 It seemed that Augusta had an answer for everything but a
 happy ending; she was still pondering, while the cicadas whirred
@@ -5054,44 +2587,7 @@ phone to make sure it was okay, and I asked him if I would recognize
 him, and he just laughed. The truth is, he was exactly the same. I was
 supposed to meet him in the lobby of his hotel, and while I was
 
-66
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 waiting I got so nervous I almost ran away, but as soon as I saw him it
 vanished. He didn’t see me, but I saw him, in his gray suit and striped
@@ -5135,44 +2631,8 @@ wouldn’t go on.
 I tried to puzzle that out, but there weren’t enough lines to read
 between. “I really don’t understand,” I admitted after a minute.
 
-67
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Augusta seemed in no hurry to enlighten me; perhaps this fell
 into the category of the advice she had once said she wouldn’t give me.
@@ -5216,44 +2676,8 @@ moderately, “it’s not that we don’t want them, but what we really want
 is . . . what they represent. That other thing, whatever it is that we can’t
 have.”
 
-68
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I felt bombarded by too many unfamiliar thoughts; it was an
 almost physical sensation, like driving the Buick for the first time.
@@ -5296,44 +2720,8 @@ talking for some minutes. “I’m going to bed.”
 “Okay.”
 She got up; in the doorway she paused. “Coming in?”
 
-69
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “In a few minutes.”
 “Well, goodnight.”
@@ -5377,44 +2765,8 @@ so I could play the radio, rolled down the windows, and then slowly
 tuned my way along the dial, trying to get Chicago stations, fantasizing
 that there was no house, no Augusta, no parents looking over my
 
-70
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 shoulder, no nothing but me and my life, on the road to somewhere. I
 got WGN at last, but it kept fading away, and finally I settled for a
@@ -5456,44 +2808,8 @@ key and the Buick roared to life; his eyes widened and he stopped short
 as I put the car in Drive and began to inch forward, unable to step on
 the gas for fear I might hit him.
 
-71
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Karen!” Augusta’s voice shot out of the dark and stopped me
 cold. She was leaning out her bedroom window in a nightgown, and I
@@ -5536,44 +2852,8 @@ Augusta turned away from me and heaved a sigh through her
 teeth, shaking her head slightly. She leaned her forehead on the front
 door. “Jesus Christ,” she said, quietly and precisely.
 
-72
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I didn’t know what was going on, I thought he was after me –
 did he know you? Who was that, anyway?”
@@ -5616,44 +2896,8 @@ headlights and make things, perhaps, a great deal worse.
 “If you had told me . . . ” I said.
 “I know.”
 
-73
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “What do you really do at night?” I said, suddenly the
 interrogator. We were shifting from foot to foot awkwardly in the dim
@@ -5688,46 +2932,6 @@ creaked as she crossed the room and sat down on the edge of the bed.
 but I stayed put, unable to respond, unable to be reconciled, until she
 left the room.
 
-74
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER TEN
 
 I awoke as usual to the conversations of mourning doves and
 the screech of the blue jay who patrolled our street, but before I could
@@ -5758,44 +2962,7 @@ I didn’t want to face Augusta, but once I was dressed there was
 no alternative. I went down the front stairs instead of the back, to give
 myself more time; in the front hall recent events crowded in upon me –
 
-75
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 not just Augusta making her confession the night before, but also
 seeing Jerry through the front door glass, and walking that way,
@@ -5839,44 +3006,7 @@ while.
 Then she did turn and straighten up; she had no expression on
 her face at all. “Good morning,” she answered. She stood and looked at
 
-76
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 me as if to say, I shall carry on this conversation if you wish to do so.
 At once I felt intensely uncomfortable, already at a disadvantage. She
@@ -5920,44 +3050,7 @@ over the spigot and climbed the stairs to pack.
 But packing didn’t take long enough. In half an hour I was
 done, even though I stood for a while with a pair of shorts in my hand
 
-77
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 wondering if I would regret leaving like this. It was too late anyway to
 change my mind, no matter how hastily I had spoken. Much as I didn’t
@@ -6001,44 +3094,7 @@ wasn’t loneliness a monster, after all?
 I sat down on the top step of the front stairs like Christopher
 Robin and thought about going home. I’d be a child there once again,
 
-78
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 for better and worse, no matter what I or anyone else might say
 otherwise. My parents would be hard at work, and I – what would I
@@ -6081,44 +3137,6 @@ hours of this impossible situation; before I recovered she had turned
 around and was ignoring me again. And how could I object? Without
 Augusta I would never get to the train station at all. Finally I turned
 
-79
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 my back to her, too, and put one foot in front of another, back to the
 house; if there were doors and walls between myself and her the day
@@ -6162,44 +3180,6 @@ hammer and a box of nails lay in the grass next to the summerhouse,
 and the hose was partially uncoiled, but beyond that I couldn’t find a
 clue. It was two o’clock in the afternoon; I felt as though one painful
 
-80
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 week had passed since the morning, and it would take another to get to
 night.
@@ -6242,44 +3222,6 @@ and I asked for Mrs. Moss. There was a click.
 “Cheryl Moss,” my mother said briskly.
 “Hi, Mom.”
 
-81
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Hi, sweetie, how are you doing?”
 “Okay.”
@@ -6321,44 +3263,6 @@ Probably I pulled more weeds that afternoon than on any other
 day of the whole visit, because I was trying so hard not to think of
 anything else. Even the heat wasn’t entirely bad, as if I were taking
 
-82
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 some kind of treatment, sweating something out of myself while the
 pulled weeds piled up behind me.
@@ -6402,44 +3306,7 @@ skipping the rest of the unlucky tomato, and put a sandwich on a plate
 in front of her. “Those are for you,” she said. I wondered if she wasn’t
 rubbing it in, but it was no time for an argument; I put wax paper
 
-83
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 around the sandwiches and stuck them in a bag. And now, I thought,
 there’s nothing left to do but go.
@@ -6482,44 +3349,8 @@ good direction. The Buick swung out like an ocean liner leaving the
 dock. It was no time for niceties: I focused all my attention on staying
 exactly in the middle of the street. We passed the corner store where
 
-84
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Augusta sometimes sent me at the last minute for an ingredient we had
 forgotten to get at Downtown Market. “Turn right,” she said.
@@ -6562,44 +3393,8 @@ trying not to think about the fact that I was getting closer and closer to
 the highway. When was Augusta going to give in and say, Okay,
 enough?
 
-85
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 The road from town met Highway 50 at a place where the
 highway curved – not sharply, but still it curved. To me at that
@@ -6643,44 +3438,8 @@ stop at the light.
 about another fifty miles.”
 “Yeah, at this rate we might make it by nine o’clock.”
 
-86
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “That’s okay.”
 I was just about to say “But I’ll miss my train,” and I was finally
@@ -6723,44 +3482,8 @@ the spot, I was sure of it, but I knew Augusta better than that.
 Willy-nilly, I knew her better than I had ever expected to, and now I
 began to wonder when I would ever hear such stories again. If I told
 
-87
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 them to MJ and Jeanette, they wouldn’t even believe me. Adults didn’t
 talk about things like that.
@@ -6793,46 +3516,6 @@ because she seemed ready to walk away with the keys, I said, “Wait a
 minute, what about my suitcase?”
 “You don’t need it,” she said. “We’re going to the ball game.”
 
-88
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER ELEVEN
 
 There was a moment of absolute confusion, a feeling of
 strangeness and almost of threat being on that street, a sense of But you
@@ -6863,44 +3546,8 @@ lose me in the crowd.
 We lined up at the “Reserved Grandstand” window, and I
 found myself hoping we’d get a good seat. At the last moment, as the
 
-89
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 people ahead of us were leaving the window, she turned to me and
 said, “You could still make your train,” but it didn’t matter any more
@@ -6944,44 +3591,8 @@ I was half-asleep on my feet as Augusta guided me back out
 through the crowds and the ramps and gates, down to the dark street
 and the Buick. The several beers she had drunk seemed to have had no
 
-90
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 effect on her. We got into the car – on the front seat was the bag of
 sandwiches I had been going to take on the train – and I was asleep for
@@ -7024,44 +3635,8 @@ nailed down. You could get down and move the ladder, I thought, but
 that would make too much sense. There was a loud crack, almost like
 the sound of a bat meeting a baseball, and I saw Augusta’s hand grab
 
-91
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 for the point of the roof. For a long moment she seemed frozen there,
 and I wasn’t even sure what I was seeing; then, majestically, the whole
@@ -7104,44 +3679,8 @@ to grab for my shoulder. “Uh oh.”
 three-legged race we hobbled over to the back porch. “I’ve got a feeling
 that’s sprained,” she said. Her ankle was swelling already.
 
-92
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Don’t you think you’d better go to a doctor?”
 Augusta looked pained and sighed. “Oh, I suppose so. I don’t
@@ -7185,44 +3724,8 @@ couldn’t. “I guess so. She probably just has a sprained ankle.”
 “I didn’t know you could drive,” Doreen said, with a
 respectfulness that I thought was only my due.
 
-93
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I just learned.”
 “Oh. Well – do you want to go to the pool some time?” Is there
@@ -7263,44 +3766,8 @@ his neck.
 “Sprained. It’s not too bad.”
 “Want to go in?”
 
-94
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I sure don’t want to stay out here and look at that thing.” The
 two of them went up the front walk and inside much faster than she
@@ -7344,44 +3811,8 @@ defensive. “She’s been nailing on it for days.”
 “I told her I’d help her with it a dozen times. Anyway, if she’d
 have taken my advice, she would have torn it down a long time ago.”
 
-95
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 He sounded so sad that I had to forgive him for stealing part of
 my glory. “Sure,” I said, “but when does she ever take anybody’s
@@ -7425,44 +3856,8 @@ made her mad.
 out whose drain I’m supposed to be rooting out.”
 Do I mind? “It’s in the kitchen,” I said.
 
-96
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I know.”
 Unhurriedly, Jerry went back in the house; I could hear the
@@ -7506,89 +3901,14 @@ push on.” He stuck out his hand again, and it took me a second to react
 and shake it. “I’ll come over about nine, okay?”
 “Okay,” I said. Now I almost didn’t want him to leave.
 
-97
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Don’t tell her I’m coming, all right? I wouldn’t want her to be
 overwhelmed with gratitude.” He flashed me a sardonic look and
 turned away.
 
-98
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER TWELVE
 
 Upstairs, Augusta was lying on the sofa with all the shades
 pulled down. She was asleep, one arm dangling onto the floor, still
@@ -7619,44 +3939,7 @@ But as if this chore were some kind of crusade, I couldn’t quit until I
 had gotten rid of all the boards that I could extricate from the general
 heap. It was way past lunchtime. Sore-handed and covered with grit, I
 
-99
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 went inside, washed up, ate a sandwich, but even then I couldn’t quit. I
 felt some obligation to touch all the bases, as if civilization depended
@@ -7700,44 +3983,7 @@ okay? I don’t owe her any favors, that’s for sure.”
 “God, I wasn’t even planning on driving it.”
 “Go ahead. You know how.”
 
-100
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 She was always one step ahead of me; I couldn’t believe how
 casually she trusted me with the Buick, and I wasn’t sure what to say.
@@ -7778,44 +4024,7 @@ the bookcase. He was so much stronger than I was and so much more
 certain of what to do that I had a hard time not feeling useless. Not that
 I didn’t work. He gave me a huge pair of work gloves and a claw
 
-101
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 hammer out of his truck, and the two of us went around prying apart
 boards that were still nailed together and dragging – or in his case,
@@ -7858,44 +4067,7 @@ trailer with a Bunny Bread sign on the door and a tractor tire painted
 silver and planted with raggedy, bright blue petunias decorating the
 front yard. The roads were almost private, and I realized that I hadn’t
 
-102
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 seen the actual country since I had come down. Maybe this was what
 had drawn Augusta back – some memory or illusion of a memory that
@@ -7939,44 +4111,7 @@ happened about the two of you getting married?”
 He looked at me in a way that made me think, Oh no, I’ve been
 rude. “You’ll have to ask Gus that question,” he said; I couldn’t tell if
 
-103
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 he was offended or not. For a few minutes he drove in silence, and I
 tried to think of some way to take it back.
@@ -8018,44 +4153,7 @@ I had eaten lunch and was standing in front of Augusta’s
 bookshelves upstairs, trying to decide which murder mystery to read
 next, when there was a knock at the front door. For a minute I forgot
 
-104
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 about Augusta’s ankle and waited for the sound of her answering it;
 then I remembered and ran downstairs. It was Doreen Schatz, wanting
@@ -8099,44 +4197,7 @@ imagined about Augusta was confirmed. I was amazed myself, and
 both of us were too embarrassed to look at each other. If MJ had been
 there she’d have said, “Let’s read it,” but with this stranger from New
 
-105
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Franklin I didn’t even feel right admitting I knew what the word “sex”
 meant.
@@ -8178,44 +4239,7 @@ though: Doreen was Jeannie’s lieutenant, and she was being disloyal
 by acting friendly to me. I liked her more than I had expected.
 “What’s your school like?” I asked, just to say something.
 
-106
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Awful,” she said cheerfully. “We have the grossest boys you
 ever saw in your life.” Great, I thought, and they’ll all be hanging
@@ -8259,44 +4283,8 @@ We started across the town park toward the swimming pool. It
 wasn’t Lake Michigan, but it looked wonderful in the middle of an
 afternoon in late July. In the ladies’ half of a little concrete block
 
-107
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 building we pulled off our clothes and gave them to a middle-aged
 woman in a room that opened on the outdoors and the indoors both,
@@ -8340,44 +4328,8 @@ to readjust the straps of my suit. “Hi,” I said.
 “These are Bobby and Greg Schapenhorst” – anyone could see
 at a glance they were brothers – “and Lisa” – Lisa waved lazily – “and
 
-108
-Family Resemblances, by Lowry Pei
 
-F
 
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Benny,” she added, grudgingly. He smirked at her. “Karen goes to a
 high school that’s got two thousand kids in it.”
@@ -8421,44 +4373,6 @@ nothing I could do about that. “I think I’ll go back in,” I said, throwing
 down my book. The sun was hot on my shoulders. He shrugged and
 continued reading.
 
-109
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 I dove back in and immediately got pulled into a splashing
 contest between Benny and Doreen that somehow escalated into
@@ -8501,44 +4415,7 @@ flipped his straight black hair out of his eyes, and watched, treading
 water. His eyes were deadly serious. I felt like an idiot.
 “Was he bothering you?” Bobby said in an I’ll-protect-you little-girl way.
 
-110
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “No.”
 “He’s weird,” said Benny.
@@ -8581,46 +4458,6 @@ into the dressing room; I pulled on my clothes and got away. As I
 retraced my steps to Augusta’s house I thought glumly that I seemed
 to fit right in with Jeannie and Doreen.
 
-111
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER THIRTEEN
 
 As soon as I stepped in the door I remembered that for the
 moment it was my responsibility to keep Augusta’s household
@@ -8650,44 +4487,7 @@ didn’t cover himself with glory in my class.”
 “I have a feeling he thinks he’s good-looking.”
 “Do you?”
 
-112
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Unh-uh. He’s just big. His little brother was there, too, and a
 kid named Benny who’s Doreen’s boyfriend. And Lisa something.”
@@ -8729,44 +4529,6 @@ The next day Doreen called about noon, and I had to admit that
 I was waiting for the phone to ring, not because I couldn’t wait to see
 those kids again, but because I wanted another chance to behave in
 
-113
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 some way I wouldn’t be ashamed of. Augusta had started gardening
 again, since, as she said, she could weed sitting down just as well as
@@ -8810,44 +4572,7 @@ how we had failed to corner him, even though we had him
 surrounded. Did he sit there like that every day? Was that how he had
 gotten so tan? He didn’t look up until I was right in front of him.
 
-114
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 At first he looked lost, the way people do when they’re
 interrupted in the middle of something totally absorbing, and then I
@@ -8891,44 +4616,7 @@ actually. I’ve read it before. It’s awful when he gets killed, every time.�
 “Well, actually, this is the fourth time I’ve read it. It’s my
 favorite book.”
 
-115
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Boy, if Benny thought he was weird yesterday, I thought, just
 imagine if he heard this. “Do you just sit here and read it over and
@@ -8972,44 +4660,7 @@ least it was different.
 “My mother and my grandmother.”
 “But your father knows about it?”
 
-116
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “My father’s dead.”
 “God,” I said. The size of that calamity struck me with awe and
@@ -9052,44 +4703,7 @@ pool. They think I’m strange, don’t they?”
 Don’t you think so?”
 “You really like to put people on the spot, don’t you?”
 
-117
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 That made him look at me. “Sorry.” He picked at his towel
 self-consciously. “I think I’d better go for a swim.” He stood up, dove
@@ -9132,44 +4746,7 @@ looked at me and said, “Well?”
 I was almost afraid of what might happen if I refused. “Okay,” I
 said. “I mean – sure, I’d love to.” That was the phrase my mother had
 
-118
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 trained me to use for accepting invitations, but as I said it I was
 thinking, What am I getting myself into now?
@@ -9213,44 +4790,7 @@ he called. I had to stop and tread water.
 exasperated, and swam away. I got out the other end, picked up my
 towel and book and joined Doreen, Benny and Lisa, all without looking
 
-119
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 in George’s direction. Only when I had sat down did I glance back at
 the pool. He was swimming laps again.
@@ -9293,44 +4833,7 @@ Franklin, and she tried to figure out if she knew them, but couldn’t.
 around here named Short. Anyway, if you want to go out tonight, go
 ahead. I’m not completely helpless, you know.”
 
-120
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Good grief. Who ever thought that?”
 Augusta pointed in the general direction of the sound of
@@ -9374,44 +4877,7 @@ as if in danger of being overheard. “He thinks I’m a goddamn baby.”
 house, he’d explode.
 “Where, your aunt’s place?”
 
-121
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Yes. It’s okay, she doesn’t bite.” At least she won’t bite you, I
 thought.
@@ -9454,44 +4920,7 @@ stairs.
 I mumbled but didn’t look around. Maybe there had been some point
 to my efforts, after all.
 
-122
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Augusta was upstairs sitting at the big table, studying
 something; in the background the Cardinals game was on TV. “Hi,”
@@ -9535,44 +4964,7 @@ forehead. “It’s for the back yard. The old one fell down. That’s how I
 got this ankle.”
 “You mean somebody’s going to build this?”
 
-123
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Yes, me.”
 George looked at her with frank disbelief. “Well, what’s going
@@ -9616,89 +5008,12 @@ arguing about the performance of one of the pitchers. As if they were
 having a date and I just happened to be in the house. I sat silently
 through a couple of innings, watching the TV along with them and
 
-124
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 gradually absorbing, against my will, what some of their comments on
 the game meant. The next time somebody asks me out, I thought, I’m
 going to make sure we go somewhere else.
 
-125
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER FOURTEEN
 
 Perhaps it was just good luck that the Cardinals started losing
 badly, or perhaps Augusta finally figured out how I felt; whichever it
@@ -9729,44 +5044,7 @@ game. “Okay.” I led the way down the back stairs, glancing around for
 Augusta as we passed through the back hall but not seeing her, and
 then down into the basement. The stairs were so old that each step was
 
-126
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 worn down in the middle like a soup bowl, and they creaked
 dangerously as we went down. The basement seemed not to have
@@ -9810,44 +5088,7 @@ wanted to. I could hear him feeling his way along the workbench.
 grip on my forearm; I turned the lights on, but he didn’t let go. He was
 exactly my height. There was a moment of blankness, a held breath of
 
-127
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 indeterminate length. Something Augusta had said about Jim flashed
 through my head: “I looked him in the eye and held still. That’s all you
@@ -9890,44 +5131,6 @@ anybody like her.”
 “Neither has anyone else.” I thought, can it be that we’re just
 going to carry on a normal conversation?
 
-128
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I wish I had a relative like that.” I knew from the way he said it
 it was a heartfelt wish. Still sitting on the railing, I turned to look at
@@ -9970,44 +5173,7 @@ world, day after day . . .
 usually like that at all. Maybe I’ve just been hanging around by myself
 too long, I don’t know.”
 
-129
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Thanks a million, I thought, at least you could say you were
 overwhelmed by my charms. “Well, it’s not my house,” I said. “It’s not
@@ -10051,44 +5217,7 @@ I had to smile at that. “I don’t know.”
 Where we were standing, away from the house and its lights,
 the night didn’t seem to be a darkness, exactly, but rather a difference
 
-130
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 in the air. It was nothing like the thick blackness of the basement with
 the lights out. I stepped up onto the low platform of the foundation
@@ -10132,44 +5261,7 @@ God is perfection, and the only perfection is in nonbeing, so God is
 nothing.”
 “Is that what you think?”
 
-131
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I don’t know. But it’s scary. Don’t you think?”
 I didn’t know what I thought, but I was ashamed to admit that
@@ -10213,44 +5305,7 @@ I nodded, and he kissed me a third time.
 He turned away; in a couple of steps I was up on the porch and
 looked back. “Hey, George?”
 
-132
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 He stopped halfway down the walk.
 “I’m sorry I called you short.”
@@ -10292,44 +5347,7 @@ descended the back porch steps.
 “I thought I’d sand those shutters Jerry’s fixing, so we could
 paint them.”
 
-133
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Want some help?”
 There was a short silence. “Whatever you like.” Right, sure, I
@@ -10373,44 +5391,7 @@ take some time out to work on the shutters between a couple of
 plumbing jobs, and Augusta offered him a beer and a sandwich, and I
 began to think that if George showed up right then maybe no one
 
-134
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 would notice. But Augusta and I went back to work, and Jerry came
 and went, and still no George.
@@ -10454,44 +5435,7 @@ action that it made me feel halfway normal again. I handed him a glass.
 “Not yet. I don’t know how I’m going to get it off, though.”
 “I’m sorry. That was really a dumb thing to do.”
 
-135
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I don’t know,” he said, with a glance at me that might or might
 not have been a reference to what had happened as a result.
@@ -10534,44 +5478,7 @@ smell it and give me an unbearable look – and did I want George to,
 after all? Here it was four o’clock on a hot day and he had come over to
 do a job. I put it back.
 
-136
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 That left nothing to do but go downstairs and look for him. I
 found him in the dining room, supplied with a stack of blank paper, a
@@ -10614,44 +5521,7 @@ idea.
 “Well . . . I don’t know if agree would be the right word,” he
 said, giving me a mischievous smile. “But I’m building it, right?”
 
-137
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “You’ve got the idea, George.” They were made for each other, I
 thought, but not as jealously this time. I got up and searched through
@@ -10664,46 +5534,6 @@ said. “Does this come out of my paycheck?”
 “Not if you’re nice.”
 He tickled my ankle with his foot. “I’m very nice,” he said.
 
-138
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER FIFTEEN
 
 For quite a while I read and George worked. Augusta finally
 gave up for the day, took a shower, changed her clothes, went out for a
@@ -10733,44 +5563,7 @@ to you, couldn’t I? I’ve never seen a setup like this.”
 suggested.
 “Why not?” he said. “It’s already got everything else.”
 
-139
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Kid’s got a lot of nerve,” she said to me. “You’d better watch
 out for him.”
@@ -10814,44 +5607,7 @@ We kissed for an indeterminate time before I was aware of
 anything else; then I began to be certain that someone was watching
 us. But when I drew back and looked around, the shadow of the porch
 
-140
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 roof seemed impenetrable, and the lighted windows across the street
 were blocked by drawn shades. Everyone else’s concern for their
@@ -10895,44 +5651,7 @@ out loud. “How would you like it, if you were out there with Jim, and I
 pulled some stunt like that? You acted like you were going to kill me
 just for turning on the headlights.”
 
-141
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Well . . . that was different.”
 “Why, just because you’re thirty-five? I do have feelings, you
@@ -10975,44 +5694,7 @@ couldn’t bring myself to say the simple words “Let’s go inside.” There
 was an awkward spell of inactivity, and I was suddenly afraid that
 Augusta’s little joke had tipped a delicate balance the wrong way.
 
-142
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Well,” George said after a couple of minutes, “I guess I’d better
 go.”
@@ -11055,44 +5737,7 @@ George finished the drawings in another day, and Augusta
 drove him to Belleville to get the materials he needed, and then every
 afternoon I watched him as he cut balsa wood and cardboard with
 
-143
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 maddening care, bent wires to form downspouts, cut pieces out of tin
 cans and patiently flattened them to get metal he could use for the roof.
@@ -11136,44 +5781,7 @@ children, a huge wooden radio that stood on the floor, rusting pots and
 pans that I could not imagine ever having been clean, boxes of empty
 bottles that made me wonder if they had made liquor down there
 
-144
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 during Prohibition, curled and cracking snapshots of people I didn’t
 know with impossible hair and clothes, a license plate from 1937 . . . I
@@ -11216,44 +5824,7 @@ wonder why. I could tell her why, but I won’t. I don’t even want to tell
 myself. It’s you. After fifteen years, it is still you. I feel like a fool
 admitting that. I’ve told myself it was over so many times that it would
 
-145
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 only be embarrassing to count them up, and every time I’ve been
 wrong. For years, whenever I got interested in somebody I ended up
@@ -11296,44 +5867,7 @@ same damn day I’m knocking on your door.
 For several minutes I stood frozen where I was, the last page of
 the letter in my hand, feeling the way I had once at the seashore after a
 
-146
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 wave flicked me over carelessly like a matchstick and pounded me for
 a while and left me on the beach. What I had thought, from reading the
@@ -11375,44 +5909,7 @@ did, and he did, each night a little longer, cautiously testing my
 willingness to be touched. I kept thinking that if the New Franklin kids
 thought I was fast, they must be right; yet what was happening to me
 
-147
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 and George, which I did not dare call falling in love, did not seem to go
 fast – it was time that went slow.
@@ -11455,44 +5952,7 @@ She knows. The other shoe has finally dropped. But you as much as
 said it was okay, I protested silently.
 “What about?”
 
-148
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I’m not mad at you, you don’t have to sound like that. Come
 and sit down for a second, okay?”
@@ -11536,44 +5996,7 @@ words in my mouth.” She took a deep breath. “If you want to make
 love to George, it’s up to you. I can tell how you feel about him. Maybe
 you want to. If you want to take him to your room some night, don’t
 
-149
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 stop because of me. I mean that. Don’t sneak off somewhere, and don’t
 do it unless you want to. And if you decide to do it, don’t you dare
@@ -11617,44 +6040,7 @@ screen door, and we left it open at night for what coolness it could let
 in. It looked from the couch as though one might open it and walk out
 onto empty air, as if there were another front yard and another New
 
-150
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Franklin a story above the real ones that the builders of our house had
 wanted to reach through that door.
@@ -11698,46 +6084,6 @@ behind her. I stretched out on the couch, lying on my stomach with my
 cheek against the prickly upholstery, left alone with everything I didn’t
 understand, and wished her words unsaid.
 
-151
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER SIXTEEN
 
 Then, for a couple of days, I stopped flirting with George as he
 worked on the model that grew steadily more impressive under the
@@ -11768,44 +6114,6 @@ able to stand it.
 I wished we could just go on with what we had been doing, but
 the trouble was, it would never be the same, it wouldn’t be just
 
-152
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 something we happened to be doing under cover of darkness and
 silence, some wordless game we thought up again each night. I wouldn’t
@@ -11848,44 +6156,7 @@ said, his mouth next to my ear.
 “Did I do something that . . . ?”
 “No.”
 
-153
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 He deliberately held me away from him so he could look me over
 and then kissed me. “There,” he said, looking like a different person.
@@ -11927,44 +6198,7 @@ about it.
 “Oh yeah? Want to see it?”
 “Why not? I’ve seen everything else around here.”
 
-154
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 You wait, I thought, leading him down to the basement. He and
 George had met before, but they only mumbled “Hi” uncomfortably.
@@ -12006,44 +6240,7 @@ what?”
 “Hm.” I could tell George wasn’t happy about any deviation from
 his plan, though he was eating up the discussion with Jerry.
 
-155
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “It’s pretty close to what you’ve got,” Jerry said, looking as
 though he realized the same thing. “But one thing I’ve got to say, the
@@ -12087,44 +6284,7 @@ didn’t seem to have anything to do with the world of doubt and
 improvisation that George and I and Augusta inhabited. No wonder they
 were hard to talk to.
 
-156
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Hey, you,” Augusta said, snapping her fingers in my face. “Want
 some lunch?”
@@ -12166,44 +6326,7 @@ can of paint thinner. I led her inside as if it were my house and not hers.
 “Right this way, ma’am,” I said, at the dining room door, and threw it
 open.
 
-157
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Augusta had the look on her face of someone prepared to be
 pleased, the frozen half-smile you see when people have “Happy
@@ -12247,44 +6370,7 @@ you.”
 “Look, you can’t afford what I charge. Plus, I won’t take it
 anyway.”
 
-158
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Come on, Jerry, it’s – “
 “Gus,” he said patiently, “it’ll be just like that one on the table. No
@@ -12326,44 +6412,7 @@ wasn’t sure where to start; the more I thought about Augusta’s life the
 more I wanted to know. “What is going on with you and Jerry?” I finally
 asked.
 
-159
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 She glanced up from where she was rubbing the leg of lamb with
 a cut clove of garlic. “I had a feeling I’d hear about that,” she said, going
@@ -12405,44 +6454,7 @@ you got?”
 “Don’t get mad at me, he brought it up. He said he thought for
 you it would be kind of like marrying your brother.”
 
-160
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Augusta made tiny pockets in the meat with the point of her knife
 and slid garlic slivers into them. “He’s a smart man,” she said sadly,
@@ -12486,44 +6498,7 @@ he wouldn’t tell me. He told me to forget it, made me furious. I went
 right to Jim’s store and made up some story about who I was and why I
 had to see him, and we drove about fifty miles and spent the afternoon in
 
-161
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 a motel. Crazy. Sometimes I don’t even know what I’m trying to prove.
 But we had a big fight because I said he was never there when I needed
@@ -12566,44 +6541,7 @@ and as I had done then, I stole two drops of Augusta’s perfume; this time
 it seemed to be what the occasion demanded. I even wore earrings. But
 when I saw Augusta dressed I felt like a child. She had on a severe black
 
-162
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 dress with a high neck and a scoop back and a string of pearls I
 recognized as my grand- mother’s; her long straight hair was down and
@@ -12647,44 +6585,7 @@ thing, he can probably cut up a leg of lamb.”
 “I wouldn’t be so sure about that,” George said. “The only time I
 tried to carve something it turned into a stew.”
 
-163
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Pass your plate.”
 “Thank you.”
@@ -12709,46 +6610,6 @@ cigarette, turns on the radio real loud, peels out of his parking space – “
 “Karen?” Augusta called from the kitchen. “It’s for you; it’s your
 father.”
 
-164
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER SEVENTEEN
 
 What could he want, I wondered, standing up; then I realized I
 hadn’t talked to them in two weeks – not since the day I had said I was
@@ -12778,44 +6639,7 @@ thing collapsed.”
 “Is she okay?”
 “Uh-huh. She sprained her ankle, that’s all.”
 
-165
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Boy, it’s a laugh a minute down there. So now, what about this
 George?”
@@ -12859,44 +6683,7 @@ don’t want to blame it on her, but she never seems to think about
 anything but houses anymore. And making money. The more she makes,
 the more dissatisfied she gets. Now she’s got it into her head we’ve got to
 
-166
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 buy a new house over in Lake Forest. She’s got it all picked out, of
 course. This one isn’t good enough anymore. She’s seen an awful lot of
@@ -12940,44 +6727,7 @@ Mom sort of claimed it was for your own good so you’d stop thinking
 about Rodge? Well, maybe it worked but really it was for us. After all,
 you’ll be going to college in a couple of years, and we thought it would
 
-167
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 be good for us to be alone with each other for a while. Kind of to see if we
 could remember what it was like. I didn’t really want you to go, but in a
@@ -13021,44 +6771,7 @@ so often in years.
 “Okay. I’ll call you up. This time I really will.”
 “It’s almost time for school to start, anyway.”
 
-168
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I know, you don’t have to remind me.”
 There was another silence; I looked up at the kitchen clock.
@@ -13102,44 +6815,6 @@ model’s roof. “See? It won’t be that different anyway,” he said.
 “Suit yourself,” Augusta said, as if nothing ever happened
 according to her specifications. “How’s Steve?” she said to me.
 
-169
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Okay.”
 “Any news from the suburbs?”
@@ -13182,44 +6857,7 @@ this.” He put down the salt shaker.
 “Wait – it doesn’t come out that far,” Augusta said. “That’s way
 too big. That makes it look as if the kitchen fills up the whole back yard.”
 
-170
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “No it doesn’t, the yard goes back about to where Karen’s chair
 is.”
@@ -13262,44 +6900,7 @@ called.
 almost reproachful.
 “Sure I have.”
 
-171
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “If you don’t want to say anything, don’t,” he said, sounding
 hurt.
@@ -13343,44 +6944,7 @@ The crying passed over, tapered off. When I could move without
 upsetting the precarious balance that was keeping me from giving in to
 sobs, I made a dash for the front door of the parlor, keeping my back to
 
-172
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 George, through the front hall, up the stairs to the bathroom and locked
 the door. Deliberately I avoided looking in the mirror to see what a mess
@@ -13424,44 +6988,7 @@ George.
 When I came in, he was in the back sitting-room, looking out the
 window, pressing his forehead against the screen as I had done a while
 
-173
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 before. He looked around, again as if he were the one in pain, and then
 went back to peering out. “I don’t know what they’re doing out there,”
@@ -13504,44 +7031,7 @@ He turned. “Tomorrow?” He was outraged.
 “Tomorrow?” he said again, his face squinched up in a kind of
 ecstasy of disbelief. “You’re just going to – “ he seemed to search for an
 
-174
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 adequate word and, with a gasp of exasperation, not find it. “Leave? Like
 that?”
@@ -13585,44 +7075,7 @@ when heat paralyzed the middle of the afternoon. Never like this, though
 – always at the end of some painfully perfect conversation that I could
 not stop rehearsing, and always I didn’t know what to imagine next,
 
-175
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 whether I would have the courage to say the same, but if not now, when
 was I waiting for? George looked almost guilty; I put my arms around
@@ -13641,46 +7094,6 @@ up while I do it?”
 George gave me a long look that I didn’t understand at first.
 “Sure.”
 
-176
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER EIGHTEEN
 
 As soon as I knew what I had said, it was too late to take it back;
 the knowledge of George behind me, following me through the front hall
@@ -13711,44 +7124,7 @@ of the pile, covering it up. Decency. But God, I wanted this over with. I
 didn’t care if my things got wrinkled; I had all the rest of my life to iron
 them back in Evanston. It would be an excuse to hide in the basement
 
-177
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 from my parents’ troubles, whatever they were. Recklessly I went to the
 closet and pulled out the clothes that were hanging there in one armful,
@@ -13792,44 +7168,7 @@ until I realized what I was doing and that scared me out of it. But I did
 want him. I wanted something. He took my hand and tried to lead me
 toward the bed, but after one step I wouldn’t or couldn’t go, and he
 
-178
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 stopped trying and kissed me again. We were standing still, but I could
 feel his body pulling in that direction, and at one point we almost lost our
@@ -13873,44 +7212,7 @@ bed, half on and half off it, my feet still on the floor. Behind me I heard
 the soft sound of a piece of clothing falling to the floor and thought, Oh
 no. What if he takes off his belt? What do I do if I hear him unzip his
 
-179
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 pants? But there was no sound at all for a moment. Then George sat
 down on the bed beside me, put his hand on my shoulder and gently
@@ -13954,44 +7256,7 @@ know.
 We held each other’s shifting gaze. “Why not? Are you afraid
 she’ll catch us?”
 
-180
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “God, is that all you’re thinking about?”
 George turned away from me as if I had slapped him and lay
@@ -14035,44 +7300,7 @@ anything we wanted, and its coming had waked me up.
 But George still slept, and I could not begin it; if the gliding of my
 hand over his chest did not awaken him then, some rule seemed to say, it
 
-181
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 wasn’t meant to happen. I could do no more. Gradually, against my
 wishes, the moment passed.
@@ -14115,44 +7343,7 @@ He stood up, looked around the room as if he had misplaced
 something. “God, what time is it, anyway?” he said.
 “I don’t know, are you going to get in trouble?”
 
-182
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Am I ever. I don’t know what they’ll do when they realize how
 long I’ve been out.”
@@ -14196,44 +7387,7 @@ without my saying anything, took the roasting pan and squirted
 detergent in it and ran water in it to soak. He must have learned how to
 clean up from his mother the way I had learned yard work from my
 
-183
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 father. Everything was cleared away, under control, and George was
 turning on the hot water to wash the dishes; I felt we had crossed over a
@@ -14277,44 +7431,7 @@ of the garden, night still lurked.
 In the east, now, a specific part of the sky was beginning to
 change. Sitting there with George, I thought about Augusta’s night with
 
-184
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Allan on the bus and what had happened when they got to Champaign
 and then later when she went to New York . . . they had both missed
@@ -14358,44 +7475,7 @@ give him up. But when we reached the corner we had to stop, know what
 we knew, give in.
 “I hate this,” he said.
 
-185
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Me too.” Don’t cry, I ordered myself. He pulled me into an
 embrace and for an instant I wondered if someone would see us and then
@@ -14426,46 +7506,6 @@ kept going. He’s stronger than I am, I thought. But I watched him go
 without calling to him again. He got half a block without looking around
 before I could turn away.
 
-186
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
-
-CHAPTER NINETEEN
 
 I walked back up the block in the cool lemony first light trying not
 to feel George disappearing behind me, my back and his back getting
@@ -14496,44 +7536,7 @@ We were silent. I thought of how much I needed to tell her about
 what had happened since we sat down to dinner, and how much I would
 keep to myself. And what about her, all that time?
 
-187
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “You went somewhere, didn’t you?”
 “Went for a drive. With Jerry. We staked out the summerhouse,
@@ -14577,44 +7580,7 @@ to see some visible alteration. “Really.”
 “We didn’t, if that’s what you want to know.”
 “Is that why you’re not okay?”
 
-188
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 Well – it was part of it, wasn’t it? But I couldn’t explain that the
 right way, even to her. “I’ve got to go home.”
@@ -14656,44 +7622,7 @@ her hand on my shoulder, rested it there lightly as if to tell me she was
 there if I wanted her. “How’s Steve?”
 “He didn’t sound happy.”
 
-189
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 We sat in silence until I realized the angel had passed over and
 wondered momentarily what time it was.
@@ -14736,44 +7665,7 @@ Her hand left my shoulder; I couldn’t look at her, but I could feel
 her eyes on me. What’s she going to do to me, I thought. “You found it,
 you say? Just by chance?”
 
-190
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “I was poking around. While George was working. I didn’t have
 anything to do.”
@@ -14817,44 +7709,7 @@ knows about this. I mean, in the world. Except me and Allan. I never
 thought anybody else would.”
 “I’m sorry, I shouldn’t have read it, I know that.”
 
-191
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “No. Don’t be sorry. I’m not. It’s kind of a relief.”
 Not to me, I thought, but then that seemed silly. Was there
@@ -14898,44 +7753,7 @@ limit to how many fantasies like that Augusta had up her sleeve.
 She sighed resignedly. “I suppose you’re right. Tell you what,
 though. When you come back you’ll be sixteen, you’ll have your license,
 
-192
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 right? I’ve been thinking maybe I’ll just give you this car. You look kind
 of nice in it. I like the idea of you driving into the school parking lot in
@@ -14979,44 +7797,6 @@ the uneven bricks of the front walk for the last time until – when? It felt
 good to talk of next summer, to take it for granted, but who could say
 what might change by then? It seemed too far off to be real; I would be
 
-193
-Family Resemblances, by Lowry Pei
-
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 someone else. And so would George, and nothing could stop it. The
 memory of making him kiss me crossed my mind as I passed a certain
@@ -15060,44 +7840,7 @@ her face.
 “What time’s the train?” she said quietly.
 “Eight.”
 
-194
-Family Resemblances, by Lowry Pei
 
-F
-
-A
-
-M
-
-I
-
-L
-
-Y
-
-R
-
-E
-
-S
-
-E
-
-M
-
-B
-
-L
-
-A
-
-N
-
-C
-
-E
-
-S
 
 “Well, come on, we’d better go. Are you ready?”
 “I guess so.”
@@ -15113,8 +7856,3 @@ passenger door; why were we hesitating, looking at each other over the
 roof of the Buick?
 “I’ll drive this time,” she said. She did not roll up the windows as
 we pulled away.
-
-195
-Family Resemblances, by Lowry Pei
-
-

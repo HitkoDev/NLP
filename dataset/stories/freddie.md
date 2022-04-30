@@ -1,9 +1,3 @@
-Freddie
-By
-J. Stalter
-
-Freddie
-
 Entry to never forget,
 When I was eight years old, I had a dream. It was hard to forget at is
 lead to different adventures in its path. I kept having the same dream for years
@@ -28,7 +22,7 @@ dressed in black dress paints, a fancy white shirt, black shoes, and a brown
 pilot jacket. In my dream for some reason the bathroom was his bedroom. He
 just walked right passed me as he took the leash and went to go get my aunt’s
 
-Dalmatian, Shane for a walk. It confused me because that dog had been gone
+Dalmatian, Shane for a walk. It confused me because that dog had been gone
 for a while now. I went to the middle step of the stairs and sat as he opened the
 door. My grandfather turned my way and there was a bright light right behind
 him. He said, “See you later Freddie.” Then he turned and went into the light
@@ -54,7 +48,7 @@ lips, with a roundish nose. He was built like he worked out. He was wearing a
 white button up with two buttons missing, and black trousers, black dress
 paints and shoes to match. He stood out as he looked like the brown eyed guy
 
-that worked on my grandfather. He kept on teasing me making moose antlers
+that worked on my grandfather. He kept on teasing me making moose antlers
 with his hands on his head waiving them so often. Sticking his tong at me.
 Making faces like someone would with a child. I couldn’t help go to him. As I
 approached he gave me his hand. I could feel the peace in his body. He lead
@@ -80,7 +74,7 @@ wind on my back. I could feel how scared he was. I didn’t want him to fall.
 Once I hit the floor I hit a rock floor. Now I know how it is for every bone in
 your body break. I watched through his eyes at the end, of how he died. He
 
-was seeing the men laughing as if they gotten there prize. He wasn’t scared no
+was seeing the men laughing as if they gotten there prize. He wasn’t scared no
 more, didn’t feel no more, just went to sleep.
 As I woke on my bed, I found myself sitting up trying to get air. As I
 tried to get air I felt something sit at the bottom of my bed. It was the little boy
@@ -104,7 +98,7 @@ glass knight. A glass knight in my view is a young man who hasn’t been
 trained yet, however the king puts him out to fight anyway. The knight is
 weak, the cold blows a kiss to crack the glass armor to it touch. Exposing him
 
-for the weak and he is the strong man inside wishing he can call out, but he
+for the weak and he is the strong man inside wishing he can call out, but he
 can call out as he would give away where he was hiding. Why a glass knight?
 Well sometimes we all feel we are stronger then the world then we get a bitter
 taste of what the world is to not want to be so strong in the long run.
@@ -130,7 +124,7 @@ their old lady’s did to make them mad. Then you can find the woman at their
 weekly genealogy meeting talking about dead relative its stories that drove the
 men to the bar in the first place. If you ever ventured into this small town you
 
-could have a good old time playing bingo as you drink some good old sweet
+could have a good old time playing bingo as you drink some good old sweet
 tea. If you want to get a seat at bingo it’s located in the only church we own
 but I tell you this better get there before the old lady with the cane gets there
 and saves all the tables for her church buddies. You can only go shopping in
@@ -156,7 +150,7 @@ like a book. Yeah she’s cute. Who cares what they might say at school.
 Tonight I left my boyhood behind and became a man. It was the first time for
 the both of us. All night I hoped it wouldn’t end. Nothing was stopping us that
 
-night. We know what we were doing, we wanted our parents mad. An hour
+night. We know what we were doing, we wanted our parents mad. An hour
 passed quicker than ever before. Time sure goes fast when you’re having fun. I
 just laid there staring out of the window as she went into the bathroom to take
 a shower. She was chasing away the evidence away from her body before
@@ -182,7 +176,7 @@ noise it triggered us to run back up the stairs. We were caught just like I told
 you so. But not by my mother. When we started up the stairs my mother’s
 boyfriend, Bo came out of the kitchen we were dead meat.
 
-While he took a sip of his pink lemonade and put in on the television set
+While he took a sip of his pink lemonade and put in on the television set
 I know that we weren’t going anywhere when he caught us he made the two of
 sit on the sofa. Bo looked at me, the to her, then back to me as he inhaled, then
 exhaled loudly like he knew that smoothing bad was going to happen. I was
@@ -208,7 +202,7 @@ neighbor would tell her father. She didn’t want any trouble. She didn’t look
 back when she did go in the door she put the front light on for me telling me
 everything was okay.
 
-I had a pain on my side. It was either gas or I was hungry. So I took
+I had a pain on my side. It was either gas or I was hungry. So I took
 myself to the diner. I sat alone in booth five looking around at the different
 metal lunch pals that the owner collected he had every television show from
 the late 20th century. I ordered a cheese burger with eight pickles I like
@@ -234,7 +228,7 @@ wasn’t for the rain he wouldn’t be here at all. It was hard to sit still as 
 stranger sits across from you and read the menu. He told the waiter to order a
 thing of cheese sticks. When the waiter left he took as napkin and a pen I had
 
-in my pocket and started to draw. He drew a building in detail. He drew a
+in my pocket and started to draw. He drew a building in detail. He drew a
 wooden building that had a boat inside of it.
 “What are you looking at?” he asked as I looked he got angry at me. He
 said it like a barking dog. I just let it go. Mom, was yelling in the back of my
@@ -259,7 +253,7 @@ the man in red came all the time. I let it go out of my head as I thought about
 getting home before my mother.
 I let go of what the stranger told me. Those are just words, but knowing
 
-I have something like a gift of some kind really made the words sit at the back
+I have something like a gift of some kind really made the words sit at the back
 of my mind. After going into the bathroom and yelling at myself I finally got
 the courage to go home. I know that getting something to eat it seemed she
 would beat me back to the house, but you know I didn’t care. I ran to the car
@@ -285,7 +279,7 @@ I made it so I had no choice in the matter.as the door opened the cat like
 creator was there to greet me. She looked like a mountain lion before it attacks
 you, but this was much scarier. As I walked up to her I put on the puppy eyes
 
-into play. She just looked into my eyes as I looked into hers, I saw anger. She
+into play. She just looked into my eyes as I looked into hers, I saw anger. She
 pointed to the sofa, so as a good dog I went and sat down. As I sat on the sofa
 I could feel the chill in the air. Mother went up the stairs and called my
 brothers down for a family meeting. She was putting me on show.
@@ -311,7 +305,7 @@ roof. We first caught you swimming naked at some party, then mud wrestling
 in the neighbor’s back yard with some of your friends, and not this. That’s
 three you don’t get more chances. We called your Aunt in Tennessee, she has
 
-agreed to house you boys for the next school year. I said no at first, but you
+agreed to house you boys for the next school year. I said no at first, but you
 can all thank Freddie for my word.” She was redder then a tomato in July. It
 went better than I thought but she isn’t going to make my brother go down for
 this as well.
@@ -337,7 +331,7 @@ the night before on a football players arm. I was just her toy in her sick web. 
 trusted her.
 Bo was nice to put the suit cases and the other things in the back of my
 
-Purple Truck. Ryan took Buddy in the back seat, and Stu kept me company in
+Purple Truck. Ryan took Buddy in the back seat, and Stu kept me company in
 the front. Mom couldn’t bear see us go how fast she changes. I pulled out of
 the drive and told the boys this was a new adventure for us to go on. We were
 shutting the door in Hay Cook, New York and opening a new one in Dickson,
@@ -367,7 +361,7 @@ called us in for dinner. One summer we made a circle of rocks, and we put a
 piece of our hair in the circle and we thought it made us best friends for life.
 Erica, she had the reddest of red hair, and it is ever long. Her hair is so long it
 
-made tomatoes blush. We both are a year apart in age however people always
+made tomatoes blush. We both are a year apart in age however people always
 thought we were twins when we went shopping with Aunt Mary. She was
 given green eyes they say she gets them from her daddy. She isn’t scared to
 tell you were to go. She is the girly girl. Her favorite color is pink. If you want
@@ -401,7 +395,7 @@ Then there is Aunt Mary. The one who gave Erica her looks. She looks
 like her daughter if she was older. She was the mom I always wanted, and
 every summer I got to have her as my mom. She was the one who helps us
 
-learn to cook and sew. She was the one who made my childhood what it is.
+learn to cook and sew. She was the one who made my childhood what it is.
 She wears her hair one way in a banana clip. She collects all the Dalmatian
 figures she can get her hands onto. When she wants you to know something
 she will tell you. She always told me that I didn’t look like the family. I gotten
@@ -436,7 +430,7 @@ As I looked at the town as I drove through it I saw things. Things like the loca
 fruit and vegetable stands were my Uncle Richie went and ate his oysters.
 Right behind it was the biggest building we call the batman towers. Because of
 
-the two points on the top of the building. Why, didn’t I come this summer?
+the two points on the top of the building. Why, didn’t I come this summer?
 Well, that’s a good question. The answer is that Stu Brocken his arm and I had
 to stay home to take care of him.
 We finally pulled up to a street that I would recognized anywhere. A
@@ -470,7 +464,7 @@ door creaked open and the souls of my shoes hit the rocks and pebbles that
 made up the drive way. I looked up to the house once more and I was home,
 finally home I was ready to say that I was now home. As the door made a
 
-sound shutting a famous red head walked out of the house to help me unload
+sound shutting a famous red head walked out of the house to help me unload
 the truck.
 “Hello there stranger.” She spoken as if it was the first time in years
 since I heard it. In a soft way like Erica always did. I had my back facing her I
@@ -502,7 +496,7 @@ he wanted to do was lay there on his bunk. Erica retuned down stairs as I
 unpacked Ryan’s clothing into the top two levels of his dresser with clothing
 and the bottom level with his toys. I put my clothing under my bunk in a flat
 
-bin along with Stu’s. I left Stu’s items on his bed. We didn’t have much but
+bin along with Stu’s. I left Stu’s items on his bed. We didn’t have much but
 Uncle Hampy built each of us a wooden shelf to put them on. I put my
 collection of action figures each one Fred from Scooby Doo. I only had the
 one from 2001. It all started when I gotten my first one on my tenth Christmas.
@@ -535,7 +529,7 @@ as time goes on to tell. I was scared I needed Walton to be here.
 stairs to star super as she stayed behind to talk. I know in the back of my mind
 Stu needed me, but I needed Walton. I thought I was going crazy. The man in
 
-red came with me if I liked it or not. She told me he was coming over
+red came with me if I liked it or not. She told me he was coming over
 tomorrow his mother had him out in town. He wanted to be here, but his
 grandmother only visited once a month. I understood can’t keep him from that.
 Can I wait?
@@ -565,7 +559,7 @@ two of us. And told us……
 “You better bring home good grades and I want to have words with your
 teachers once in a blue moon.” She doesn’t ask for much, but at least she
 
-knows what she wants. It was very nice it felt more like a family when they
+knows what she wants. It was very nice it felt more like a family when they
 did that. It’s the small tokens of their love that matters.
 The next day was the first full day in Tennessee we went down to the
 school to make up the list of classes we needed for the next school year.
@@ -599,7 +593,7 @@ think someone is in here with me.” I could hear the chill in his voice. I coul
 tell this wasn’t a trick. Walton pointed out the door was still red so we knew
 nothing was in there with him. Was he seeing those things as well? As long as
 
-no one was in there wearing red, if he hurts Stu I will hurt him. How can you
+no one was in there wearing red, if he hurts Stu I will hurt him. How can you
 fight something you can’t touch? I noticed that the people were at a standstill.
 Their eyes glow red as if they were being controlled by strings like a puppet
 master was telling them what to do. I was waiting for it to end like a bad
@@ -633,7 +627,7 @@ truck. He laid on the back seat not making a sound. I could tell it was making
 him scared. When we drove away I could tell the red eyed puppets were back
 to their normal selves.
 
-“How are you doing?” I wanted to know what happened to him in the
+“How are you doing?” I wanted to know what happened to him in the
 rest room, and now this oh what’s going to happen next.
 “Cut the act, Freddie tell me the truth. Right now!” He was madder than
 a bees nest full of bees. I pulled the truck over to talk some more.
@@ -666,7 +660,7 @@ feel the cold chill hit my bear chest. Like a cat to catnip. As I looked in the
 mirror to my bear chest I always thought my chest is the shield volcano a large
 gentle dome. I was quick to change my underpants. Took them off to throw
 
-them in the basket, and grabbed my briefs with the purple hippo print as they
+them in the basket, and grabbed my briefs with the purple hippo print as they
 crawled to find their way around my nice firm bottom and the thing that made
 me a man, the fruit of the loom. I completed my outfit with my ranch red
 jeans, and matching shirt. Then a dark purple cardigan to put the cherry on
@@ -700,7 +694,7 @@ look at Stu, I couldn’t move wanted to, so much. I gave all the energy to my
 head to turn it to see he was just watching him. Just gave in and fell out of the
 seat, when I woke it was as if I dreamed the first morning to the first day of
 
-school. It was a dream.
+school. It was a dream.
 “He’s mine.” The man in red said. I was lying in bed looking right into
 his eyes as he was laying right next to me. He scared me so I was on my feet
 faster than I thought I would of.
@@ -733,7 +727,7 @@ you can do but it splits each time. When I passed it all went to you. The other
 side said I knew too much that’s why my time was up. I didn’t have the people
 I needed, but I made sure you had them. Trust me or don’t trust me. I told you
 
-too much but I leave you with this. Try to help the one who come to you, and
+too much but I leave you with this. Try to help the one who come to you, and
 get them into the light so they can be at piece. You had that dream for a
 reason.” He walked out. Looking back one last time leaving me there to figure
 out what he said. I called Walton to come over, as we talked about what my
@@ -767,7 +761,7 @@ someone left a body in the basement and its blood was dripping down into my
 hand. My heart started pumping faster and faster like a rain was coming and
 the noise was getting louder. It started out pink then got redder then a tomato.
 
-Knowing that something was in my happy place made my happy place not so
+Knowing that something was in my happy place made my happy place not so
 happy. The blood got faster and faster as time went on. The waster that was
 coming out of the shower head started to come out red as well. Before I
 known, I was covered in blood. I didn’t want to say anything because maybe
@@ -799,7 +793,7 @@ My day was going from bad to worse.
 “Hello there.” Walton was standing there. Looked behind him as I
 couldn’t help but notice he was holding a knife.
 
-“Why, do you have a knife?” all he could do was stair into my eyes. I
+“Why, do you have a knife?” all he could do was stair into my eyes. I
 didn’t see Walton, I saw different eyes. They were silver. The strangest thing
 was I could see right through his body. He was a ghost. I confronted him of
 that. That’s when my dad took his place. What was going on?
@@ -833,7 +827,7 @@ the bed.
 “Your father isn’t as nice as you think you do. He uses us to get what he
 wants. I came to you for a reason. I’m going too hid in your shadows.” He
 
-was welcome, if dad did that to me in a dream, then is needed to protect him.
+was welcome, if dad did that to me in a dream, then is needed to protect him.
 “I’m so sorry I can’t help you.” He looked to the floor, when I looked between
 my legs I saw his face. His hand took my ankle as I feel to the floor while he
 drug me under the bed. I watched Bradley get further and further away until
@@ -865,7 +859,7 @@ Erica, and Stu. Once I saw it leave I motioned Walton to go. We only had a
 one way trip for the bus in our pockets combined. Knowing we had to walk
 back to the house. Walton and I sat between a fat man and a blond middle aged
 
-waitress late for her shift. When the bus let us off in front of the library I
+waitress late for her shift. When the bus let us off in front of the library I
 noticed that there was a guard standing outside of the door. He looked like that
 policeman that sat on the Norman Rockwell painting. He had everything to the
 description to that very painting.
@@ -897,7 +891,7 @@ could tell they don’t give books away here for free. There was a lady who
 stood in the middle of the library who you went to looking for answers to me
 she looked like a really old version of Aunt Mary if she ever was to get old. I
 
-didn’t want to go over at first. Walton and I went through all the local history
+didn’t want to go over at first. Walton and I went through all the local history
 books and couldn’t find a thing. I still after words didn’t want to go over to her
 I was scared for what I didn’t know. I sat there frozen, Walton wasn’t scared
 he walked right up to her.
@@ -930,7 +924,7 @@ basement was the morgue. Someone volunteered to sit with the body s to make
 sure the body didn’t get up and walk away. If the body did sit up to make sure
 it was really dead.” It was him Bradley I was able to show Walton and the rest
 
-of the family who he was now, but did I want to. He was something back then
+of the family who he was now, but did I want to. He was something back then
 a good catch. She let me have a copy of this picture and the rest of the folder
 as well to read as I wished. I thanked her and then returned to Walton in the
 mystery novels, but Walton wasn’t there. It looked like Walton the back side
@@ -963,7 +957,7 @@ is Walton? As I walked around the library Bradley came back to me panicked.
 you will find your friend.” He was gone in a flash. To help him he needed to
 help me. The second room it hit me it was the room upstairs that was locked,
 
-but how was I to open it. My feet had me to the second room as fast as they
+but how was I to open it. My feet had me to the second room as fast as they
 could. I didn’t stop never knowing what was going to happen if my dad was
 not a nice man then who knows what he would do by the time I get there.
 I grabbed the box of Erica’s antic keys trying each one at a time never
@@ -996,7 +990,7 @@ could understand. I didn’t want him part of this in the first place.
 “You think you can have all the fun without me. I am in this if I like it or
 not. Thanks for untying me. Before your father left he handed me this key.
 
-And a note I think this is for you.” He handed me a key with a purple diamond
+And a note I think this is for you.” He handed me a key with a purple diamond
 in the middle in it. The note read, (the kid of fourteen with braces from ear to
 ear. With red hair and wearing purple sweaters is now ready. If you look you
 will see underneath the maple tree is a secret from a long time ago.) Was I to
@@ -1028,7 +1022,7 @@ all sit as we had all the members in the room.
 dust off his skin.
 “I don’t know Freddie called this family meeting.” Erica remarked.
 
-“We went up into the attic today or should I say the second bedroom. I
+“We went up into the attic today or should I say the second bedroom. I
 see what the maple tree had to hide.” Walton was angry when he spoken I
 could tell it all it got to him. There reactions were still as if they had nothing to
 hide just a blank wall to stare into. The only one who didn’t look like that was
@@ -1061,7 +1055,7 @@ He’s the one besides Walton I share things with. We were given the second
 chance to have a father again. Erica didn’t know what to say. She just went
 into her bed room. Stu followed her to make sure she was fine.
 
-“We both forgive you. You guys are here and the truth is out let’s move
+“We both forgive you. You guys are here and the truth is out let’s move
 on from that.” Walton and I decided to move on if we were going to have a
 piece of mind. He told Walton he could move in being that he was family. He
 took him on his word. We replaced Ryan’s bed with another set of bunk beds
@@ -1095,7 +1089,7 @@ people standing in front of it and framed it on the wall. It was to remind me of
 those who come before me and those who carry on. I leave this entry with this
 last notion the last thing to come out of the tin was a picture of Bradley in long
 
-johns. That photo has more to tell then a man in his underwear.
+johns. That photo has more to tell then a man in his underwear.
 
 Entry number five,
 Uncle Hampy tracked down a used washer and dryer. The family needed
@@ -1127,7 +1121,7 @@ into the bathroom upstairs as I heard the door shut from outside. Erica was
 inside no more as she came my way.
 “Freddie you need to go talk with him. He told me what was going on.
 
-Made me not tell, but you need to go in there and talk with him. He asked me
+Made me not tell, but you need to go in there and talk with him. He asked me
 how to tell you I tried to answer as best as I could. He needs his brother.”
 Erica and Aunt Mary worked on getting the machines in the house, women
 power! I went in the bathroom and sat on the toilet. There he was sitting in the
@@ -1160,7 +1154,7 @@ give a fake name. He worn a whole in the floor as he wouldn’t sit. When they
 called his name he jumped like a cat to water.
 He had to sit on the cold table as the nurse in pink took his blood
 
-pressure and his weight. He was timid, he didn’t want to be there, but he did it
+pressure and his weight. He was timid, he didn’t want to be there, but he did it
 for me. She handed him a gown to put on. Told him to strip and put it on. He
 turned so red it could make a stop sign blush. He took off his shoes boy did
 those things stink worse than his breath. Then his socks, green colored jeans
@@ -1194,7 +1188,7 @@ apple went up and down as he swallowed hard. I could feel how a one inch
 rod was going into a whole that was centimeters in diameter would hurt. He
 passed out during the whole thing can’t blame the kid. I saw things inside of
 
-Stu I didn’t want to see. My eyes didn’t want to look but they looked anyway.
+Stu I didn’t want to see. My eyes didn’t want to look but they looked anyway.
 She slowly pulled the rod out. I was hoping it wasn’t going to get stuck. She
 had me look at him there she pointed out things I didn’t understand. When he
 was all done, they wheeled him to a place where he could rest. The doctor
@@ -1226,7 +1220,7 @@ the doctor talked with him and handed me the script he hit the fan.
 “Freddie what do I do. I rather die then have this happen to me.” He was
 crying a lot today.
 
-“You can try adopting there’s other things. You can work for an
+“You can try adopting there’s other things. You can work for an
 orphanage, or even be a teacher.”
 “Then that’s what I will do. Try to adopt. That’s what I want to do with
 my life be a dad. More than anything.” He was counting his ducks faster than I
@@ -1259,7 +1253,7 @@ hand, but I know he is my uncle I can’t see him as anything else. Was there
 something happening I didn’t have control over.
 “I’ll take him with me. Make sure nothing bad happens. We are going to
 
-hide from him. We will be in the shadows of those who stick close with
+hide from him. We will be in the shadows of those who stick close with
 you…..remember that. Make sure you try to stay strong. You let your guard
 down today being your brother was sick. It lead to the man sitting next to you
 today. Let’s go kid.” Bradley took A.J. by the hand started to walk until I said
@@ -1291,7 +1285,7 @@ in books and Ryan was playing with the other children. Aunt Mary was out in
 her garden planting her tulip bed. Uncle Hampy, he was out in this heat push
 mowing the grass for the old lady that lived next door. Walton and I were
 
-watching television shows based on whisperer of ghost. We were trying to
+watching television shows based on whisperer of ghost. We were trying to
 teach ourselves about ghost. We thought you needed to know the subject you
 are trying to look study so your studies strengthen as you learned.
 While the lady on the screen was talking away Walton noticed a noise
@@ -1324,7 +1318,7 @@ trying not to slip. At the end of the hall stood A.J. boy was I mad at him, but 
 couldn’t really be mad he was confused. He was the only one that could stop
 this water. The washer was the first sign I should have seen it.
 
-“How dare you send your relative over to my wife? You aren’t taking all
+“How dare you send your relative over to my wife? You aren’t taking all
 my family with you.” He was mad at me. The water was my answer to why he
 was mad. He thought I was the one who killed him. That’s what I thought any
 way.
@@ -1357,7 +1351,7 @@ the more chances on keeping flout. Good thing he remembered.
 want to look, I could tell my Aunt was at the top of the ladder. I took off my
 purple sweeter showing my bear chest. If I was going to go down I need to do
 
-what my brother did to not weigh me down, Aunt Mary came to the spot
+what my brother did to not weigh me down, Aunt Mary came to the spot
 where I was to help me when I came back up. The water was cold when I
 hopped in. If you think about it, if you clear your mind as you’re in the water
 it’s like you’re in air. I gotten to his body I pulled him up by putting my hands
@@ -1391,7 +1385,7 @@ They took it well as if they knew this whole time. I was waiting for them to
 put me in the corner and make me were the pointed hat. This time they just sat
 there making sense of it all.
 
-That afternoon Aunt Mary took all of us out for a nice dinner to talk
+That afternoon Aunt Mary took all of us out for a nice dinner to talk
 about everything. Now it’s out in the open. I didn’t have to worry no more. I
 told them how we all have to be a team to make this work. We all decided that
 night that we were not only family but one whole as a team. That night ended
@@ -1424,7 +1418,7 @@ unfolded it. It matched the picture exactly to the lines of the ink he drew.
 Walton doesn’t look at me as if I was another crazy person that say they can
 see ghost. I think he had been in visions with me before that he waited for me
 
-to tell what I said. I think they all known, but I had to take my time to tell
+to tell what I said. I think they all known, but I had to take my time to tell
 them just as Stu did with me. The door took a while to open. The lock was
 rusted but the butter knife did the trick that Walton had brought with him.
 Inside was grass and an old gray boat that sat in the middle. As Walton and I
@@ -1457,7 +1451,7 @@ of the tables and sat.
 did it, I would poop in my pants too. We now have the pieces just have to put
 them in the order we needed it to be in.
 
-“I remember now.” He was gone right after that. I didn’t remember
+“I remember now.” He was gone right after that. I didn’t remember
 anything so I have to dig more. Stu, and Erica were working on scanning in
 the pictures. I grabbed Walton with the paper work that I had from the
 librarian.
@@ -1489,7 +1483,7 @@ brother while he shaved me.” Bradley was on a mission.
 “Freddie you need to see this.” Erica yelled over to me to come over to
 the computer. Bradley was hiding behind the machine as we solved what
 
-happened.
+happened.
 “Freddie I looked into my genealogy notes. I never noticed it until Erica
 said something. Bradley Melvin Mason is our great great grandfather. His son
 was Melvin. It’s all here.” It all made sense the house stayed in the family. The
@@ -1521,7 +1515,7 @@ this house. The doorbell rang at six in the morning. The rings wouldn’t stop
 coming from the front door. It wasn’t the paper boy, or the milk man they
 don’t start until seven. Aunt Mary and Uncle Hampy were dead asleep to even
 
-know that the sound was in the air. The others were too busy being the teens
+know that the sound was in the air. The others were too busy being the teens
 that they were born to be. My feet touched the floor cold to the touch. The
 blanket that sat next to me that covered my body was watching as I walked out
 the door. Looking at the face of myself with different colored hair was odd. It
@@ -1553,7 +1547,7 @@ happening.
 Her nails did all the talking. I saw the book that she wrote in her mouth that
 needed to be burned.
 
-“No, no, no you get married that’s up to you, but leave me out of it. Go
+“No, no, no you get married that’s up to you, but leave me out of it. Go
 to the Greek Islands. I don’t care.” It was hard in front of my whole family. I
 had to tell them what was on my mind. But sadly the purple dinosaur teddy
 bear got the bad timing out of all of us. I now own Ryan a new one. I just had
@@ -1586,7 +1580,7 @@ When we walked in there sat a big display for a new plastic doll. “Peter the
 Farmer.” He came in brown boots with a way to tie his boots. I thought that
 was a cool way to teach him how to tie his shoes. He also wore blue jeans and
 
-a blue t-shirt with a yellow button up over it. On his head was brown hair and
+a blue t-shirt with a yellow button up over it. On his head was brown hair and
 a cap. Inside was the farmer’s vegetables and fruits, and the farmers shovel.
 He was excited to get it. I tried to talk him into another toy but he had to have
 that one. As I was trying to show him another toy he had that one at the
@@ -1620,7 +1614,7 @@ myself. The four of them came out as soon as the cop with the big belly was
 done talking to them. Watching as the four of them gathered around me. The
 man in green just took off.
 
-“Hey, look at me. I’m right here. Why can’t you see me? Listen please?
+“Hey, look at me. I’m right here. Why can’t you see me? Listen please?
 What’s going on? Hey, guys I am right here. You don’t have to cry.” I kept on
 yelling, but they didn’t listen. I screamed and yelled and nothing was getting
 into their ears.
@@ -1650,7 +1644,7 @@ mud out of her clothing.” I had to make her believe I was there.
 “Hey, Erica do you remember the time……” She then knew that I was
 there. No one else knew about that but the two of us. Erica had to put her right
 
-hand on my heart, and her left hand on my face. To make her powers work,
+hand on my heart, and her left hand on my face. To make her powers work,
 she had to think of a childhood memory that she mostly thinks of. That’s why I
 brought up that moment, but she bought up the time I gave her the key. As she
 thought about that I felt different like I was going to see my lunch again. Her
@@ -1683,7 +1677,7 @@ truth through their teeth. They tried but my Aunt and Uncle got to me first. I
 was blinded at the fact that I had the people around me the whole time. We all
 got the day out of our heads with ending the day with the game of guess who. I
 
-needed to smile before they come to put the jacket around me. Something
+needed to smile before they come to put the jacket around me. Something
 happened. My gift was taken on a ride tonight. The ghost world is getting
 stronger than ever. I want to know, why?
 
@@ -1715,7 +1709,7 @@ fourteen, Mary and Hanford are in room twenty-two, Bo and I are in five, and
 Erica is in eighty-eight.” She said that with a smile, but those rooms were odd
 numbers. My life was odd why not the room numbers.
 
-“Why so far apart?” Aunt Mary asked. Good question I would like the
+“Why so far apart?” Aunt Mary asked. Good question I would like the
 same answer.
 “That’s because Bo and I did as come first. We pulled names out of a
 hat.” That’s mom for you. I felt the wind as I put my feet on the wood of the
@@ -1748,7 +1742,7 @@ it, so I know how it is. . I picked up a farmer for Ryan. We all ended the first
 day in the food court for dinner. Erica ate with us we found out she was going
 as a Fairy.
 
-“You know the fish will get mad at you. They sometimes put fish scales
+“You know the fish will get mad at you. They sometimes put fish scales
 in the lipsticks.” I tried to make a conversation around the table.
 “Very funny, you okay with Bo being a new addition to this family?”
 She was going to through away that tub of Lipstick I know she’s thinking
@@ -1781,7 +1775,7 @@ shower runs on quarters so you only get ten minutes at a pop. The ten minutes
 time was over before I could clear my mind. Once the water stopped I wanted
 to ten more, but I needed my rest for the next day. My feet touched the towel
 
-that I rested on the floor so nothing bad happened. It was too late to do
+that I rested on the floor so nothing bad happened. It was too late to do
 anything, so I put on my purple briefs then went to bed. Before I closed my
 eyes, I looked over to the chair were my costume sat, and thinking of the day
 that we would have in a few days.
@@ -1812,7 +1806,7 @@ coming on this boat.
 purple every day.” I see he went to the bar and had a glass or two being he
 took over Bo’s body.
 
-“What is it really?” I had to ask he is not going to spoil my mother’s big
+“What is it really?” I had to ask he is not going to spoil my mother’s big
 day.
 “I want something.” What would that be?
 “My soul to take is that what you want? You want to live again.” I didn’t
@@ -1845,7 +1839,7 @@ my head. I was too scared to move. I had Erica and Walton screaming for me
 to get into the pantry, but I didn’t want to move. I was too scared, I came all
 this way to have my nerves get to me. I watched as the bottom of the pool
 
-came down and split the ship in half before noticing that both side of the ship
+came down and split the ship in half before noticing that both side of the ship
 were sinking. I was too scared to even notice that my father finally get what he
 wanted. I was getting ready to jump to the other side. I noticed the wall paper
 had cowboys on it witch was after a bull. Just like my dream. Will this be the
@@ -1880,7 +1874,7 @@ down in the water. I could see his face get redder then a tomato on a hot day in
 June. He had my back like I always had his. But if he hates me then how can
 he have forgiven me in a short amount of time? If I came to save him, he must
 
-of saw that, and thought that maybe that he saw the wrong thing. Jumping to a
+of saw that, and thought that maybe that he saw the wrong thing. Jumping to a
 conclusion. I know, I did. I faced my fears a long time ago tell today to face
 them, but there he was facing his at the same time. If it wasn’t for the hair on
 the top of our heads then people might have thought that they were seeing two.
@@ -1911,7 +1905,7 @@ mother.” I said with an angry voice. I was hurt and I’m not going to let him
 forget that.
 “I am sorry you have been talking to Bo a lot during the whole thing.”
 
-At least he said he was sorry.
+At least he said he was sorry.
 “This is because my father took over his body. He got it from the movie
 that we were watching the day the house flooded.” We didn’t stay angry for
 long. We let history stay that way. It was a lot like my great grandfather, him
@@ -1942,7 +1936,7 @@ side.
 
 Entry number nine,
 
-Isn’t it funny how when we die that when people realize how much you
+Isn’t it funny how when we die that when people realize how much you
 were needed in their life? You’re just another toy in the toy box of life. Your
 identity is the only thing you can buy. Sometimes you get sick of yourself, and
 when you look in the mirror you might want to punch it. You might get sick of
@@ -1976,7 +1970,7 @@ the closet door. As we got closer, I was too scared to see what it was. I wanted
 the poor boy. When the poor boy took his steps to show himself I was happy
 to see his face.
 
-“A.J.”I couldn’t believe my eyes it was him.
+“A.J.”I couldn’t believe my eyes it was him.
 “What is odd to me is that my father let you live.”
 “He told me that I was his son.” There’s no way I had no clue who this
 person was until he, wait he might be telling the truth. My mother in New
@@ -2008,7 +2002,7 @@ couldn’t do nothing about it. I wanted something done. Not even eighteen yet,
 and my life is gone to the dogs. He’s out there, but where he is I think, I
 know. Don’t go by my word. Water was the clue. Rain, shower, and ocean it
 
-all made since now. He was near the river. The only source of water we had
+all made since now. He was near the river. The only source of water we had
 near this house.
 “Freddie I found the book with the pink dot on it. Freddie this is a spell
 book.” Erica said as she walked out of her room. She flipped the pages reading
@@ -2040,7 +2034,7 @@ other way each time. Walton was going to a fight he didn’t want to go in. this
 was my fight and not his. Just because he had Schnitzer in his name that meant
 he was involved in the things that I am facing. My father isn’t going to win
 
-this. I put my tears away a long time ago, and I know, I have to put him with
+this. I put my tears away a long time ago, and I know, I have to put him with
 them.
 “I think not.” All he did was snap his fingers. He had so much power to
 hurt me. The sound of a dog whistle came into my brain. It hurt so much like
@@ -2074,7 +2068,7 @@ growing up?” Once he came in the cave he started to punch me, but I couldn’t
 punch back. I didn’t know where the blows were coming from each time. He
 turned himself into air. He took my head and smashed it on the rock wall. He
 
-kicked me in the ribs every time I was down. I couldn’t help but to up chuck
+kicked me in the ribs every time I was down. I couldn’t help but to up chuck
 some blood. He ended it with throwing me in the water. I had just the right
 energy to keep afloat. He could not touch Walton as he had his shield. He took
 me by the back of my costume and lifted me in the air. He was getting ready to
@@ -2106,7 +2100,7 @@ Walton and I went to and gotten a tree for free being we worked on the tree lot
 this year to buy Christmas gifts. Bradley was missing for a while, however
 when I gotten out of my car he was standing in the bed of the truck.
 
-“What’s wrong? Do you see a light if so it’s for you?” He looked at me
+“What’s wrong? Do you see a light if so it’s for you?” He looked at me
 in fear.
 “No, there’s more to come.” He looked in to the outline of the woods.
 As my eyes looked I felt funny. There were a line of lost spirts. “Freddie we
@@ -2138,7 +2132,7 @@ that belt fly in the air. He didn’t do nothing wrong. Poor boy, his daddy blam
 him for his mama going with another man. One night my daddy went next
 door and retuned with the poor boy while he was still wearing his red long
 
-johns, didn’t even give him a chance to dress. Our family opened our hearts,
+johns, didn’t even give him a chance to dress. Our family opened our hearts,
 our homes to him. How did he repay us? His daddy had friends that chased
 him off a cliff on horseback. I just wish he didn’t die alone. The boy from next
 door didn’t do a thing, but to this day there’s no sign of the father. Then
@@ -2172,7 +2166,7 @@ he was happy I was there. Just sat on the floor holding his royal blue cardigan
 in my hand crying into it. Reading his short stories he wrote as a boy while I
 still had day light. Took that sweater and put it on. I think he would want to
 
-wear it. Took the bag of pennies I found lying around the house and lined the
+wear it. Took the bag of pennies I found lying around the house and lined the
 window sill with them. I took a piece of him with me that day. I had to say
 good bye one last time. This door needed to close I needed others.
 I feel safe in this house. I see his shadows walk the halls. His smell hits
@@ -2206,7 +2200,7 @@ do for me, and he is talking to Erica. She can’t hear him. He was right what
 happened next hit every one and put them in turmoil. Time sure flies by faster
 than you think it dose.
 
-The leaves started to turn the shades of autumn, the sun shines through
+The leaves started to turn the shades of autumn, the sun shines through
 each one making mother nature’s stain glass, the acorns feeding the squirrels
 as he maple leaf seed flown in the air while we were kids we called it nature’s
 toy. The smell of one of Walton’s homemade apple pies were filling the air as
@@ -2240,7 +2234,7 @@ they had a grip over there man. All women had this power they make me feel
 that men had a power over them. Then on the other hand the money that man
 had earned was in this handbag. The handbag was the man’s manhood and the
 
-woman held it everywhere she went by a string. Had a grip over there life
+woman held it everywhere she went by a string. Had a grip over there life
 making sure they didn’t cheat on them. A gross taste in my mouth just
 thinking about it. Just was glad the vision didn’t last very long. When I gotten
 to the bathroom the clothing found their way to the floor taking a nap so often.
@@ -2274,7 +2268,7 @@ taken away. I didn’t want to even believe it for myself. There he was. Standin
 right behind me. I couldn’t tell if this was a spirit or not. It was odd. My eyes
 never left the mirror. It was a young man looking to be in later teen years, just
 
-graduating from high school. He stood there with a cut on his face, a red patch
+graduating from high school. He stood there with a cut on his face, a red patch
 on his neck as if there was something was around it, and his hair was messed
 up. Couldn’t tell if he had red hair or not as blood was messed all through it.
 His eyes were so tired he had all he could was stand there. His breathing was a
@@ -2308,7 +2302,7 @@ he didn’t want to open his eyes at all.
 “Freddie I went and found this with his cap.” Stu, he handed me a piece
 of paper stating that he was an Amish man. Funny he didn’t look like one.
 
-Then it really sunk in my head. 1942 was a spell from Erica’s book not a year.
+Then it really sunk in my head. 1942 was a spell from Erica’s book not a year.
 I felt his hand grab mine. He was in there I knew he was. “Freddie l looked
 and noticed that the cuts will heal on their own, and there was tares on his
 back side as well.” He had been to the dark side of the moon and back. What
@@ -2341,7 +2335,7 @@ mean you have to. Freddie I didn’t tell you that there are those that were
 watching me. They weren’t human they knew I was on to them so they placed
 me here.” Okay new news. No we had to go now knowing that which he just
 
-noted. We all took what we could carry on our person’s. Erica took my hand as
+noted. We all took what we could carry on our person’s. Erica took my hand as
 she had Stu’s in the other one, Stu ended this paper doll as he held Walton’s
 hand. We all took one last look around the room not knowing where we were
 going. That’s when I took the hand to the man from 1942. It was like the floor
@@ -2369,7 +2363,7 @@ other day listening to the radio. Boy that singer from Memphis sure knows
 how to sing. Ended the shower letting the water run down my face. There was
 a knock on the door short after the other man wanted to get in. my hand gave
 
-the shower its final bow. Towel hugged my body dry cleaning the whole thing,
+the shower its final bow. Towel hugged my body dry cleaning the whole thing,
 like a nice bear hug. The olive green underpants hid the gift I was handed
 down by the last generation.
 Knock, knock, boy was someone waiting for a shower. I like to take
@@ -2395,7 +2389,7 @@ our eyes. He smelled like a bad skunk. I didn’t know if it was female or not a
 his hair was pinned up. Was I scared? There is no words to say how I was. It
 was like I took myself and replaced it with a braver man. He put the tip of the
 
-gun onto the side of my face. I didn’t have a chance with all those planes
+gun onto the side of my face. I didn’t have a chance with all those planes
 guess this was the next best thing. Was I ready? The green eyes man made a
 Nosie distracting him. The sun put a bullet in his leg. I rushed him. Just letting
 and doing the moves I was taught to do. He was passed out in seconds and I
@@ -2421,7 +2415,7 @@ what I expected. Funny how when you lived here in the future time the past
 wasn’t that different.
 “Todd your home.” Erica was behind the door it was great to see her as I
 
-thought she had died and she stayed dead.
+thought she had died and she stayed dead.
 “Erica where are the others.” I was crying she was just sitting there like
 Barbie with her plastic smile and hands all nice and in place.
 “Todd dear there are times to talk about that, this isn’t a time like that.”
@@ -2446,7 +2440,7 @@ went and changed into clothing that sat in Todd’s closet. White muscle shirt
 and brown paints. Walked out and gotten fire wood from the garage. Noticed
 the others where watching me. Erica and I knew that to end this we had to
 
-fight off these people that Todd did tell us about. Erica put up a shied around
+fight off these people that Todd did tell us about. Erica put up a shied around
 the house. As I lite the match. This book was the one thing that wrote our time
 line, when it leaves we get to control our lives. I had it in my hands. The man
 with the black hair was one of them I was fooled as well. He knew how to get
@@ -2471,7 +2465,7 @@ Knock, Knock, Knock on the door. “Freddie, hey I kind of need to talk
 with you.” There was Walton sticking his nose in the door in his pink t-shirt
 and matching briefs. Wait one set of bunk beds, and one bed. Erica still had
 
-metal on her teeth. The little boy sleeping in the bed was still three years old.
+metal on her teeth. The little boy sleeping in the bed was still three years old.
 The book was our future as Erica and I walked through the door we unwritten
 time. Now it is for us write, that’s means Uncle Hampy is still with us. We
 were seventeen again. What was he going to tell me? I asked, he answered.
@@ -2481,8 +2475,3 @@ didn’t die it just moved somewhere else. I knew it had as Erica had the only
 other clue.
 “Erica, where’s your key? Those are a nice string of pearls around your
 neck.” I said.
-
-Liked This Book?
-For More FREE e-Books visit Freeditorial.com
-
-

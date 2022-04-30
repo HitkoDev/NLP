@@ -1,16 +1,3 @@
-12/5/2017
-12/5/2017
-Winnie Baez
-Winnie Baez
-
-Soraya
-By:
-Winnie L. Baez
-Soraya
-By:
-Winnie L. Baez
-
-Soraya
 Good MOR… Soraya? Soraya? Oh Lord!!! Soraya! God please help,
 God please!!! Somebody!!!! Somebody please help!!! “Dios, no me
 hagas esto!!!!!”
@@ -49,7 +36,7 @@ ambulance. I rushed with all the babies at the same time and thankfully
 my husband Bruce came to the rescue. Bruce took all the babies back
 to the house while I left with Soraya in the ambulance. The only thing I
 
-remember doing was screaming at people in the highway to hurry up.
+remember doing was screaming at people in the highway to hurry up.
 The paramedic was trying to calm me down by saying everything was
 going to be ok. I can honestly tell you the only thing I heard in my head
 was my baby crying. As soon as we arrived at the hospital they rushed
@@ -92,7 +79,7 @@ up.
 I heard my name being called in the intercom and ran towards the
 doors. The doctor’s walked me over to a small room at the end of the
 
-hall. I decided to keep standing as everyone sat down. “We finally
+hall. I decided to keep standing as everyone sat down. “We finally
 stabilized her, but you need to be strong.” My heart and mind filled with
 so many questions.
 They finally let me see my Soraya,
@@ -133,7 +120,7 @@ I have so many uncountable questions, I was beginning to think it was
 a joke question.
 “You do know your daughter will need plenty of medical equipment and
 
-you will need to have a specific care for her.”
+you will need to have a specific care for her.”
 I know. I said.
 As soon as I answered they decided to come out with the real topic of
 this conversation.
@@ -174,7 +161,7 @@ Soraya was finally transferred to a normal hospital room. No more ICU.
 Thank you Lord. I was very happy to see my baby was feeling a little
 better. When we got transferred upstairs, she was doing better each
 
-day with the trach and g-tube. Soraya was on plenty medication and a
+day with the trach and g-tube. Soraya was on plenty medication and a
 lot of care was needed such as suctioning, bathing and everything you
 can think of. She is 100% dependent and non-ambulatory. I bathed her
 everyday and was given the chance to start giving her the medication
@@ -216,7 +203,7 @@ said she wasn’t supposed to do that but she helped us out to begin with
 Soraya’s care until we got the prescriptions filled.
 That afternoon Soraya and I finally arrived home. It felt weird going
 
-back home with her. Coming back home, looking at how nice my
+back home with her. Coming back home, looking at how nice my
 husband and his sister had left it for us to come back. It felt good,
 finally home. my only thought was my babies can all come back.
 Or so we thought.
@@ -256,7 +243,7 @@ day rule we decided to go back and request it. The hospital did not
 want to give us any medical records. We were without it for a month
 going back and forth with them. We got tired of their excuses and
 
-decided to contact the news. We spoke to the reporter and asked to be
+decided to contact the news. We spoke to the reporter and asked to be
 in the 5 O’ clock news demanding the medical record and explaining
 Soraya’s situation. As mad as we were, we poured our hearts out in
 television and made the hospital respond to our petition. They did. Two
@@ -292,7 +279,7 @@ I know you can help me… I will let you know right now that I will not
 give up! I exclaimed.
 “Sorry, but you will be wasting your time.” She answered.
 
-I will come to your office each day and beg you to help me. I
+I will come to your office each day and beg you to help me. I
 responded.
 “Go right ahead.” She answered.
 As I walked out of her office I had such a strong feeling in my heart.
@@ -332,7 +319,7 @@ After this day I spent my days crying because I wanted my girls
 altogether. I want my family back!
 Back home it was only Bruce, myself, and the other three girls. My
 
-nine-year-old would look into my eyes and sing songs to me. She felt
+nine-year-old would look into my eyes and sing songs to me. She felt
 something was wrong. She smiled and gave me the most comforting
 hug ever.
 June 12, 2015
@@ -373,7 +360,7 @@ Ok, thank you. I responded.
 “Angela, hello this is Eve I am the Pastor Rose’s wife.”
 Hello Eve. I am hoping your husband spoke to you about my situation?
 
-“Yes, and we have a room for you here in our home for you and your
+“Yes, and we have a room for you here in our home for you and your
 baby, just let me know what you need in it.” She asked.
 Seriously?!!!
 Thank You!!! Oh my God thank you! I screamed.
@@ -413,7 +400,7 @@ looking couple holding hands. I considered them my angels. They
 helped us in the house and brought us up to this nice air-conditioned
 room ready for my Soraya. I organized all the medical equipment and
 
-laid Soraya down on the bed to rest. What a day.
+laid Soraya down on the bed to rest. What a day.
 Eve helped me with everything that I needed, she even had a nice cup
 of coffee for me. She noticed I arrived with a fever due to the stress of
 the flight. She decided to make me a shrimp soup in less than half
@@ -454,7 +441,7 @@ inspected and have the electricity checked. It took us more time
 because the house didn’t pass. Good thing was that they managed to
 fix it. Our next goal was to fight with this facility to let go of our child.
 
-They didn’t care, they wanted to keep her there. Why? I guess they
+They didn’t care, they wanted to keep her there. Why? I guess they
 considered my baby a dollar sign. We made sure we finished our
 training, the 24-hour shift and everything we had to do. What was the
 excuse now?
@@ -494,7 +481,7 @@ Yes, we work hard to keep our family happy and satisfied.
 Yes, we must run every time our child De-saturates.
 Yes, we have rules and papers hanging everywhere.
 
-Yes, we fight and make sure our child receives the services she needs.
+Yes, we fight and make sure our child receives the services she needs.
 Yes, we have medical bags ready for each member of the family.
 Yes, we must plan a trip to a supermarket.
 Yes, we appreciate life and we learned what it means to never take
@@ -529,6 +516,4 @@ fight for your family.
 
 Thank you, Lord.
 
-Winnie Linnette Baez Velazquez
 
-

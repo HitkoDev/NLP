@@ -1,17 +1,4 @@
-Tania In A Winter Wonderland
-By Kanika G
-Copyright 2018 by Kanika G
-Edited by Pell G
-Cover art by Kanika G and Pell G
-Snowman illustration by Pell G
-All other illustrations are public domain images taken from openclipart.org
 
-Website:
-www.kanikag.com
-
-2
-
-Fun With Snow
 "Mama, look outside. Mama look! Sonia look!" The seven year old Tania
 shouted in excitement, as she looked out of her first floor bedroom window. It
 was 2:30 pm. She and her family had only just arrived at a cottage in Shimla,
@@ -39,9 +26,9 @@ a blanket on a large chair by the window, watching the snow. Mama placed the
 tray on the window ledge and left.
 A couple of hours later, after Mama and Papa had unpacked and set up the
 cottage for their week long stay, they went to check on Sonia and Tania. The
-3
 
-girls had finished their cocoa and biscuits, and had fallen fast asleep, cuddling
+
+girls had finished their cocoa and biscuits, and had fallen fast asleep, cuddling
 each other on the chair.
 The sun was sinking behind the trees, and pink light bathed the cottage and its
 surroundings. Mama gently woke the girls up.
@@ -59,9 +46,9 @@ Soon the girls were outside. Tania started making a snowman and Sonia helped
 her. They used twigs for arms and pebbles for the eyes, smile and buttons. They
 made him a tin foil hat and used a carrot for the nose.
 
-4
 
-Just as they finished, Mama and Papa joined them outside.
+
+Just as they finished, Mama and Papa joined them outside.
 "I think it's time for a snowball fight." Papa declared. They all started making
 snowballs and pelting each other, as they ran around the yard. Soon, in spite of
 the cold, they were sweating and panting.
@@ -78,9 +65,8 @@ the house, the power went out. Mama boiled water in a large pot on the stove
 top, and Papa carried it to the upstairs bathroom, so Tania and Sonia could have
 a hot bath. Mama and Papa had hot baths too.
 
-5
 
-Then dressed in their night clothes and warm robes, they returned to the kitchen.
+Then dressed in their night clothes and warm robes, they returned to the kitchen.
 Tania helped Mama cut up vegetables to make khichadi, while Papa and Sonia
 went to the small shed outside to get some firewood. Papa brought back logs for
 a fire, while Sonia carried a few dried twigs and leaves.
@@ -89,9 +75,8 @@ made hot brinjal pakodas, while Papa started a fire in the fireplace.
 The family enjoyed a tasty meal of hot khichadi and pakodas in firelight.
 Everything seemed so peaceful until ...
 
-6
 
-Winter Is Troublesome
+Winter Is Troublesome
 The next morning Tania woke up to the sounds of frustration and panic. She had
 a lovely rest under the warm blankets, that Papa had wrapped her and Sonia up
 in, so she was most surprised to hear Mama shout "Oh no! No, no, no, no.
@@ -119,9 +104,8 @@ Tania went up to her bedroom to wear warm clothes, so she could go collect
 snow in buckets for Mama. Sonia had already woken up.
 "What are you doing, Tania?" She asked.
 
-7
 
-Tania explained the situation to Sonia. "I'll come too. I want to collect snow."
+Tania explained the situation to Sonia. "I'll come too. I want to collect snow."
 Sonia jumped out of bed and put on her warm clothes. The sisters took two
 small buckets and mugs and went to collect snow. It was hard work, but it was
 fun too.
@@ -153,9 +137,8 @@ joined the conversation.
 temperature. The silver line is the mercury column, right? The higher my
 temperature, the longer the mercury column is. Is that right?"
 
-8
 
-"That is absolutely correct Tania." Papa smiled and ruffled Tania's hair.
+"That is absolutely correct Tania." Papa smiled and ruffled Tania's hair.
 "Okay. So why is water peculiar?" Tania asked.
 "At most temperatures water behaves normally, meaning the space it occupies
 increases, when it is heated, and decreases when it is cooled. But something
@@ -177,9 +160,9 @@ cause a pipe to burst?"
 "As Mama said, the space occupied by water keeps increasing when it is cooled
 below 4 degree Celsius, while the particles start getting organised. Ice forms at
 0 degree Celsius, when the particles suddenly get in a rigid formation. So ice
-9
 
-occupies a lot more space, than water. In fact, if you start with water at any
+
+occupies a lot more space, than water. In fact, if you start with water at any
 temperature, the space occupied by the water, is less than the space occupied by
 the ice formed by cooling that water. That is why ice floats on water. This is
 called the anomalous behaviour of water. Anomalous means unusual or
@@ -210,9 +193,8 @@ some water left from the melted snow, and went to the refrigerator.
 "What? What are you two talking about?" Tania asked, bewildered.
 "Just you see." Papa winked returning with a roll of black thread from the
 sewing kit.
-10
 
-Water, Ice, And Magic!
+Water, Ice, And Magic!
 Or is it science?
 Mama placed the ice-cube on a flat coaster on the table, and Papa placed the
 thread on top of the ice-cube. He stretched the thread across the top surface of
@@ -239,9 +221,9 @@ black thread with an ice-cube pendant. Even Sonia was excited, and came
 running to examine it. She begged to be allowed to wear it. Mama and Tania
 laughed as Papa fit the necklace on Sonia.
 
-11
 
-"Ouch! Oooch! Cold, cold cold." Sonia danced around, and Papa removed it.
+
+"Ouch! Oooch! Cold, cold cold." Sonia danced around, and Papa removed it.
 Sonia frowned at the ice necklace, and then went back to play with her blocks.
 "It's sad though, that water is one of the few substances to behave that way. If it
 were not for this strange behaviour of water, pipes would not burst in cold
@@ -258,9 +240,9 @@ Once the lake is covered with floating ice, the ice forms a barrier between the
 air above it and the water below it. Since the cold air can't come in contact with
 the water, it cannot cool it much." Papa continued.
 
-12
 
-"But isn't the ice super cold?" Tania raised her eyebrows.
+
+"But isn't the ice super cold?" Tania raised her eyebrows.
 "Yes the ice is cold, but not as cold as the air above it. So under the layer of ice,
 the water remains liquid and the fishes and other aquatic life can survive,
 instead of getting frozen. The ice acts like your sweater. Just like your sweater
@@ -276,9 +258,9 @@ nature has to offer in winter."
 "Where are we going?" Tania asked
 "Just you wait and see". Papa refused to say anything else.
 
-13
 
-Winter Sports
+
+
 An hour later, warmly dressed, the family arrived at a large open frozen space.
 "What is this place?" Tania enquired, watching people slide around on the ice.
 "This is an ice skating rink, Tania" Mama replied.
@@ -298,9 +280,8 @@ know how to roller blade." Papa called out and gave Tania a thumbs up. "It
 requires the same sense of balance, so just use your roller blading instincts and
 you'll do great."
 
-14
 
-Tania enjoyed herself immensely, and at the end of an hour Mama and Papa
+Tania enjoyed herself immensely, and at the end of an hour Mama and Papa
 managed to slide around a little without falling. They were starting to get the
 idea too. Tania helped them out. She couldn't believe she was teaching her
 parents how to do something. It was a strange, but pleasing, experience.
@@ -310,9 +291,8 @@ people were kind enough to give her a wide berth.
 Tania saw a man spinning on the ice. He had his arms spread out and was
 spinning slowly. Then he pulled in his arms in, and started spinning faster.
 
-15
 
-Tania remembered seeing it on TV, but it was so much more amazing seeing a
+Tania remembered seeing it on TV, but it was so much more amazing seeing a
 person do that right in front of her. It had something to do with angular
 momentum in Physics, Mama had said then, but Tania hadn't really understood.
 Perhaps she would ask Mama again later, but right now, she was having way too
@@ -338,30 +318,3 @@ I must agree. Her holidays are always so full of fun and exciting adventures,
 and yet, somehow, they keep getting better too. I wonder where Mama and Papa
 will take her next. I hope they invite me to join them next time.
 
-16
-
-lly
-Tota
-
-,
-
-Y!!
-A
-Y
-
-This edition of this free ebook was
-brought to you by -
-
-https://www.freekidsbooks.org
-
-Preschool, early grades, picture books, learning to read,
-early chapter books, middle grade, young adult
-
-Always Free – Always will be!
-Copyright – Legal Notice
-This book has a standard copyright. The permission to publish this
-FKB version has been provided by the author or publisher to
-https://www.FreeKidsBooks.org. The book may not be re-posted
-online without the author's express permission.
-
-
