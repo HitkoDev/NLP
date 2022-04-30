@@ -1,5 +1,7 @@
-"Where Three Oceans Meet" by Rajani LaRocca and Archana Sreenivasan
-"The Night Diary" by Veera Hiranandani
-"Slider" by Pete Hautman
-"Mayday" by Karen Harrington
-"The Primrose Railway Children" by Jacqueline Wilson and Rachael Dean
+"Tania In A Winter Wonderland" By Kanika G
+"The Canterville Ghost" By Oscar Wilde
+"Freddie" By J. Stalter
+"Family Resemblances" By Lowry Pei
+"Home" By Fausto Aarya De Santis
+"The Iron Lady" By Vivian A. Oyugi
+"Soraya" By Winnie L. Baez
