@@ -14,17 +14,24 @@ Extraction of concepts/entities/relationships/topics/time-aware data from novels
 
 ## [Provided English books](https://drive.google.com/drive/folders/1M15GSnqONLrVT0TeLkZ12bVlmHHofPII):
 
--   [Henry Red Chief](./dataset/raw/Henry_Red_Chief.md)
--   [Hills Like White Elephants](<./dataset/raw/Hills Like White Elephants.md>)
--   [Leiningen Versus the Ants](./dataset/raw/LeiningenVstheAnts.md)
--   [The Lady or the Tiger](<./dataset/raw/The Lady or the Tiger Original.md>)
--   [The Most Dangerous Game](<./dataset/raw/The Most Dangerous Game.md>)
--   [The Tell-Tale Heart](<./dataset/raw/The Tell Tale Heart.md>)
--   [The Gift of the Magic Henry](./dataset/raw/the_gift_of_the_magi_0_Henry.md)
+-   [Henry Red Chief](./dataset/_old/raw/Henry_Red_Chief.md)
+-   [Hills Like White Elephants](<./dataset/_old/raw/Hills Like White Elephants.md>)
+-   [Leiningen Versus the Ants](./dataset/_old/raw/LeiningenVstheAnts.md)
+-   [The Lady or the Tiger](<./dataset/_old/raw/The Lady or the Tiger Original.md>)
+-   [The Most Dangerous Game](<./dataset/_old/raw/The Most Dangerous Game.md>)
+-   [The Tell-Tale Heart](<./dataset/_old/raw/The Tell Tale Heart.md>)
+-   [The Gift of the Magic Henry](./dataset/_old/raw/the_gift_of_the_magi_0_Henry.md)
 
 ## Additional books:
 
 -   [Project Guttenberg](https://www.kaggle.com/shubchat/1002-short-stories-from-project-guttenberg)
+-   [Family Resemblances](<./dataset/stories/family_resemblances.md>)
+-   [Freddie](<./dataset/stories/freddie.md>)
+-   [Home](<./dataset/stories/home.md>)
+-   [Soraya](<./dataset/stories/soraya.md>)
+-   [Tania In A Winter Wonderland](<./dataset/stories/tania_in_a_winter_wonderland.md>)
+-   [The Canterville Ghost](<./dataset/stories/the_canterville_ghost.md>)
+-   [The Iron Lady](<./dataset/stories/the_iron_lady.md>)
 
 ## References:
 
