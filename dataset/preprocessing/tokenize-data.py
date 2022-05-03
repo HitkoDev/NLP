@@ -5,6 +5,7 @@ import sys
 import nltk
 
 nltk.download('punkt')
+# !spacy download en_core_web_sm
 
 # +
 import glob
