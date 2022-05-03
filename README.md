@@ -25,13 +25,13 @@ Extraction of concepts/entities/relationships/topics/time-aware data from novels
 ## Additional books:
 
 -   [Project Guttenberg](https://www.kaggle.com/shubchat/1002-short-stories-from-project-guttenberg)
--   [Family Resemblances](<./dataset/stories/family_resemblances.md>)
--   [Freddie](<./dataset/stories/freddie.md>)
--   [Home](<./dataset/stories/home.md>)
--   [Soraya](<./dataset/stories/soraya.md>)
--   [Tania In A Winter Wonderland](<./dataset/stories/tania_in_a_winter_wonderland.md>)
--   [The Canterville Ghost](<./dataset/stories/the_canterville_ghost.md>)
--   [The Iron Lady](<./dataset/stories/the_iron_lady.md>)
+-   [Family Resemblances](./dataset/stories/family_resemblances.md)
+-   [Freddie](./dataset/stories/freddie.md)
+-   [Home](./dataset/stories/home.md)
+-   [Soraya](./dataset/stories/soraya.md)
+-   [Tania In A Winter Wonderland](./dataset/stories/tania_in_a_winter_wonderland.md)
+-   [The Canterville Ghost](./dataset/stories/the_canterville_ghost.md)
+-   [The Iron Lady](./dataset/stories/the_iron_lady.md)
 
 ## References:
 

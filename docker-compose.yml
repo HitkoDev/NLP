@@ -1,0 +1,15 @@
+services:
+  jupyter:
+    build:
+      context: ./docker-image
+    command: start.sh jupyter notebook --NotebookApp.token=''
+    ports:
+      - target: 8888
+        published: 8888
+        protocol: tcp
+        mode: host
+    volumes:
+      - .:/home/jovyan/work
+
+volumes:
+  mongodata:
