@@ -10,9 +10,9 @@ In the hall below was a letter-box too small to hold a letter. There was an elec
 name beside the door: "Mr. James Dillingham Young."
 When the name was placed there, Mr. James Dillingham Young was being paid $30 a week. Now, when he was being paid only $20 a week, the name seemed too long and important. It should perhaps have been "Mr. James D. Young." But when Mr. James Dillingham Young entered the furnished rooms, his name became very short indeed. Mrs. James Dillingham Young put her arms warmly about him and called 
 him "Jim." You have already met her. She is Della.
-Della finished her crying and cleaned the marks of it from her face. She stood by the window and looked out with no interest. Tomorrow would be Christmas Day, and she had only $187 with which to buy 
+Della finished her crying and cleaned the marks of it from her face. She stood by the window and looked out with no interest. Tomorrow would be Christmas Day, and she had only $1.87 with which to buy 
 Jim a gift. She had put aside as much as she could for months, with this result. Twenty dollars a week is not much. Everything had cost more than she had expected. It always happened like that.
-Only $187 to buy a gift for Jim. Her Jim. She had had many happy hours planning something nice for him. Something nearly good enough. Something almost worth the honor of belonging to Jim.
+Only $1.87 to buy a gift for Jim. Her Jim. She had had many happy hours planning something nice for him. Something nearly good enough. Something almost worth the honor of belonging to Jim.
 There was a looking-glass between the windows of the room. Perhaps you have seen the kind of looking-glass that is placed in $8 furnished rooms. It was very narrow. A person could see only a little of himself at a time. However, if he was very thin and moved very quickly, he might be able to get a good view of himself. Della, being quite thin, had mastered this art.
 Suddenly she turned from the window and stood before the glass. Her eyes were shining brightly, but her face had lost its color. Quickly she pulled down her hair and let it fall to its complete length.
 The James Dillingham Youngs were very proud of two things which they owned. One thing was Jim's gold watch. It had once belonged to 

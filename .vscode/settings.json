@@ -26,5 +26,6 @@
     },
     "[toml]": {
         "editor.tabSize": 2
-    }
+    },
+    "editor.bracketPairColorization.enabled": false
 }
