@@ -96,7 +96,7 @@ for file in files:
 
 # # Filter stories
 #
-# Count family relations of interest, sort stories by the number of those relations. If at least 10% sentences contain target words, label stories as candidates.
+# Count family relations of interest, sort stories by the number of those relations. If at least 5% sentences contain target words, label stories as candidates.
 
 # +
 import glob
@@ -141,8 +141,8 @@ for file in tqdm(files):
     items[file] = count / len(text)
 
 for k, v in items.items():
-    # Keep stories with target relations in at least 10% of the sentences
-    if v > 0.1:
+    # Keep stories with target relations in at least 5% of the sentences
+    if v > 0.05:
         target = k.replace('normalised', 'candidates')
         if not exists(target):
             shutil.copy(k, target)

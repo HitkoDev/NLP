@@ -19,6 +19,7 @@ pathlib.Path("../tokenized").mkdir(parents=True, exist_ok=True)
 files = glob.glob('./*.txt')
 
 all_rows = []
+all_sent = []
 
 for file in files:
     target = file.replace('./', '../tokenized/').replace('.txt', '.jsonl')
@@ -29,16 +30,19 @@ for file in files:
     print(file)
     persons = set()
     rows = []
+    sents = []
     for i in tqdm(sentences):
-        doc = nlp(i)
-        out = {
-            "text": str(doc),
-            "meta": dict(source=file),
-            "tokens": [{"text": str(t), "start": t.idx, "end": t.idx + len(str(t)), "id": t.i} for t in doc],
-            "spans": [{"label": p.label_, "start": p.start_char, "end": p.end_char, "token_start": p.start, "token_end": p.end - 1} for p in doc.ents if p.label_ == 'PERSON']
-        }
-        out = json.dumps(out)
-        rows.append(out)
+        if len(i):
+            doc = nlp(i)
+            out = {
+                "text": str(doc),
+                "meta": dict(source=file),
+                "tokens": [{"text": str(t), "start": t.idx, "end": t.idx + len(str(t)), "id": t.i} for t in doc],
+                "spans": [{"label": p.label_, "start": p.start_char, "end": p.end_char, "token_start": p.start, "token_end": p.end - 1} for p in doc.ents if p.label_ == 'PERSON']
+            }
+            out = json.dumps(out)
+            rows.append(out)
+            sents.append(i)
 
         for p in doc.ents:
             if p.label_ == 'PERSON':
@@ -57,12 +61,15 @@ for file in files:
             f.write('\n'.join(persons))
 
         all_rows.append('\n'.join(rows))
+        all_sent.append('\n'.join(sents))
     else:
         print('skip')
 
-
 with open('../tokenized/all.jsonl', 'w') as f:
     f.write('\n'.join(all_rows))
+
+with open('../tokenized/all.txt', 'w') as f:
+    f.write('\n'.join(all_sent))
 # -
 
 
