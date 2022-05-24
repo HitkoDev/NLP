@@ -14,24 +14,25 @@ Extraction of concepts/entities/relationships/topics/time-aware data from novels
 
 ## [Provided English books](https://drive.google.com/drive/folders/1M15GSnqONLrVT0TeLkZ12bVlmHHofPII):
 
--   [Henry Red Chief](./dataset/_old/raw/Henry_Red_Chief.md)
--   [Hills Like White Elephants](<./dataset/_old/raw/Hills Like White Elephants.md>)
--   [Leiningen Versus the Ants](./dataset/_old/raw/LeiningenVstheAnts.md)
--   [The Lady or the Tiger](<./dataset/_old/raw/The Lady or the Tiger Original.md>)
--   [The Most Dangerous Game](<./dataset/_old/raw/The Most Dangerous Game.md>)
--   [The Tell-Tale Heart](<./dataset/_old/raw/The Tell Tale Heart.md>)
--   [The Gift of the Magic Henry](./dataset/_old/raw/the_gift_of_the_magi_0_Henry.md)
+-   [Henry Red Chief](./dataset/source/original/the-ransom-of-red-chief.md)
+-   [Hills Like White Elephants](./dataset/source/original/hills-like-white-elephants.md)
+-   [Leiningen Versus the Ants](./dataset/source/original/leiningen-vs-the-ants.md)
+-   [The Lady or the Tiger](./dataset/source/original/the-lady-or-the-tiger.md)
+-   [The Most Dangerous Game](./dataset/source/original/the-most-dangerous-game.md)
+-   [The Tell-Tale Heart](./dataset/source/original/the-tell-tale-heart.md)
+-   [The Gift of the Magi](./dataset/source/original/the-gift-of-the-magi.md)
 
 ## Additional books:
 
 -   [Project Guttenberg](https://www.kaggle.com/shubchat/1002-short-stories-from-project-guttenberg)
--   [Family Resemblances](./dataset/stories/family_resemblances.md)
--   [Freddie](./dataset/stories/freddie.md)
--   [Home](./dataset/stories/home.md)
--   [Soraya](./dataset/stories/soraya.md)
--   [Tania In A Winter Wonderland](./dataset/stories/tania_in_a_winter_wonderland.md)
--   [The Canterville Ghost](./dataset/stories/the_canterville_ghost.md)
--   [The Iron Lady](./dataset/stories/the_iron_lady.md)
+-   [Grimm tales](https://www.kaggle.com/datasets/tschomacker/grimms-fairy-tales)
+-   [Family Resemblances](./dataset/source/family/family-resemblances.md)
+-   [Freddie](./dataset/source/family/freddie.md)
+-   [Home](./dataset/source/family/home.md)
+-   [Soraya](./dataset/source/family/soraya.md)
+-   [Tania In A Winter Wonderland](./dataset/source/family/tania-in-a-winter-wonderland.md)
+-   [The Canterville Ghost](./dataset/source/family/the-canterville-ghost.md)
+-   [The Iron Lady](./dataset/source/family/the-iron-lady.md)
 
 ## References:
 

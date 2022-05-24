@@ -9,3 +9,11 @@ report/report.out
 
 .empty
 __pycache__
+dataset/**/*.md
+dataset/**/*.txt
+dataset/**/*.jsonl
+dataset/**/*.csv
+!dataset/source/original/*.md
+!dataset/source/family/*.md
+!dataset/README.md
+!dataset/tokenized
