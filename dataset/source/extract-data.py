@@ -55,6 +55,7 @@ import glob
 import os
 import pathlib
 import re
+from os.path import exists
 
 from nltk.tokenize import sent_tokenize
 from tqdm.notebook import tqdm
@@ -64,6 +65,13 @@ pathlib.Path("../normalised").mkdir(parents=True, exist_ok=True)
 files = glob.glob('./*/*.md')
 
 for file in files:
+    basename = os.path.basename(file).replace('.md', '.txt')
+
+    target = '../normalised/{}'.format(basename)
+
+    if exists(target):
+        continue
+
     with open(file, 'r') as f:
         text = f.read().replace('. . .', '...').replace('`', "'").replace('´', "'").replace(
             '‘', "'").replace('’', "'").replace('“', '"').replace('”', '"').replace('–', '-').replace('—', '-').replace('…', '...').replace("''", '"').replace('_', ' ').replace('\\', ' ')
@@ -82,10 +90,6 @@ for file in files:
     for i in tqdm(sent):
         doc = nlp(re.sub('\\s+', ' ', i).strip())
         sentences.append(' '.join([str(t) for t in doc]))
-
-    basename = os.path.basename(file).replace('.md', '.txt')
-
-    target = '../normalised/{}'.format(basename)
     with open(target, 'w') as f:
         f.write('\n'.join(sentences))
 # -
@@ -98,6 +102,7 @@ for file in files:
 import glob
 import pathlib
 import shutil
+from os.path import exists
 
 from tqdm.notebook import tqdm
 
@@ -138,7 +143,9 @@ for file in tqdm(files):
 for k, v in items.items():
     # Keep stories with target relations in at least 10% of the sentences
     if v > 0.1:
-        shutil.copy(k, k.replace('normalised', 'candidates'))
+        target = k.replace('normalised', 'candidates')
+        if not exists(target):
+            shutil.copy(k, target)
 # -
 # ### Some manual work is needed at this point to go throug the candidates and remove intro and any other text that came with the stories, and remove potentially bad candidates / collections of stories
 #

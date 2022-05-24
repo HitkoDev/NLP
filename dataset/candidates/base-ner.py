@@ -18,7 +18,11 @@ pathlib.Path("../tokenized").mkdir(parents=True, exist_ok=True)
 
 files = glob.glob('./*.txt')
 
+all_rows = []
+
 for file in files:
+    target = file.replace('./', '../tokenized/').replace('.txt', '.jsonl')
+
     with open(file, 'r') as f:
         sentences = f.read().split('\n')
 
@@ -41,7 +45,6 @@ for file in files:
                 persons.add(p.text)
 
     if len(persons) > 3:
-        target = file.replace('./', '../tokenized/').replace('.txt', '.jsonl')
         with open(target, 'w') as f:
             f.write('\n'.join(rows))
 
@@ -52,8 +55,14 @@ for file in files:
         target = target.replace('.txt', '.persons.txt')
         with open(target, 'w') as f:
             f.write('\n'.join(persons))
+
+        all_rows.append('\n'.join(rows))
     else:
         print('skip')
+
+
+with open('../tokenized/all.jsonl', 'w') as f:
+    f.write('\n'.join(all_rows))
 # -
 
 

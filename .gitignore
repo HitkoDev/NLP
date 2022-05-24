@@ -16,4 +16,4 @@ dataset/**/*.csv
 !dataset/source/original/*.md
 !dataset/source/family/*.md
 !dataset/README.md
-!dataset/tokenized
+!dataset/tokenized/**/*
