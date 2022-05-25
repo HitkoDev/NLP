@@ -1,0 +1,75 @@
+{
+    "persons": [
+        [
+            "Harrigan",
+            "Mr. Harrigan",
+            "Tex"
+        ],
+        [
+            "Vanderkamp",
+            "Mr. Vanderkamp"
+        ],
+        [
+            "Blake"
+        ],
+        [
+            "G. Wells",
+            "Wells"
+        ],
+        [
+            "Julie",
+            "Julie Vanderkamp"
+        ],
+        [
+            "Peter Stuyvesant",
+            "Stuyvesant",
+            "Governor Stuyvesant"
+        ],
+        [
+            "Heinrich Vanderkamp"
+        ],
+        [
+            "Henrik Van Tromp"
+        ],
+        [
+            "Pieter Vanderkamp"
+        ],
+        [
+            "Miss Anna Van Tromp",
+            "Miss Anna",
+            "Miss Van Tromp",
+            "Anna Van Tromp",
+            "Anna",
+            "Anna Von Tromp"
+        ],
+        [
+            "Carl"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Vanderkamp",
+            "to": "Julie",
+            "label": "P4",
+            "evidence": []
+        },
+        {
+            "from": "Julie",
+            "to": "Carl",
+            "label": "P4",
+            "evidence": []
+        },
+        {
+            "from": "Henrik Van Tromp",
+            "to": "Miss Anna Van Tromp",
+            "label": "P2",
+            "evidence": []
+        },
+        {
+            "from": "Henrik Van Tromp",
+            "to": "Pieter Vanderkamp",
+            "label": "P10",
+            "evidence": []
+        }
+    ]
+}

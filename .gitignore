@@ -13,6 +13,8 @@ dataset/**/*.md
 dataset/**/*.txt
 dataset/**/*.jsonl
 dataset/**/*.csv
+dataset/out/*.json
+!dataset/out/*.persons.json
 !dataset/source/original/*.md
 !dataset/source/family/*.md
 !dataset/README.md
