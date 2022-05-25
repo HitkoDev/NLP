@@ -56,7 +56,7 @@ for f, v in mps.items():
         }))
 # -
 
-# ### At this point `.persons.json` files have been generated; edit those files to group all names which belong to the same person
+# ### At this point `*.persons.json` files have been generated; edit those files to group all names which belong to the same person and indicate family relationships
 
 # +
 import glob
