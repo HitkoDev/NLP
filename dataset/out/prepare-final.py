@@ -20,7 +20,7 @@ for f, v in mps.items():
     sents = []
     vertexSet = []
     for i, l in enumerate(v):
-        sents.append([t['text'] for t in l['tokens']])
+        sents.append({"id": i, "v":[t['text'] for t in l['tokens']]})
         for t in l['spans']:
             tx = l['tokens'][t["token_start"]:t["token_end"] + 1]
             text = ' '.join([x['text'] for x in tx])
@@ -93,9 +93,11 @@ for f in files:
             })
 
     data['labels'] = labels
+    data['sents'] = [k['v'] for k in data['sents']]
     for d in data['vertexSet']:
         for l in d:
-            pds[pd[l['name']]].append(l)
+            if l['name'] in pd:
+                pds[pd[l['name']]].append(l)
 
     data['vertexSet'] = pds
 

@@ -1,1 +1,152 @@
-{"persons": [["Blind Man"], ["Allen Kim Lang"], ["Schelling"], ["the Blind Man"], ["old No - Eyes"], ["The Blind Man"], ["Amishman"], ["Fraa Stoltzfoos"], ["Aaron"], ["Martha"], ["Aaron Stoltzfoos"], ["Stoltzfoos"], ["Martha Stoltzfoos"], ["Wutzchen"], ["The Captain"], ["The Engineer"], ["Captain"], ["the Captain"], ["Yonnie"], ["Stoltzfooses"], ["the Engineer"], ["Hymie"], ["Exec"], ["the Exec"], ["Tom Malthus"], ["our bearded friend"], ["Hamlet"], ["Colonel Harris"], ["Gene"], ["Mr. Kipling"], ["Stoltz"], ["The Amishwoman"], ["Wutz"], ["Noah"], ["the visitor"], ["the Amishman"], ["Bearded One"], ["the Murnan"], ["The Murnan"], ["Haruna"], ["Sarki"], ["Kazunzumi"], ["the Chief"], ["Sarki Kazunzumi"], ["Musa the carpenter"], ["Aaron Stoltz"], ["Black - Hat"], ["Sir Off - Worlder"], ["Waziri"], ["Musa"], ["the - Carpenter"], ["Levi"], ["Master Haruna"], ["The Amishman"], ["the Chief of Datura"], ["the young Murnan"], ["Sir Walter Raleigh"], ["Dauda"], ["Cousin Benjamin"], ["Schwotzer"], ["Rosina"], ["Lightless One"], ["Uncle Amos"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "the Blind Man",
+            "Blind Man",
+            "old No - Eyes",
+            "The Blind Man"
+        ],
+        [
+            "Aaron",
+            "Amishman",
+            "Aaron Stoltzfoos",
+            "Stoltzfoos",
+            "our bearded friend",
+            "Stoltz",
+            "the Amishman",
+            "Bearded One",
+            "Haruna",
+            "Aaron Stoltz",
+            "Black - Hat",
+            "Sir Off - Worlder",
+            "Master Haruna",
+            "The Amishman",
+            "Lightless One"
+        ],
+        [
+            "Martha",
+            "Martha Stoltzfoos",
+            "Fraa Stoltzfoos",
+            "The Amishwoman",
+            "the Chief of Datura"
+        ],
+        [
+            "Wutzchen",
+            "Wutz"
+        ],
+        [
+            "The Captain",
+            "Captain",
+            "the Captain",
+            "the Exec",
+            "Exec"
+        ],
+        [
+            "The Engineer",
+            "the Engineer",
+            "Hymie",
+            "Gene"
+        ],
+        [
+            "Yonnie"
+        ],
+        [
+            "Tom Malthus"
+        ],
+        [
+            "Hamlet"
+        ],
+        [
+            "Colonel Harris"
+        ],
+        [
+            "Mr. Kipling"
+        ],
+        [
+            "Noah"
+        ],
+        [
+            "Sarki",
+            "Kazunzumi",
+            "the Chief",
+            "Sarki Kazunzumi"
+        ],
+        [
+            "Musa the carpenter",
+            "Musa",
+            "the - Carpenter"
+        ],
+        [
+            "Waziri"
+        ],
+        [
+            "Levi"
+        ],
+        [
+            "Dauda"
+        ],
+        [
+            "Cousin Benjamin"
+        ],
+        [
+            "Rosina"
+        ],
+        [
+            "Uncle Amos"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Aaron",
+            "to": "Martha",
+            "label": "P1",
+            "evidence": [
+                14,
+                17,
+                199,
+                246,
+                398,
+                412,
+                558,
+                745
+            ]
+        },
+        {
+            "from": "Musa the carpenter",
+            "to": "Waziri",
+            "label": "P2",
+            "evidence": [
+                285,
+                334,
+                335,
+                374,
+                623
+            ]
+        },
+        {
+            "from": "Musa the carpenter",
+            "to": "Dauda",
+            "label": "P2",
+            "evidence": [
+                482
+            ]
+        },
+        {
+            "from": "Levi",
+            "to": "Haruna",
+            "label": "P2",
+            "evidence": [
+                287
+            ]
+        },
+        {
+            "from": "Waziri",
+            "to": "Dauda",
+            "label": "P4",
+            "evidence": [
+                482,
+                509
+            ]
+        }
+    ]
+}
