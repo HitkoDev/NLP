@@ -1,1 +1,59 @@
-{"persons": [["James Pethel"], ["Jimmy Pethel"], ["Pethel"], ["Grierson"], ["Peggy"], ["Mrs. Pethel"], ["Miss Peggy"], ["James"], ["Mr. Beerbohms"], ["Sir Marcus ( then Mr. ) Stone"], ["Mr. James Pethel"], ["Dr. Saunders"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "James Pethel",
+            "Jimmy Pethel",
+            "Pethel",
+            "James",
+            "Mr. James Pethel"
+        ],
+        [
+            "Grierson"
+        ],
+        [
+            "Peggy",
+            "Miss Peggy"
+        ],
+        [
+            "Mrs. Pethel"
+        ],
+        [
+            "Mr. Beerbohms"
+        ],
+        [
+            "Sir Marcus ( then Mr. ) Stone"
+        ],
+        [
+            "Dr. Saunders"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "James Pethel",
+            "to": "Mrs. Pethel",
+            "label": "P1",
+            "evidence": [
+                233,
+                303,
+                317,
+                343,
+                397,
+                325,
+                341,
+                472
+            ]
+        },
+        {
+            "from": "James Pethel",
+            "to": "Miss Peggy",
+            "label": "P2",
+            "evidence": [
+                234,
+                247,
+                258,
+                266,
+                338
+            ]
+        }
+    ]
+}

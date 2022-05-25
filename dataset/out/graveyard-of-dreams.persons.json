@@ -1,1 +1,125 @@
-{"persons": [["Mr. Shakespeare"], ["Maxwell"], ["Conn Maxwell"], ["Mr. Maxwell"], ["Conn"], ["Rodney Maxwell"], ["James Branch Cabell"], ["Genji Gartner"], ["Gartner"], ["Lynne Fawzi"], ["Kurt Fawzi"], ["Lynne"], ["Eirrarsson"], ["Colonel Zareff"], ["Tom Brangwyn"], ["Flora"], ["Charley"], ["Franz"], ["Judge Ledue"], ["Franz Veltrin"], ["Professor Kellton"], ["Kurt"], ["Rod"], ["Fawzi"], ["Brangwyn"], ["Klem Zareff"], ["Mr. Fawzi"], ["Conn."], ["Klem"], ["Judge"], ["Colonel"], ["Piet Dawes"], ["Tom"], ["Foxx Travis"], ["Senta"], ["Dolf Kellton"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "Mr. Shakespeare"
+        ],
+        [
+            "Maxwell",
+            "Conn Maxwell",
+            "Mr. Maxwell",
+            "Conn",
+            "Conn."
+        ],
+        [
+            "Rodney Maxwell",
+            "Rod"
+        ],
+        [
+            "James Branch Cabell"
+        ],
+        [
+            "Genji Gartner",
+            "Gartner"
+        ],
+        [
+            "Lynne Fawzi",
+            "Lynne"
+        ],
+        [
+            "Kurt Fawzi",
+            "Mr. Fawzi",
+            "Fawzi",
+            "Kurt"
+        ],
+        [
+            "Eirrarsson"
+        ],
+        [
+            "Colonel Zareff",
+            "Klem Zareff",
+            "Colonel",
+            "Klem"
+        ],
+        [
+            "Tom Brangwyn",
+            "Tom",
+            "Brangwyn"
+        ],
+        [
+            "Flora"
+        ],
+        [
+            "Charley"
+        ],
+        [
+            "Franz",
+            "Franz Veltrin"
+        ],
+        [
+            "Judge Ledue",
+            "Judge"
+        ],
+        [
+            "Professor Kellton",
+            "Dolf Kellton"
+        ],
+        [
+            "Piet Dawes"
+        ],
+        [
+            "Foxx Travis"
+        ],
+        [
+            "Senta"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Maxwell",
+            "to": "Rodney Maxwell",
+            "label": "P3",
+            "evidence": [
+                37,
+                288,
+                415
+            ]
+        },
+        {
+            "from": "Rodney Maxwell",
+            "to": "Maxwell",
+            "label": "P3",
+            "evidence": [
+                36,
+                307
+            ]
+        },
+        {
+            "from": "Maxwell",
+            "to": "Charley",
+            "label": "P4",
+            "evidence": [
+                119,
+                131,
+                540
+            ]
+        },
+        {
+            "from": "Maxwell",
+            "to": "Flora",
+            "label": "P4",
+            "evidence": [
+                119
+            ]
+        },
+        {
+            "from": "Kurt Fawzi",
+            "to": "Lynne Fawzi",
+            "label": "P2",
+            "evidence": [
+                89,
+                90,
+                121
+            ]
+        }
+    ]
+}
