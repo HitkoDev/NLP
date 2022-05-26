@@ -20,6 +20,8 @@ for l in lines:
 mps['./blind-man-s-lantern.json'] = mps['./blind-man-s-lantern.json'][3:]
 mps.pop('./doctor-marigold.json', None)
 mps.pop('./first-love-little-blue-book-1195.json', None)
+mps.pop('./love-story.json', None)
+mps.pop('./my-father-the-cat.json', None)
 
 for f, v in mps.items():
     sents = []

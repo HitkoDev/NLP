@@ -1,1 +1,60 @@
-{"persons": [["Ned Chivers"], ["Letty Chivers"], ["Ned"], ["Tennie"], ["Mr. Pierson"], ["Hasbrouck"], ["Suffern"], ["Hale"], ["Larches"], ["Mrs. Talcott"], ["Brown"], ["Mr. Chivers"], ["Mrs. Chivers"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "Ned Chivers",
+            "Ned",
+            "Mr. Chivers"
+        ],
+        [
+            "Letty Chivers",
+            "Mrs. Chivers"
+        ],
+        [
+            "Tennie"
+        ],
+        [
+            "Mr. Pierson"
+        ],
+        [
+            "Hasbrouck"
+        ],
+        [
+            "Suffern"
+        ],
+        [
+            "Hale"
+        ],
+        [
+            "Larches"
+        ],
+        [
+            "Mrs. Talcott"
+        ],
+        [
+            "Brown"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Ned Chivers",
+            "to": "Letty Chivers",
+            "label": "P1",
+            "evidence": [
+                2,
+                3,
+                4,
+                19,
+                55,
+                71,
+                75,
+                105,
+                111,
+                120,
+                144,
+                155,
+                200,
+                239
+            ]
+        }
+    ]
+}
