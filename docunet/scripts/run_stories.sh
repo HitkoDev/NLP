@@ -37,8 +37,8 @@ if true; then
   elif [[ $transformer_type == roberta ]]; then
     type=context-based
     bs=1
-    bls=(3e-5)
-    ul=4e-4
+    bls=(3e-7)
+    ul=4e-7
     accum=1
     for bl in ${bls[@]}
     do

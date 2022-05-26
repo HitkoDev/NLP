@@ -1,0 +1,14 @@
+{
+    "P1": "partner",
+    "P2": "parent",
+    "P3": "child",
+    "P4": "sibling",
+    "P5": "grandparent",
+    "P6": "grandchild",
+    "P7": "parent-in-law",
+    "P8": "child-in-law",
+    "P9": "sibling-in-law",
+    "P10": "cousin",
+    "P11": "aunt-uncle",
+    "P12": "nibling"
+}
