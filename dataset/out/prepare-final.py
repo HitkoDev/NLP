@@ -16,6 +16,10 @@ for l in lines:
         mps[f].append(d)
     except:
         pass
+    
+mps['./blind-man-s-lantern.json'] = mps['./blind-man-s-lantern.json'][3:]
+mps.pop('./doctor-marigold.json', None)
+mps.pop('./first-love-little-blue-book-1195.json', None)
 
 for f, v in mps.items():
     sents = []
@@ -94,18 +98,19 @@ for f in files:
                 "t": pd[r['to']],
                 "evidence": r['evidence']
             })
+            
+    if len(labels):
+        data['labels'] = labels
+        data['sents'] = [k['v'] for k in data['sents']]
+        for d in data['vertexSet']:
+            for l in d:
+                if l['name'] in pd:
+                    pds[pd[l['name']]].append(l)
 
-    data['labels'] = labels
-    data['sents'] = [k['v'] for k in data['sents']]
-    for d in data['vertexSet']:
-        for l in d:
-            if l['name'] in pd:
-                pds[pd[l['name']]].append(l)
+        data['vertexSet'] = pds
 
-    data['vertexSet'] = pds
-
-    with open(fr.replace('./', '../final/stories/'), 'w') as file:
-        file.write(json.dumps(data))
+        with open(fr.replace('./', '../final/stories/'), 'w') as file:
+            file.write(json.dumps(data))
 
 # +
 import glob

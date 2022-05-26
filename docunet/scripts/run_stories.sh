@@ -3,12 +3,12 @@
 
 # -------------------Training Shell Script--------------------
 if true; then
-  transformer_type=bert
+  transformer_type=roberta
   channel_type=context-based
   if [[ $transformer_type == bert ]]; then
-    bs=4
+    bs=1
     bl=3e-5
-    uls=(3e-4)
+    uls=(3e-5)
     accum=1
     for ul in ${uls[@]}
     do
@@ -36,10 +36,10 @@ if true; then
     done
   elif [[ $transformer_type == roberta ]]; then
     type=context-based
-    bs=2
+    bs=1
     bls=(3e-5)
     ul=4e-4
-    accum=2
+    accum=1
     for bl in ${bls[@]}
     do
     python -u ./train_balanceloss.py --data_dir ./dataset/stories \
