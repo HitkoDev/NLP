@@ -16,7 +16,7 @@ for l in lines:
         mps[f].append(d)
     except:
         pass
-    
+
 mps['./blind-man-s-lantern.json'] = mps['./blind-man-s-lantern.json'][3:]
 mps.pop('./doctor-marigold.json', None)
 mps.pop('./first-love-little-blue-book-1195.json', None)
@@ -27,7 +27,7 @@ for f, v in mps.items():
     sents = []
     vertexSet = []
     for i, l in enumerate(v):
-        sents.append({"id": i, "v":[t['text'] for t in l['tokens']]})
+        sents.append({"id": i, "v": [t['text'] for t in l['tokens']]})
         for t in l['spans']:
             tx = l['tokens'][t["token_start"]:t["token_end"] + 1]
             text = ' '.join([x['text'] for x in tx])
@@ -55,13 +55,20 @@ for f, v in mps.items():
             "sents": sents,
             "vertexSet": list(vm.values())
         }))
-        
+
     prsF = f.replace('.json', '.persons.json')
-    if not exists(prsF):
+    if exists(prsF):
+        p = []
+        rel = [{"from": "", "to": "", "label": "", "evidence": []}]
+        with open(prsF, 'r') as file:
+            data = json.loads(file.read())
+            p = data['persons']
+            rel = data['relations']
+        pp = [r for k in p for r in k]
         with open(prsF, 'w') as file:
             file.write(json.dumps({
-                "persons": [[k] for k in vm],
-                "relations": [{"from": "", "to": "", "label": "", "evidence": []}]
+                "persons": p + [[k] for k in vm if k not in pp],
+                "relations": rel
             }))
 # -
 
@@ -75,6 +82,8 @@ import pathlib
 pathlib.Path("../final/stories").mkdir(parents=True, exist_ok=True)
 
 files = glob.glob('./*.persons.json')
+
+flip = {"P1", "P4", "P9", "P10"}
 
 for f in files:
     with open(f, 'r') as file:
@@ -100,7 +109,14 @@ for f in files:
                 "t": pd[r['to']],
                 "evidence": r['evidence']
             })
-            
+            if r['label'] in flip:
+                labels.append({
+                    "r": r['label'],
+                    "t": pd[r['from']],
+                    "h": pd[r['to']],
+                    "evidence": r['evidence']
+                })
+
     if len(labels):
         data['labels'] = labels
         data['sents'] = [k['v'] for k in data['sents']]

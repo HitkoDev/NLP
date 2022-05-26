@@ -21,11 +21,22 @@ files = glob.glob('./*.txt')
 all_rows = []
 all_sent = []
 
+sp = {" ", "."}
+
 for file in files:
     target = file.replace('./', '../tokenized/').replace('.txt', '.jsonl')
 
     with open(file, 'r') as f:
         sentences = f.read().split('\n')
+
+    s = []
+    for sss in sentences:
+        if len(s) > 0 and s[-1].endswith('.') and s[-1][-2] not in sp:
+            s[-1] = '{} {}'.format(s[-1], sss)
+        else:
+            s.append(sss)
+
+    sentences = s
 
     print(file)
     persons = set()

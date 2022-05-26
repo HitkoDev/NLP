@@ -1,1 +1,76 @@
-{"persons": [["Tommy"], ["Tommy Benton"], ["Aunt Bee"], ["Helen"], ["Benton"], ["Pete"], ["Big Tom"], ["Bee"], ["Tom Benton"], ["Douwie"], ["Tom"], ["Mr. Krumbein"], ["John"], ["Helen Benton"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "Tommy",
+            "Tommy Benton"
+        ],
+        [
+            "Big Tom",
+            "Tom Benton",
+            "Tom",
+            "Benton"
+        ],
+        [
+            "Aunt Bee",
+            "Bee"
+        ],
+        [
+            "Helen",
+            "Helen Benton"
+        ],
+        [
+            "Pete"
+        ],
+        [
+            "Douwie"
+        ],
+        [
+            "Mr. Krumbein"
+        ],
+        [
+            "John"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Tommy",
+            "to": "Tom Benton",
+            "label": "P3",
+            "evidence": [
+                18,
+                25,
+                29,
+                63,
+                78,
+                117,
+                152
+            ]
+        },
+        {
+            "from": "Tom Benton",
+            "to": "Tommy",
+            "label": "P2",
+            "evidence": [
+                25,
+                60
+            ]
+        },
+        {
+            "from": "Tommy",
+            "to": "Helen Benton",
+            "label": "P3",
+            "evidence": [
+                16,
+                20,
+                73,
+                78,
+                92,
+                98,
+                117,
+                123,
+                128,
+                143
+            ]
+        }
+    ]
+}
