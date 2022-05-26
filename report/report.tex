@@ -94,6 +94,16 @@ The field of recognising the content and structure of texts and extracting conte
 
 %------------------------------------------------
 
+\section*{Related Work}
+
+J. Leng and P. Jiang explored relationship extraction using a deep learning approach to help support decision making in a social manufacturing context. This paper focused on creating a deep learning model that is based on an improved stacked denoising auto-encoder on sentence-level features. This models extracts manufacturing relationships, named entities, and text-based contexts. Their results reveal that this approach produces similar performance with the latest learning models.~\cite{leng2016deep}
+
+C. Giles and J. Wren developed an SVM classifier using NLP-based approaches to extract relationships between entities such as genes, chemicals, metabolites, phenotypes, and diseases. The classifier would label what kind of relationship there is between two entities such as positive or negative, then detect what type of semantic relationship they have such as binds, cleaves, etc. The main goal of this paper was to get the highest accuracy possible to prevent contradictions, but some inaccuracy was expected. SVM cross validation showed that the implementation had a good F1 score at 88\%.~\cite{giles2008large}
+
+A. Roberts el al. worked on a supervised machine learning system (SVM) which was trained on a corpus of patient narratives which were manually annotated with clinical relationships. To evaluate the model, a standard ten-fold cross validation methodology and standard evaluation metrics were used. This resulted in an F1 score of 75\% The paper concluded that it is possible to extract (clinical) relationships from text using an SVM with shallow features. ~\cite{roberts2008extracting}
+
+V. Devisree and PC. Reghu Raj combined the unsupervised and supervised approaches to create a hybrid model that is able to extract relationships from stories. The model identifies the main characters, collects sentences that relate to them, then these sentences are analyzed, and finally, the relationship between the characters is classified. Whilst training if the sentence is classified, then it goes through the supervised section of the model and if it's unclassified, it goes through the unsupervised section of the model.l The corpus used was a set of 100 short stories for kids, which contained multiple different relationship types. Three relationship categories were used; Parent-Child, Friendship, No-Relation, The hybrid model managed to achieve an F1 score of 83\%  ~\cite{devisree2016hybrid}
+
 \section*{Methods}
 
 In the group, we decided to try to analyse different short stories to extract information about the characters who appear in the texts and to find out what kind of relationships these characters are in.
@@ -155,7 +165,6 @@ CasRel is sentence oriented. That means that in the first step model discovers i
 On the other hand, DocuNET (Document U-shaped Network) is document-oriented. That means the model tries to find relations between entities over the whole document. According to the article~\cite{ijcai2021-551}, above \numprint{40.7}\% of relations can only be identified at the document level, and this model is the first that implements relation extraction as semantic segmentation. The approach is similar to computer vision, where each pixel is classified into one visual object. On the same principle, DocuNET tries to classify two entities into one of the known relations.
 
 We think that the second model would be more appropriate for our task because of the document level orientation. However, we're trying to use the first model to aid in annotating the data in preparation for training the final model since annotating all the data by hand would take a lot of time and effort.
-
 
 
 %\subsection*{Equations}
