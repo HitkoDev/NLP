@@ -1,1 +1,70 @@
-{"persons": [["Isobel Smith"], ["Isobel Smith d'Larte"], ["Arnaud d'Larte"], ["Isobel"], ["Isobel d'Larte"], ["the Prosecutor"], ["Sergeant Melot"]], "relations": [{"from": "", "to": "", "label": "", "evidence": []}]}
+{
+    "persons": [
+        [
+            "Isobel Smith",
+            "Isobel Smith d'Larte",
+            "Isobel",
+            "Isobel d'Larte",
+            "Mrs. d'Larte"
+        ],
+        [
+            "Arnaud d'Larte",
+            "Mr. d'Larte",
+            "Arnaud"
+        ],
+        [
+            "the Prosecutor",
+            "The Prosecutor"
+        ],
+        [
+            "Sergeant Melot"
+        ],
+        [
+            "Mrs. Abby Watson",
+            "Abby Watson",
+            "Watson"
+        ],
+        [
+            "Bella Whychek",
+            "Miss Whychek",
+            "Mrs. Whychek",
+            "Whychek"
+        ],
+        [
+            "Rodger"
+        ],
+        [
+            "Andy Kirk",
+            "Kirk",
+            "Andy"
+        ]
+    ],
+    "relations": [
+        {
+            "from": "Isobel Smith",
+            "to": "Arnaud d'Larte",
+            "label": "P1",
+            "evidence": [
+                4,
+                12,
+                22,
+                23,
+                71,
+                102,
+                170,
+                176,
+                178,
+                183,
+                186,
+                190,
+                192,
+                201,
+                253,
+                359,
+                365,
+                386,
+                431
+            ]
+        }
+    ]
+}
