@@ -1,5 +1,6 @@
 # +
 import json
+from os.path import exists
 
 with open('./stories.jsonl', 'r') as file:
     lines = file.read().split('\n')
@@ -48,12 +49,14 @@ for f, v in mps.items():
             "sents": sents,
             "vertexSet": list(vm.values())
         }))
-
-    with open(f.replace('.json', '.persons.json'), 'w') as file:
-        file.write(json.dumps({
-            "persons": [[k] for k in vm],
-            "relations": [{"from": "", "to": "", "label": "", "evidence": []}]
-        }))
+        
+    prsF = f.replace('.json', '.persons.json')
+    if not exists(prsF):
+        with open(prsF, 'w') as file:
+            file.write(json.dumps({
+                "persons": [[k] for k in vm],
+                "relations": [{"from": "", "to": "", "label": "", "evidence": []}]
+            }))
 # -
 
 # ### At this point `*.persons.json` files have been generated; edit those files to group all names which belong to the same person and indicate family relationships
@@ -103,6 +106,31 @@ for f in files:
 
     with open(fr.replace('./', '../final/stories/'), 'w') as file:
         file.write(json.dumps(data))
+
+# +
+import glob
+import json
+import random
+
+files = glob.glob('../final/stories/*.json')
+
+combined = []
+for f in files:
+    with open(f, 'r') as file:
+        data = json.loads(file.read())
+
+    combined.append(data)
+
+random.shuffle(combined)
+
+with open('../final/dev.json', 'w') as file:
+    file.write(json.dumps([combined[0]]))
+
+with open('../final/test.json', 'w') as file:
+    file.write(json.dumps([combined[1]]))
+
+with open('../final/train.json', 'w') as file:
+    file.write(json.dumps(combined[2:]))
 # -
 
 
