@@ -23,7 +23,7 @@ if true; then
     --train_batch_size $bs \
     --test_batch_size $bs \
     --gradient_accumulation_steps $accum \
-    --num_labels 3 \
+    --num_labels 1 \
     --learning_rate $ul \
     --max_grad_norm 1.0 \
     --warmup_ratio 0.06 \
@@ -53,7 +53,7 @@ if true; then
     --train_batch_size $bs \
     --test_batch_size $bs \
     --gradient_accumulation_steps $accum \
-    --num_labels 4 \
+    --num_labels 2 \
     --learning_rate $ul \
     --max_grad_norm 1.0 \
     --warmup_ratio 0.06 \

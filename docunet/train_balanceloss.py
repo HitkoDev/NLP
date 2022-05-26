@@ -163,6 +163,10 @@ def evaluate(args, model, features, tag="dev"):
     average_loss = total_loss / (i + 1)
     preds = np.concatenate(preds, axis=0).astype(np.float32)
     ans = to_official(preds, features)
+    best_f1 = 0
+    best_f1_ign = 1
+    re_p = 0
+    re_r = 0
     if len(ans) > 0:
         best_f1, _, best_f1_ign, _, re_p, re_r = official_evaluate(ans, args.data_dir)
     output = {
