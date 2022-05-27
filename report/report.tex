@@ -94,78 +94,84 @@ The field of recognising the content and structure of texts and extracting conte
 
 %------------------------------------------------
 
-\section*{Related Work}
+\subsection*{Related Work}
 
-J. Leng and P. Jiang explored relationship extraction using a deep learning approach to help support decision making in a social manufacturing context. This paper focused on creating a deep learning model that is based on an improved stacked denoising auto-encoder on sentence-level features. This models extracts manufacturing relationships, named entities, and text-based contexts. Their results reveal that this approach produces similar performance with the latest learning models.~\cite{leng2016deep}
+J. Leng and P. Jiang explored relationship extraction using a deep learning approach to help support decision making in a social manufacturing context. This paper focused on creating a deep learning model that is based on an improved stacked denoising auto-encoder on sentence-level features. This model extracts manufacturing relationships, named entities, and text-based contexts. Their results reveal that this approach produces similar performance to the latest learning models.~\cite{leng2016deep}
 
-C. Giles and J. Wren developed an SVM classifier using NLP-based approaches to extract relationships between entities such as genes, chemicals, metabolites, phenotypes, and diseases. The classifier would label what kind of relationship there is between two entities such as positive or negative, then detect what type of semantic relationship they have such as binds, cleaves, etc. The main goal of this paper was to get the highest accuracy possible to prevent contradictions, but some inaccuracy was expected. SVM cross validation showed that the implementation had a good F1 score at 88\%.~\cite{giles2008large}
+C. Giles and J. Wren developed an SVM classifier using NLP-based approaches to extract relationships between entities such as genes, chemicals, metabolites, phenotypes, and diseases. The classifier would label what kind of relationship there is between two entities, such as positive or negative, then detect what type of semantic relationship they have, such as binds, cleaves, etc. The main goal of this paper was to get the highest accuracy possible to prevent contradictions, but some inaccuracy was expected. SVM cross-validation showed that the implementation had a good F1 score at \numprint{88}\%.~\cite{giles2008large}
 
-A. Roberts el al. worked on a supervised machine learning system (SVM) which was trained on a corpus of patient narratives which were manually annotated with clinical relationships. To evaluate the model, a standard ten-fold cross validation methodology and standard evaluation metrics were used. This resulted in an F1 score of 75\% The paper concluded that it is possible to extract (clinical) relationships from text using an SVM with shallow features. ~\cite{roberts2008extracting}
+A. Roberts et al. worked on a supervised machine learning system (SVM) which was trained on a corpus of patient narratives which were manually annotated with clinical relationships. To evaluate the model, a standard ten-fold cross-validation methodology and standard evaluation metrics were used. This resulted in an F1 score of \numprint{75}\%. The paper concluded that it is possible to extract (clinical) relationships from text using an SVM with shallow features. ~\cite{roberts2008extracting}
 
-V. Devisree and PC. Reghu Raj combined the unsupervised and supervised approaches to create a hybrid model that is able to extract relationships from stories. The model identifies the main characters, collects sentences that relate to them, then these sentences are analyzed, and finally, the relationship between the characters is classified. Whilst training if the sentence is classified, then it goes through the supervised section of the model and if it's unclassified, it goes through the unsupervised section of the model.l The corpus used was a set of 100 short stories for kids, which contained multiple different relationship types. Three relationship categories were used; Parent-Child, Friendship, No-Relation, The hybrid model managed to achieve an F1 score of 83\%  ~\cite{devisree2016hybrid}
+V. Devisree and PC. Reghu Raj combined the unsupervised and supervised approaches to create a hybrid model that is able to extract relationships from stories. The model identifies the main characters, collects sentences that relate to them, then these sentences are analysed, and finally, the relationship between the characters is classified. Whilst training, if the sentence is classified, then it goes through the supervised section of the model, and if it's unclassified, it goes through the unsupervised section of the model.l The corpus used was a set of \numprint{100} short stories for kids, which contained multiple different relationship types. Three relationship categories were used; Parent-Child, Friendship, and No-Relation, the hybrid model managed to achieve an F1 score of \numprint{83}\%  ~\cite{devisree2016hybrid}.
 
 \section*{Methods}
 
 In the group, we decided to try to analyse different short stories to extract information about the characters who appear in the texts and to find out what kind of relationships these characters are in.
 
-First, we found a collection of English short stories and chose a subset of them for training. Then, in the python programming language, we will use libraries such as NLTK, SpaCy, SNER, GATE... to determine which characters appear in the stories. At this stage, it will be necessary to extract the characters' actual names from the text and ensure that the correct numbers of characters and their positions in the text are extracted.
+First, we found a collection of English short stories and chose a subset of them for training. We took two datasets of stories, both based on data from Project Gutenberg. We used NLTK to split each story into sentences and selected the stories with at most \numprint{1000} sentences. Then we used spaCy's English language model to tokenise the sentences and search each story for words indicating family relationships. We calculated the average number of such words per sentence and selected only the stories where at least \numprint{5}\% of sentences contain such words.
 
-In the second part, we will try to make a model that properly connects characters in pairs into family relations. The model should determine whether a couple of characters are in a family relationship and, if so, then determine the type of relation. Due to the complexity of the task, we decided not to classify relations which are not family-related. We think that discovering family relations is a complex enough task.
+This resulted in a total of \numprint{96} candidate stories; however, not all of them were suitable as they didn't contain many named characters. Such stories might, for example, contain references to the mother or father of the main character but never state their names. That's why we took spaCy's transformer-based English language model to do NER (named entity recognition) and filter out the stories with less than \numprint{4} named persons.
 
-As part of the task, we will review the models that have already been implemented and, based on the results of the solutions already made, make our own model that would classify as accurately as possible.
-
+In the end, we got \numprint{47} short stories and a rough list of recognised persons for each story. The goal was first to improve the NER model to fix incorrect labels and detect the "poetic names," e.g. when a person is referred to as "the Bearded One" throughout the story. Then we needed to group all names belonging to the same person, and add the data about family relationships, so it would be suitable for training DocRed~\cite{yao2019DocRED}-derived models for document-level relation extraction, such as DocuNet~\cite{ijcai2021-551}.
 
 %Use the Methods section to describe what you did an how you did it -- in what way did you prepare the data, what algorithms did you use, how did you test various solutions ... Provide all the required details for a reproduction of your work.
 
 %Below are \LaTeX examples of some common elements that you will probably need when writing your report (e.g. figures, equations, lists, code examples ...).
 
-\section*{Existing solutions}
+%\section*{Existing solutions}
 
-The use of deep neural networks is on the rise in already implemented solutions, but other approaches and combinations of these are also used in models for classifying family relations between persons in the text, such as rule-based approaches, utterance attribution and vocative detection technique and unsupervised approach to the extraction of interpersonal relations are described in the articles, which we intend to take as a basis for further work.
+%The use of deep neural networks is on the rise in already implemented solutions, but other approaches and combinations of these are also used in models for classifying family relations between persons in the text, such as rule-based approaches, utterance attribution and vocative detection technique and unsupervised approach to the extraction of interpersonal relations are described in the articles, which we intend to take as a basis for further work.
 
-\section*{Relations}
+%\section*{Relations}
 
-We decided to check if the following relations occur between the character in short stories:
+%We decided to check if the following relations occur between the character in short stories:
 
-\begin{itemize}
-\itemsep0em
-\item Wife
-\item Husband
-\item Mother
-\item Father
-\item Daughter
-\item Son
-\item Sister
-\item Brother
-\item Grandmother
-\item Grandfather
-\item Granddaughter
-\item Grandson
-\item Mother-in-law
-\item Father-in-law
-\item Daughter-in-law
-\item Son-in-law
-\item Sister-in-law
-\item Brother-in-law
-\item Aunt
-\item Uncle
-\item Niece
-\item Nephew
-\item Cousin
-\end{itemize}
+% \begin{itemize}
+% \itemsep0em
+% \item Wife
+% \item Husband
+% \item Mother
+% \item Father
+% \item Daughter
+% \item Son
+% \item Sister
+% \item Brother
+% \item Grandmother
+% \item Grandfather
+% \item Granddaughter
+% \item Grandson
+% \item Mother-in-law
+% \item Father-in-law
+% \item Daughter-in-law
+% \item Son-in-law
+% \item Sister-in-law
+% \item Brother-in-law
+% \item Aunt
+% \item Uncle
+% \item Niece
+% \item Nephew
+% \item Cousin
+% \end{itemize}
 
-Those are the broadest family relations we intend to use. We expect that there will be no need to add new relationships. If the model proves to be too large for our task, some relations can be removed from the model.
+% Those are the broadest family relations we intend to use. We expect that there will be no need to add new relationships. If the model proves to be too large for our task, some relations can be removed from the model.
 
-\section*{Model}
+\subsection*{Data preparation}
 
-For extracting and classification family relatins in short stories, we are considering two models: CasRel~\cite{wei2020CasRel} and DocuNetl~\cite{ijcai2021-551}.
+We used Prodigy to improve data annotation, as it's aimed to complement spaCy, and it offers a really simple UI as well as on-line model training for semi-supervised data annotation. The resulting model can then directly be used with spaCy on new data.
 
-CasRel is sentence oriented. That means that in the first step model discovers identities and in the second step applies relation-specific taggers to identify all possible relations and the corresponding object simultaneously. Relations are represented with relational triples (subject, relation, object). The model takes all subjects in a sentence and, for each subject, iterates through relations and tries to find the object which is in a known relation with the subject. The model implements a more holistic approach to relation classification than usual, and, according to article~\cite{wei2020CasRel}, it achieved high accuracy on NYT and WebNLG datasets.
+Stories generally don't explicitly state relationships between persons in a single sentence; it's much more common for the relationships to be evident from several indirect sentences. That's why it's necessary to label such indirect sentences as "evidence" of a relationship between two persons. That's why the final dataset we prepared contains tokenised sentences, named entities (persons) and all different names each entity is referred to in the text, relationships between those entities, and finally, which sentences serve as evidence of such relationships.
 
-On the other hand, DocuNET (Document U-shaped Network) is document-oriented. That means the model tries to find relations between entities over the whole document. According to the article~\cite{ijcai2021-551}, above \numprint{40.7}\% of relations can only be identified at the document level, and this model is the first that implements relation extraction as semantic segmentation. The approach is similar to computer vision, where each pixel is classified into one visual object. On the same principle, DocuNET tries to classify two entities into one of the known relations.
+\section*{Results}
 
-We think that the second model would be more appropriate for our task because of the document level orientation. However, we're trying to use the first model to aid in annotating the data in preparation for training the final model since annotating all the data by hand would take a lot of time and effort.
+The resulting NER model achieved accuracy above \numprint{90}\% on the stories, which is a significant improvement over \numprint{67}\% achieved by spaCy's RoBERTa-based model for the English language.
 
+The final relation extraction model, however, wasn't able to achieve the expected results, as it quickly started overfitting due to a relatively small dataset and only achieved the best F1 score of \numprint{4}\%.
+
+%------------------------------------------------
+
+\section*{Discussion}
+
+Clearly, a dataset of \numprint{47} stories isn't sufficient to train a large NLP model, and significantly more data would be needed to achieve a sufficient improvement or come close to the state-of-the-art models for document-level relation extraction of over \numprint{60}\%. To speed up data annotation for such a dataset, it would make sense to define a custom config for Prodigy where all labelling could be done in a single step; however, for our purposes and the scale of the problem, it would take longer to do that than it did to do the last step of labelling manually in a text editor.
 
 %\subsection*{Equations}
 
@@ -290,13 +296,6 @@ We think that the second model would be more appropriate for our task because of
 % Nulla rhoncus tortor eget ipsum commodo lacinia sit amet eu urna. Cras maximus leo mauris, ac congue eros sollicitudin ac. Integer vel erat varius, scelerisque orci eu, tristique purus. Proin id leo quis ante pharetra suscipit et non magna. Morbi in volutpat erat. Vivamus sit amet libero eu lacus pulvinar pharetra sed at felis. Vivamus non nibh a orci viverra rhoncus sit amet ullamcorper sem. Ut nec tempor dui. Aliquam convallis vitae nisi ac volutpat. Nam accumsan, erat eget faucibus commodo, ligula dui cursus nisi, at laoreet odio augue id eros. Curabitur quis tellus eget nunc ornare auctor.
 
 % Phasellus in ligula nunc. Vivamus sem lorem, malesuada sed pretium quis, varius convallis lectus. Quisque in risus nec lectus lobortis gravida non a sem. Quisque et vestibulum sem, vel mollis dolor. Nullam ante ex, scelerisque ac efficitur vel, rhoncus quis lectus. Pellentesque scelerisque efficitur purus in faucibus. Maecenas vestibulum vulputate nisl sed vestibulum.
-
-
-%------------------------------------------------
-
-% \section*{Discussion}
-
-% Use the Discussion section to objectively evaluate your work, do not just put praise on everything you did, be critical and exposes flaws and weaknesses of your solution. You can also explain what you would do differently if you would be able to start again and what upgrades could be done on the project in the future.
 
 
 %------------------------------------------------
